@@ -1,0 +1,259 @@
+# Pages CMS — Web-Aktualnosci: Aktualności i obrony doktorskie.
+# Wygenerowane przy migracji z Avean/IM-Website-test; pola „Opublikowany” usunięte (bez wersji roboczych).
+media:
+  input: public/pliki
+  output: /pliki
+  rename: safe
+settings:
+  commit:
+    identity: user
+content:
+- name: aktualnosci
+  label: Aktualności
+  type: collection
+  path: src/content/aktualnosci
+  format: yaml-frontmatter
+  filename:
+    template: '{year}-{month}-{day}-{primary}.md'
+    field: create
+  view:
+    fields:
+    - tytul
+    - data
+    - rodzaj
+    primary: tytul
+    sort: data
+    order: desc
+  fields:
+  - name: tytul
+    label: Tytuł
+    type: string
+    required: true
+  - name: data
+    label: Data publikacji
+    type: date
+    required: true
+    options:
+      format: yyyy-MM-dd
+  - name: rodzaj
+    label: Rodzaj
+    type: select
+    default: ogloszenie
+    options:
+      values:
+      - name: ogloszenie
+        label: Ogłoszenie
+      - name: wydarzenie
+        label: Wydarzenie
+      - name: sukces
+        label: Sukces
+      - name: kariera
+        label: Kariera
+  - name: dla
+    label: Dla kogo
+    type: select
+    options:
+      multiple: true
+      values:
+      - name: studenci
+        label: Studenci
+      - name: doktoranci
+        label: Doktoranci
+      - name: pracownicy
+        label: Pracownicy
+      - name: kandydaci
+        label: Kandydaci
+  - name: zajawka
+    label: Zajawka (1–2 zdania na listę i stronę główną)
+    type: text
+  - name: zdjecie
+    label: Zdjęcie główne
+    type: image
+    options:
+      path: public/pliki/aktualnosci
+  - name: zdjecie_opis
+    label: Podpis / opis zdjęcia (np. kto jest na zdjęciu, autor)
+    type: string
+  - name: wyroznij_do
+    label: Wyróżnij na stronie głównej do… (żółty pasek; puste = bez wyróżnienia)
+    type: date
+    options:
+      format: yyyy-MM-dd
+  - name: wydarzenie_poczatek
+    label: 'Wydarzenie: początek (puste = to nie jest wydarzenie)'
+    type: date
+    options:
+      time: true
+      format: yyyy-MM-dd'T'HH:mm
+  - name: wydarzenie_koniec
+    label: 'Wydarzenie: koniec (opcjonalnie)'
+    type: date
+    options:
+      time: true
+      format: yyyy-MM-dd'T'HH:mm
+  - name: wydarzenie_miejsce
+    label: 'Wydarzenie: miejsce (np. sala WS, Instytut Matematyczny UWr)'
+    type: string
+  - name: body
+    label: Treść
+    type: rich-text
+    options:
+      format: markdown
+      path: public/pliki/aktualnosci
+  - name: galeria
+    label: Galeria zdjęć
+    type: object
+    list: true
+    fields:
+    - name: plik
+      label: Zdjęcie
+      type: image
+      options:
+        path: public/pliki/aktualnosci
+    - name: podpis
+      label: Podpis
+      type: string
+  - name: album
+    label: Link do pełnego albumu (np. Google Photos, Flickr)
+    type: string
+  - name: zalaczniki
+    label: Załączniki (PDF itp.)
+    type: object
+    list: true
+    fields:
+    - name: nazwa
+      label: Nazwa wyświetlana
+      type: string
+    - name: plik
+      label: Plik
+      type: file
+      options:
+        path: public/pliki/aktualnosci
+  - name: zaklad
+    label: Zakład (opcjonalnie — wpis pojawi się też na stronie zakładu)
+    type: select
+    options:
+      values: &id001
+      - name: algebra-i-teoria-modeli
+        label: Zakład Algebry i Teorii Modeli
+      - name: analiza-funkcjonalna
+        label: Zakład Analizy Funkcjonalnej
+      - name: analiza-matematyczna
+        label: Zakład Analizy Matematycznej
+      - name: dydaktyka
+        label: Pracownia Dydaktyki i Popularyzacji Matematyki
+      - name: geometria
+        label: Zakład Geometrii
+      - name: rownania-rozniczkowe
+        label: Zakład Równań Różniczkowych
+      - name: statystyka
+        label: Zakład Statystyki
+      - name: teoria-mnogosci-i-topologia
+        label: Zakład Teorii Mnogości i Topologii
+      - name: teoria-prawdopodobienstwa
+        label: Zakład Teorii Prawdopodobieństwa
+    description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
+  - name: tytul_en
+    label: 'EN: tytuł'
+    type: string
+  - name: zajawka_en
+    label: 'EN: zajawka'
+    type: text
+  - name: tresc_en
+    label: 'EN: treść (Markdown; puste = wersja angielska pokaże treść po polsku)'
+    type: text
+- name: obrony
+  label: Obrony doktorskie
+  type: collection
+  path: src/content/obrony
+  format: yaml-frontmatter
+  filename:
+    template: '{year}-{month}-{day}-{primary}.md'
+    field: create
+  view:
+    fields:
+    - kandydat
+    - termin
+    primary: kandydat
+    sort: termin
+    order: desc
+  fields:
+  - name: kandydat
+    label: Imię i nazwisko doktoranta
+    type: string
+    required: true
+  - name: tytul_rozprawy
+    label: Tytuł rozprawy
+    type: string
+    required: true
+  - name: promotorzy
+    label: Promotor / promotorzy
+    type: string
+    list: true
+  - name: termin
+    label: Termin obrony
+    type: date
+    required: true
+    options:
+      time: true
+      format: yyyy-MM-dd'T'HH:mm
+  - name: miejsce
+    label: Miejsce
+    type: string
+    default: sala WS, Instytut Matematyczny UWr
+  - name: data_ogloszenia
+    label: Data ogłoszenia (pozycja na liście aktualności)
+    type: date
+    options:
+      format: yyyy-MM-dd
+  - name: w_aktualnosciach
+    label: Pokaż też w aktualnościach
+    type: boolean
+    default: true
+  - name: zawiadomienie
+    label: Zawiadomienie o obronie (PDF)
+    type: file
+    options:
+      path: public/pliki/obrony
+  - name: rozprawa
+    label: Rozprawa doktorska (PDF)
+    type: file
+    options:
+      path: public/pliki/obrony
+  - name: streszczenie_pl
+    label: Streszczenie po polsku (PDF)
+    type: file
+    options:
+      path: public/pliki/obrony
+  - name: streszczenie_en
+    label: Streszczenie po angielsku (PDF)
+    type: file
+    options:
+      path: public/pliki/obrony
+  - name: recenzje
+    label: Recenzje
+    type: object
+    list: true
+    fields:
+    - name: recenzent
+      label: Recenzent (np. prof. dr hab. Jan Kowalski)
+      type: string
+    - name: plik
+      label: Recenzja (PDF)
+      type: file
+      options:
+        path: public/pliki/obrony
+  - name: bip
+    label: Link do ogłoszenia w BIP (opcjonalnie)
+    type: string
+  - name: zaklad
+    label: Zakład (opcjonalnie)
+    type: select
+    options:
+      values: *id001
+    description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
+  - name: body
+    label: Dodatkowy opis (opcjonalnie)
+    type: rich-text
+    options:
+      format: markdown
