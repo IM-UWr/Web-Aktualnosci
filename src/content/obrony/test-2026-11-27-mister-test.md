@@ -18,9 +18,9 @@ Zapraszamy na publiczną obronę rozprawy doktorskiej mgr Mister Test pt. *Topol
 
 ## Recenzenci
 
-- prof. Mister Test (Université Paris Cité)
-- dr hab. Mister Test, prof. UW (Uniwersytet Warszawski)
-- prof. dr hab. Mister Test (Uniwersytet Łódzki)
+- prof. Mister Test (Uniwersytet Test)
+- dr hab. Mister Test (Uniwersytet Test)
+- prof. dr hab. Mister Test (Uniwersytet Test)
 
 ## Streszczenie
 

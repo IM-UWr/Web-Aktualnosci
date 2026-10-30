@@ -19,9 +19,9 @@ Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Mister Test pt. *Regu
 
 ## Recenzenci
 
-- prof. dr hab. Mister Test (Uniwersytet Jagielloński)
+- prof. dr hab. Mister Test (Uniwersytet Test)
 - prof. Mister Test Ruiz (Universidad de Granada)
-- dr hab. Mister Test (Politechnika Wrocławska)
+- dr hab. Mister Test (Uniwersytet Test)
 
 ## Streszczenie
 

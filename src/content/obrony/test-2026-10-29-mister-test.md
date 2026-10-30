@@ -18,9 +18,9 @@ Zapraszamy na publiczną obronę rozprawy doktorskiej mgr Mister Test pt. *Spect
 
 ## Recenzenci
 
-- prof. dr hab. Mister Test (Uniwersytet Warszawski)
-- prof. Mister Test (Université de Lille)
-- dr hab. Mister Test, prof. UJ (Uniwersytet Jagielloński)
+- prof. dr hab. Mister Test (Uniwersytet Test)
+- prof. Mister Test (Uniwersytet Test)
+- dr hab. Mister Test (Uniwersytet Test)
 
 ## Streszczenie
 
