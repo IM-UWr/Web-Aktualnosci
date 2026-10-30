@@ -186,6 +186,14 @@ content:
     label: Tytuł rozprawy
     type: string
     required: true
+  - name: zdjecie
+    label: Zdjęcie (opcjonalne; puste = domyślna grafika obrony)
+    type: image
+    options:
+      path: public/pliki/aktualnosci
+  - name: zdjecie_opis
+    label: Podpis / opis zdjęcia
+    type: string
   - name: promotorzy
     label: Promotor / promotorzy
     type: string
