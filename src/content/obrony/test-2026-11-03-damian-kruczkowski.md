@@ -1,5 +1,5 @@
 ---
-kandydat: "Damian Kruczkowski"
+kandydat: "Testowe: Damian Kruczkowski"
 tytul_rozprawy: "Regularity of free boundaries in the thin obstacle problem with variable coefficients"
 promotorzy:
   - "dr hab. Lucyna Orzechowska, prof. UWr"

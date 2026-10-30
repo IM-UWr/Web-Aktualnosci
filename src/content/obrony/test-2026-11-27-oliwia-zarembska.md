@@ -1,5 +1,5 @@
 ---
-kandydat: "Oliwia Zarembska"
+kandydat: "Testowe: Oliwia Zarembska"
 tytul_rozprawy: "Topological dynamics of automorphism groups of countable homogeneous structures"
 promotorzy:
   - "prof. dr hab. Florian Gawęcki"

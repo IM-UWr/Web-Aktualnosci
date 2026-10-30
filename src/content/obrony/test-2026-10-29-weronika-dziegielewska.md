@@ -1,5 +1,5 @@
 ---
-kandydat: "Weronika Dzięgielewska"
+kandydat: "Testowe: Weronika Dzięgielewska"
 tytul_rozprawy: "Spectral gaps and cutoff for random walks on finite groups"
 promotorzy:
   - "prof. dr hab. Bogumił Sarnecki"

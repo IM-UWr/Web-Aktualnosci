@@ -1,5 +1,5 @@
 ---
-tytul: "Spotkanie koła naukowego: gry kombinatoryczne, czyli dlaczego wszystko jest Nimem"
+tytul: "Testowe: Spotkanie koła naukowego: gry kombinatoryczne, czyli dlaczego wszystko jest Nimem"
 data: "2026-10-28"
 rodzaj: "wydarzenie"
 dla:
@@ -10,7 +10,7 @@ zdjecie_opis: "Tabela dodawania w grze Nim (a XOR b); bursztynowe pola na przek�
 wydarzenie_poczatek: "2026-11-02T18:15"
 wydarzenie_koniec: "2026-11-02T19:45"
 wydarzenie_miejsce: "sala 603, Instytut Matematyczny UWr"
-tytul_en: "Student club meeting: combinatorial games, or why everything is Nim"
+tytul_en: "Test: Student club meeting: combinatorial games, or why everything is Nim"
 zajawka_en: "A popular talk on combinatorial games and the Sprague–Grundy theorem. Free entry, no registration needed."
 tresc_en: |
   The **Students' Scientific Club of Theoretical Mathematicians** invites you on Monday **2 November** at **18:15** to room **603** for a talk by **Tymon Grabczak** (3rd-year mathematics student):

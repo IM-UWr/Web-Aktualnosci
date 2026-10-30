@@ -1,5 +1,5 @@
 ---
-tytul: "Wykład otwarty: Co macierze losowe wiedzą o liczbach pierwszych?"
+tytul: "Testowe: Wykład otwarty: Co macierze losowe wiedzą o liczbach pierwszych?"
 data: "2026-10-30"
 rodzaj: "wydarzenie"
 dla:
@@ -12,7 +12,7 @@ zdjecie_opis: "Kolorowanie dziedziny wielomianu charakterystycznego losowej maci
 wydarzenie_poczatek: "2026-11-12T13:15"
 wydarzenie_koniec: "2026-11-12T14:45"
 wydarzenie_miejsce: "sala WS, Instytut Matematyczny UWr"
-tytul_en: "Open lecture: What do random matrices know about prime numbers?"
+tytul_en: "Test: Open lecture: What do random matrices know about prime numbers?"
 zajawka_en: "Prof. Henrike Vollmerhaus (Universität Leipzig) on the surprising link between the zeros of the Riemann zeta function and eigenvalues of random matrices."
 tresc_en: |
   You are cordially invited on Thursday **12 November** at **13:15** to room **WS** for an open lecture by Prof. **Henrike Vollmerhaus** (Universität Leipzig):

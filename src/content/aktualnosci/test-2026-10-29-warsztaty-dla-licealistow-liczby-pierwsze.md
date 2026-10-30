@@ -1,5 +1,5 @@
 ---
-tytul: "Warsztaty dla licealistów: od spirali Ulama do szyfru RSA"
+tytul: "Testowe: Warsztaty dla licealistów: od spirali Ulama do szyfru RSA"
 data: "2026-10-29"
 rodzaj: "wydarzenie"
 dla:
@@ -10,7 +10,7 @@ zdjecie_opis: "Spirala Ulama: liczby pierwsze jako jasne punkty, na bursztynowo 
 wydarzenie_poczatek: "2026-11-05T09:30"
 wydarzenie_koniec: "2026-11-05T13:30"
 wydarzenie_miejsce: "sala HS, Instytut Matematyczny UWr"
-tytul_en: "Workshop for secondary school students: from the Ulam spiral to RSA"
+tytul_en: "Test: Workshop for secondary school students: from the Ulam spiral to RSA"
 zajawka_en: "Four hours of activities on prime numbers and cryptography for secondary school students. Schools can register groups of up to 30."
 tresc_en: |
   On Thursday **5 November** from **9:30** to **13:30** we invite secondary school students to room **HS** for a workshop on prime numbers and cryptography.

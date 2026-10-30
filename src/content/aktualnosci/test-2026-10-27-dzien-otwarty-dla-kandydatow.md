@@ -1,5 +1,5 @@
 ---
-tytul: "Dzień otwarty matematyki dla kandydatów"
+tytul: "Testowe: Dzień otwarty matematyki dla kandydatów"
 data: "2026-10-27"
 rodzaj: "wydarzenie"
 dla:
@@ -10,7 +10,7 @@ zdjecie_opis: "Mozaika Voronoi w kolorach strony Instytutu. Grafika testowa"
 wydarzenie_poczatek: "2026-11-28T10:00"
 wydarzenie_koniec: "2026-11-28T14:00"
 wydarzenie_miejsce: "Instytut Matematyczny UWr, pl. Grunwaldzki 2"
-tytul_en: "Mathematics open day for prospective students"
+tytul_en: "Test: Mathematics open day for prospective students"
 zajawka_en: "Short lectures, meetings with students and science clubs, and everything about admission to mathematics. Saturday 28 November, 10:00–14:00."
 tresc_en: |
   On Saturday **28 November** from **10:00** to **14:00** we invite secondary school students, their parents and teachers to the Mathematical Institute's **open day**.
