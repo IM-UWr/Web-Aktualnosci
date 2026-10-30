@@ -6,16 +6,16 @@ dla:
   - "studenci"
   - "doktoranci"
   - "pracownicy"
-zajawka: "Prof. Henrike Vollmerhaus (Universität Leipzig) o zaskakującym związku zer funkcji dzeta Riemanna z wartościami własnymi macierzy losowych."
+zajawka: "Prof. Mister Test (Universität Leipzig) o zaskakującym związku zer funkcji dzeta Riemanna z wartościami własnymi macierzy losowych."
 zdjecie: "/pliki/aktualnosci/test-wyklad-macierze-losowe.jpg"
 zdjecie_opis: "Kolorowanie dziedziny wielomianu charakterystycznego losowej macierzy unitarnej; białe punkty to wartości własne na okręgu jednostkowym. Grafika testowa"
 wydarzenie_poczatek: "2026-11-12T13:15"
 wydarzenie_koniec: "2026-11-12T14:45"
 wydarzenie_miejsce: "sala WS, Instytut Matematyczny UWr"
 tytul_en: "Test: Open lecture: What do random matrices know about prime numbers?"
-zajawka_en: "Prof. Henrike Vollmerhaus (Universität Leipzig) on the surprising link between the zeros of the Riemann zeta function and eigenvalues of random matrices."
+zajawka_en: "Prof. Mister Test (Universität Leipzig) on the surprising link between the zeros of the Riemann zeta function and eigenvalues of random matrices."
 tresc_en: |
-  You are cordially invited on Thursday **12 November** at **13:15** to room **WS** for an open lecture by Prof. **Henrike Vollmerhaus** (Universität Leipzig):
+  You are cordially invited on Thursday **12 November** at **13:15** to room **WS** for an open lecture by Prof. **Mister Test** (Universität Leipzig):
 
   *What do random matrices know about prime numbers?*
 
@@ -29,7 +29,7 @@ tresc_en: |
 opublikowany: true
 ---
 
-Serdecznie zapraszamy w czwartek **12 listopada** o godz. **13:15** do sali **WS** na wykład otwarty prof. **Henrike Vollmerhaus** (Universität Leipzig) pt.
+Serdecznie zapraszamy w czwartek **12 listopada** o godz. **13:15** do sali **WS** na wykład otwarty prof. **Mister Test** (Universität Leipzig) pt.
 
 *What do random matrices know about prime numbers?*
 

@@ -1,8 +1,8 @@
 ---
-kandydat: "Testowe: Oliwia Zarembska"
+kandydat: "Testowe: Mister Test"
 tytul_rozprawy: "Topological dynamics of automorphism groups of countable homogeneous structures"
 promotorzy:
-  - "prof. dr hab. Florian Gawęcki"
+  - "prof. dr hab. Mister Test"
 termin: "2026-11-27T12:15"
 miejsce: "sala WS, Instytut Matematyczny UWr"
 data_ogloszenia: "2026-10-28"
@@ -12,15 +12,15 @@ w_aktualnosciach: true
 opublikowany: true
 ---
 
-Zapraszamy na publiczną obronę rozprawy doktorskiej mgr Oliwii Zarembskiej pt. *Topological dynamics of automorphism groups of countable homogeneous structures*.
+Zapraszamy na publiczną obronę rozprawy doktorskiej mgr Mister Test pt. *Topological dynamics of automorphism groups of countable homogeneous structures*.
 
 **Tytuł rozprawy po polsku:** *Dynamika topologiczna grup automorfizmów przeliczalnych struktur jednorodnych*
 
 ## Recenzenci
 
-- prof. Arnaud Delessert (Université Paris Cité)
-- dr hab. Agnieszka Szołdrska, prof. UW (Uniwersytet Warszawski)
-- prof. dr hab. Cyprian Bartoszczuk (Uniwersytet Łódzki)
+- prof. Mister Test (Université Paris Cité)
+- dr hab. Mister Test, prof. UW (Uniwersytet Warszawski)
+- prof. dr hab. Mister Test (Uniwersytet Łódzki)
 
 ## Streszczenie
 

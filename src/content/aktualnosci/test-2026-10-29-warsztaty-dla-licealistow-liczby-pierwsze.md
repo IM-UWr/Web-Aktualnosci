@@ -19,7 +19,7 @@ tresc_en: |
 
   In the second part we move to cryptography: from the Caesar cipher, through modular arithmetic and Fermat's little theorem, to the **RSA** cipher, whose security rests on the difficulty of factoring large numbers. Students will encrypt and decrypt messages in pairs and try to break a cipher with a key that is too short.
 
-  The workshop is run by Dr **Paulina Sośnicka** together with mathematics students. Teachers can register groups of up to 30 students; we provide materials and a short break with tea.
+  The workshop is run by Dr **Mister Test** together with mathematics students. Teachers can register groups of up to 30 students; we provide materials and a short break with tea.
 
   *Test entry — an example for previewing the new website.*
 opublikowany: true
@@ -31,6 +31,6 @@ Zaczniemy od **spirali Ulama**: jeśli kolejne liczby naturalne wypisać wzdłu�
 
 W drugiej części przejdziemy do kryptografii: od szyfru Cezara, przez arytmetykę modularną i małe twierdzenie Fermata, aż do szyfru **RSA**, którego bezpieczeństwo opiera się na trudności rozkładu dużych liczb na czynniki. Uczniowie będą w parach szyfrować i odszyfrowywać wiadomości, a na koniec spróbują złamać szyfr ze zbyt krótkim kluczem.
 
-Warsztaty prowadzi dr **Paulina Sośnicka** wraz ze studentami matematyki. Nauczyciele mogą zgłaszać grupy do 30 uczniów; zapewniamy materiały i krótką przerwę z herbatą.
+Warsztaty prowadzi dr **Mister Test** wraz ze studentami matematyki. Nauczyciele mogą zgłaszać grupy do 30 uczniów; zapewniamy materiały i krótką przerwę z herbatą.
 
 *Wpis testowy — przykład do podglądu nowej strony.*

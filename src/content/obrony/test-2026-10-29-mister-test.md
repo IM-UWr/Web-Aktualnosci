@@ -1,8 +1,8 @@
 ---
-kandydat: "Testowe: Weronika Dzięgielewska"
+kandydat: "Testowe: Mister Test"
 tytul_rozprawy: "Spectral gaps and cutoff for random walks on finite groups"
 promotorzy:
-  - "prof. dr hab. Bogumił Sarnecki"
+  - "prof. dr hab. Mister Test"
 termin: "2026-10-29T13:15"
 miejsce: "sala WS, Instytut Matematyczny UWr"
 data_ogloszenia: "2026-09-29"
@@ -12,15 +12,15 @@ w_aktualnosciach: true
 opublikowany: true
 ---
 
-Zapraszamy na publiczną obronę rozprawy doktorskiej mgr Weroniki Dzięgielewskiej pt. *Spectral gaps and cutoff for random walks on finite groups*.
+Zapraszamy na publiczną obronę rozprawy doktorskiej mgr Mister Test pt. *Spectral gaps and cutoff for random walks on finite groups*.
 
 **Tytuł rozprawy po polsku:** *Luki spektralne i zjawisko odcięcia dla błądzeń losowych na grupach skończonych*
 
 ## Recenzenci
 
-- prof. dr hab. Halina Wiatrowska (Uniwersytet Warszawski)
-- prof. Mathilde Lacoste-Rivière (Université de Lille)
-- dr hab. Kacper Lindner, prof. UJ (Uniwersytet Jagielloński)
+- prof. dr hab. Mister Test (Uniwersytet Warszawski)
+- prof. Mister Test (Université de Lille)
+- dr hab. Mister Test, prof. UJ (Uniwersytet Jagielloński)
 
 ## Streszczenie
 

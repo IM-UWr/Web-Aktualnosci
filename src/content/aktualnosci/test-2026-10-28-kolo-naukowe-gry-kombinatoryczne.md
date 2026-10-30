@@ -13,7 +13,7 @@ wydarzenie_miejsce: "sala 603, Instytut Matematyczny UWr"
 tytul_en: "Test: Student club meeting: combinatorial games, or why everything is Nim"
 zajawka_en: "A popular talk on combinatorial games and the Sprague–Grundy theorem. Free entry, no registration needed."
 tresc_en: |
-  The **Students' Scientific Club of Theoretical Mathematicians** invites you on Monday **2 November** at **18:15** to room **603** for a talk by **Tymon Grabczak** (3rd-year mathematics student):
+  The **Students' Scientific Club of Theoretical Mathematicians** invites you on Monday **2 November** at **18:15** to room **603** for a talk by **Mister Test** (3rd-year mathematics student):
 
   *Combinatorial games, or why everything is Nim*
 
@@ -27,7 +27,7 @@ tresc_en: |
 opublikowany: true
 ---
 
-**Koło Naukowe Matematyków Teoretyków** zaprasza w poniedziałek **2 listopada** o godz. **18:15** do sali **603** na referat **Tymona Grabczaka** (student III roku matematyki) pt.
+**Koło Naukowe Matematyków Teoretyków** zaprasza w poniedziałek **2 listopada** o godz. **18:15** do sali **603** na referat **Mister Test** (student III roku matematyki) pt.
 
 *Gry kombinatoryczne, czyli dlaczego wszystko jest Nimem*
 

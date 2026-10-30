@@ -1,9 +1,9 @@
 ---
-kandydat: "Testowe: Damian Kruczkowski"
+kandydat: "Testowe: Mister Test"
 tytul_rozprawy: "Regularity of free boundaries in the thin obstacle problem with variable coefficients"
 promotorzy:
-  - "dr hab. Lucyna Orzechowska, prof. UWr"
-  - "dr Igor Wawrzyniak (promotor pomocniczy)"
+  - "dr hab. Mister Test, prof. UWr"
+  - "dr Mister Test (promotor pomocniczy)"
 termin: "2026-11-03T14:00"
 miejsce: "sala WS, Instytut Matematyczny UWr"
 data_ogloszenia: "2026-10-02"
@@ -13,15 +13,15 @@ w_aktualnosciach: true
 opublikowany: true
 ---
 
-Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Damiana Kruczkowskiego pt. *Regularity of free boundaries in the thin obstacle problem with variable coefficients*.
+Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Mister Test pt. *Regularity of free boundaries in the thin obstacle problem with variable coefficients*.
 
 **Tytuł rozprawy po polsku:** *Regularność brzegu swobodnego w cienkim problemie z przeszkodą o zmiennych współczynnikach*
 
 ## Recenzenci
 
-- prof. dr hab. Zenon Przybyłowicz (Uniwersytet Jagielloński)
-- prof. Elena Castellanos Ruiz (Universidad de Granada)
-- dr hab. Sebastian Kluczyński (Politechnika Wrocławska)
+- prof. dr hab. Mister Test (Uniwersytet Jagielloński)
+- prof. Mister Test Ruiz (Universidad de Granada)
+- dr hab. Mister Test (Politechnika Wrocławska)
 
 ## Streszczenie
 
