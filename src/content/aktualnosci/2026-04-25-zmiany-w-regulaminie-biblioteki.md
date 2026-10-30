@@ -8,6 +8,7 @@ dla:
 zajawka: "Od 27 kwietnia biblioteki UWr naliczają opłaty za przetrzymywanie książek. Zmieniają się też limity i terminy wypożyczeń."
 zdjecie: "/pliki/aktualnosci/krasnal_41.jpg"
 zdjecie_opis: "Krasnal Matematyk przed Instytutem"
+zdjecie_opis_en: "The Mathematician dwarf (Krasnal Matematyk) in front of the Institute"
 tytul_en: "Changes to the library regulations"
 zajawka_en: "From 27 April, University of Wrocław libraries charge fees for overdue books. Loan limits and periods also change."
 tresc_en: |

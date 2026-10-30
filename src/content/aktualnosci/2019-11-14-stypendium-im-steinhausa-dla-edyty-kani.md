@@ -5,6 +5,7 @@ rodzaj: "sukces"
 zajawka: "Doktorantka mgr Edyta Kania otrzymała Stypendium im. Hugona Steinhausa przyznawane przez Wrocławskie Centrum Akademickie."
 zdjecie: "/pliki/aktualnosci/edyta_kania.jpg"
 zdjecie_opis: "Mgr Edyta Kania"
+zdjecie_opis_en: "Edyta Kania, MSc"
 tytul_en: "Hugo Steinhaus Scholarship for Edyta Kania"
 zajawka_en: "PhD student Edyta Kania has received the Hugo Steinhaus Scholarship awarded by the Wrocław Academic Centre."
 tresc_en: |

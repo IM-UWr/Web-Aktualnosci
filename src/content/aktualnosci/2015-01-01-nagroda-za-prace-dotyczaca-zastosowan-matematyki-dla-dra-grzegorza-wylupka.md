@@ -5,6 +5,7 @@ rodzaj: "sukces"
 zajawka: "Dr Grzegorz Wyłupek zdobył pierwszą nagrodę w III edycji konkursu Centrum Zastosowań Matematyki Politechniki Gdańskiej."
 zdjecie: "/pliki/aktualnosci/wylupek-199x300.jpg"
 zdjecie_opis: "Dr Grzegorz Wyłupek"
+zdjecie_opis_en: "Dr Grzegorz Wyłupek"
 tytul_en: "Prize for a paper on applied mathematics for Dr Grzegorz Wyłupek"
 zajawka_en: "Dr Grzegorz Wyłupek won first prize in the 3rd edition of the competition of the Centre for Applications of Mathematics at Gdańsk University of Technology."
 tresc_en: |

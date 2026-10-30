@@ -8,6 +8,7 @@ dla:
 zajawka: "Dr Tomasz Rzepecki otrzymał dodatek motywacyjny dla młodych naukowców w ramach programu „Inicjatywa Doskonałości – Uczelnia Badawcza”."
 zdjecie: "/pliki/aktualnosci/rzepecki2.jpg"
 zdjecie_opis: "Dr Tomasz Rzepecki"
+zdjecie_opis_en: "Dr Tomasz Rzepecki"
 tytul_en: "Tomasz Rzepecki wins a competition for young researchers"
 zajawka_en: "Dr Tomasz Rzepecki has received a motivational bonus for young researchers under the “Excellence Initiative – Research University” programme."
 tresc_en: |

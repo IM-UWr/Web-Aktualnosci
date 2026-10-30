@@ -8,6 +8,7 @@ dla:
 zajawka: "Laureatami pierwszej edycji nagrody zostali dr Piotr Dyszewski i dr hab. Michał Marcinkowski."
 zdjecie: "/pliki/aktualnosci/pdmm.jpg"
 zdjecie_opis: "Dr Piotr Dyszewski i dr hab. Michał Marcinkowski. Fot. P. Dyszewskiego: Paweł Piotrowski/Uniwersytet Wrocławski"
+zdjecie_opis_en: "Dr Piotr Dyszewski and Dr hab. Michał Marcinkowski. Photo of P. Dyszewski: Paweł Piotrowski/University of Wrocław"
 tytul_en: "Andrzej Hulanicki Award"
 zajawka_en: "Dr Piotr Dyszewski and Dr hab. Michał Marcinkowski are the winners of the first edition of the award."
 tresc_en: |

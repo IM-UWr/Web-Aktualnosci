@@ -8,6 +8,7 @@ dla:
 zajawka: "Praca magisterska Witolda Płechy zajęła drugie miejsce w LVIII Konkursie PTM na najlepszą pracę studencką z teorii prawdopodobieństwa i zastosowań matematyki."
 zdjecie: "/pliki/aktualnosci/witold_plecha_-_fot-_pawel_piotrowski.jpg"
 zdjecie_opis: "Witold Płecha. Fot. Paweł Piotrowski (UWr)"
+zdjecie_opis_en: "Witold Płecha. Photo: Paweł Piotrowski (UWr)"
 tytul_en: "Witold Płecha a laureate of the 58th competition for the best paper in probability theory and applied mathematics"
 zajawka_en: "Witold Płecha's master's thesis took second place in the 58th Polish Mathematical Society competition for the best student paper in probability theory and applied mathematics."
 tresc_en: |

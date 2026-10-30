@@ -5,6 +5,7 @@ rodzaj: "sukces"
 zajawka: "Doktorant mgr Piotr Dyszewski otrzymał Stypendium im. Hugona Steinhausa przyznawane przez Wrocławskie Centrum Akademickie."
 zdjecie: "/pliki/aktualnosci/dyszewski4.jpg"
 zdjecie_opis: "Mgr Piotr Dyszewski"
+zdjecie_opis_en: "Piotr Dyszewski, MSc"
 tytul_en: "Hugo Steinhaus Scholarship for Piotr Dyszewski"
 zajawka_en: "PhD student Piotr Dyszewski has received the Hugo Steinhaus Scholarship awarded by the Wrocław Academic Centre."
 tresc_en: |

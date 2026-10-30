@@ -8,6 +8,7 @@ dla:
 zajawka: "Dr Agnieszka Hejna została laureatką prestiżowej Nagrody im. Kazimierza Kuratowskiego."
 zdjecie: "/pliki/aktualnosci/agnieszka_hejna_2022.jpg"
 zdjecie_opis: "Dr Agnieszka Hejna"
+zdjecie_opis_en: "Dr Agnieszka Hejna"
 tytul_en: "Kazimierz Kuratowski Prize for Agnieszka Hejna"
 zajawka_en: "Dr Agnieszka Hejna has received the prestigious Kazimierz Kuratowski Prize."
 tresc_en: |

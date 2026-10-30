@@ -7,6 +7,7 @@ dla:
 zajawka: "Krzysztof Kępczyński zajął drugie miejsce w konkursie referatów studenckich podczas VII Krakowskiej Konferencji Matematyki Finansowej."
 zdjecie: "/pliki/aktualnosci/kkepczynski_2b.jpg"
 zdjecie_opis: "Krzysztof Kępczyński"
+zdjecie_opis_en: "Krzysztof Kępczyński"
 tytul_en: "Success of our student Krzysztof Kępczyński"
 zajawka_en: "Krzysztof Kępczyński took second place in the student talk competition at the 7th Kraków Conference on Mathematical Finance."
 tresc_en: |

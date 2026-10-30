@@ -8,6 +8,7 @@ dla:
 zajawka: "Doktorant Rafał Łyżwa otrzymał wyróżnienie w konkursie na najlepszą pracę magisterską z matematyki stosowanej."
 zdjecie: "/pliki/aktualnosci/rafal_lyzwa_1.jpg"
 zdjecie_opis: "Rafał Łyżwa"
+zdjecie_opis_en: "Rafał Łyżwa"
 tytul_en: "Rafał Łyżwa distinguished in the Marian Rejewski Competition"
 zajawka_en: "PhD student Rafał Łyżwa received an honourable mention in the competition for the best master's thesis in applied mathematics."
 tresc_en: |

@@ -5,6 +5,7 @@ rodzaj: "sukces"
 zajawka: "Dr Błażej Wróbel otrzymał Nagrodę Prezesa Rady Ministrów za rozprawę doktorską „Wielowymiarowe mnożniki spektralne”."
 zdjecie: "/pliki/aktualnosci/b_wrobel.jpg"
 zdjecie_opis: "Dr Błażej Wróbel"
+zdjecie_opis_en: "Dr Błażej Wróbel"
 tytul_en: "Prime Minister's Award for Błażej Wróbel"
 zajawka_en: "Dr Błażej Wróbel has received the Prime Minister's Award for his doctoral dissertation “Multivariate spectral multipliers”."
 tresc_en: |

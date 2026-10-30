@@ -8,6 +8,7 @@ dla:
 zajawka: "Prof. Piotr Biler został prezesem Oddziału Polskiej Akademii Nauk we Wrocławiu na kadencję 2024–2026."
 zdjecie: "/pliki/aktualnosci/biler3.jpg"
 zdjecie_opis: "Prof. Piotr Biler"
+zdjecie_opis_en: "Prof. Piotr Biler"
 tytul_en: "Piotr Biler elected President of the Wrocław Branch of the Polish Academy of Sciences"
 zajawka_en: "Prof. Piotr Biler has become President of the Wrocław Branch of the Polish Academy of Sciences for the 2024–2026 term."
 tresc_en: "We are pleased to announce that Prof. **Piotr Biler** has become President of the Wrocław Branch of the Polish Academy of Sciences for the 2024–2026 term."

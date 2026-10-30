@@ -7,6 +7,7 @@ dla:
 zajawka: "Dr Maciej Dołęga został laureatem Nagrody Naukowej POLITYKI w kategorii nauk ścisłych."
 zdjecie: "/pliki/aktualnosci/dolega_polityka.jpg"
 zdjecie_opis: "Laureaci Nagród Naukowych POLITYKI 2016"
+zdjecie_opis_en: "Winners of the POLITYKA Science Awards 2016"
 tytul_en: "Maciej Dołęga receives the POLITYKA Science Award"
 zajawka_en: "Dr Maciej Dołęga has received the POLITYKA weekly Science Award in the exact sciences category."
 tresc_en: |

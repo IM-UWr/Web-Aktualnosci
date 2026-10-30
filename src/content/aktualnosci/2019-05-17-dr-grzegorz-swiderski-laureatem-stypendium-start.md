@@ -7,6 +7,7 @@ dla:
 zajawka: "Dr Grzegorz Świderski otrzymał stypendium START Fundacji na rzecz Nauki Polskiej."
 zdjecie: "/pliki/aktualnosci/swiderski_new2_0.jpg"
 zdjecie_opis: "Dr Grzegorz Świderski"
+zdjecie_opis_en: "Dr Grzegorz Świderski"
 tytul_en: "Dr Grzegorz Świderski receives a START scholarship"
 zajawka_en: "Dr Grzegorz Świderski has received a START scholarship from the Foundation for Polish Science."
 tresc_en: |

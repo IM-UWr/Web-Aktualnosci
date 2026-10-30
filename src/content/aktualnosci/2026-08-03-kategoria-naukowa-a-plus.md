@@ -8,6 +8,7 @@ dla:
 zajawka: "Dyscyplina matematyka na Uniwersytecie Wrocławskim otrzymała najwyższą ocenę naukową A+."
 zdjecie: "/pliki/aktualnosci/decyzja_5_704_2026_matematyka.jpg"
 zdjecie_opis: "Decyzja Ministra Nauki i Szkolnictwa Wyższego"
+zdjecie_opis_en: "Decision of the Minister of Science and Higher Education"
 wyroznij_do: "2026-10-24"
 tytul_en: "We have been awarded the A+ research category"
 zajawka_en: "Mathematics at the University of Wrocław received the highest research rating, A+."

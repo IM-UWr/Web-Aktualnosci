@@ -7,6 +7,7 @@ dla:
 zajawka: "Krajowa Szkoła Administracji Publicznej prowadziła od 4 maja do 24 lipca 2026 r. rekrutację do kolejnej edycji kształcenia stacjonarnego dla absolwentów studiów magisterskich."
 zalaczniki:
   - nazwa: "Ulotka informacyjna KSAP (PDF)"
+    nazwa_en: "KSAP information leaflet (PDF, Polish)"
     plik: "/pliki/studia/oferty-pracy/ksap_ulotka_online.pdf"
 tytul_en: "Training at the National School of Public Administration"
 zajawka_en: "From 4 May to 24 July 2026 the National School of Public Administration recruited for the next edition of its full-time programme for master’s graduates."

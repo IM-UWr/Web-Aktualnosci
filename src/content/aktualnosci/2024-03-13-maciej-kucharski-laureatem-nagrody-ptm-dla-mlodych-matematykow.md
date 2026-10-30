@@ -8,6 +8,7 @@ dla:
 zajawka: "Doktorant Maciej Kucharski otrzymał Nagrodę Polskiego Towarzystwa Matematycznego dla Młodych Matematyków za rok 2023."
 zdjecie: "/pliki/aktualnosci/maciej_kucharski_2024_fot-pawel_piotrowski_uwr_3_2.jpg"
 zdjecie_opis: "Maciej Kucharski. Fot. Paweł Piotrowski (UWr)"
+zdjecie_opis_en: "Maciej Kucharski. Photo: Paweł Piotrowski (UWr)"
 tytul_en: "Maciej Kucharski receives the Polish Mathematical Society Prize for Young Mathematicians"
 zajawka_en: "PhD student Maciej Kucharski has received the Polish Mathematical Society Prize for Young Mathematicians for 2023."
 tresc_en: |

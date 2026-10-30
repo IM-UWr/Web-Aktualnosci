@@ -7,6 +7,7 @@ dla:
 zajawka: "Dr Michał Marcinkowski otrzymał nagrodę Ministra Nauki i Szkolnictwa Wyższego za rok 2015."
 zdjecie: "/pliki/aktualnosci/marcinkowski_4_0.jpg"
 zdjecie_opis: "Dr Michał Marcinkowski"
+zdjecie_opis_en: "Dr Michał Marcinkowski"
 tytul_en: "Minister's award for Michał Marcinkowski"
 zajawka_en: "Dr Michał Marcinkowski has received the award of the Minister of Science and Higher Education for 2015."
 tresc_en: |

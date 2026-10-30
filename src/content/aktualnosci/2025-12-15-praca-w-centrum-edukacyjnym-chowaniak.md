@@ -7,6 +7,7 @@ dla:
 zajawka: "Centrum Edukacyjne Chowaniak zatrudni studentów matematyki do pracy z dziećmi i młodzieżą."
 zalaczniki:
   - nazwa: "Oferta pracy (PDF)"
+    nazwa_en: "Job offer (PDF, Polish)"
     plik: "/pliki/studia/oferty-pracy/ce_chowaniak_1225.pdf"
 tytul_en: "Job at the Chowaniak Education Centre"
 zajawka_en: "The Chowaniak Education Centre will hire mathematics students to work with children and teenagers."

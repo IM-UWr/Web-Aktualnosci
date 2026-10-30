@@ -8,6 +8,7 @@ dla:
 zajawka: "Laureat dwunastej edycji nagrody pracuje na Uniwersytecie Purdue i zajmuje się geometryczną teorią grup."
 zdjecie: "/pliki/aktualnosci/lvzhouchen.jpg"
 zdjecie_opis: "Lvzhou Chen"
+zdjecie_opis_en: "Lvzhou Chen"
 tytul_en: "Lvzhou Chen wins the Kamil Duszenko Prize"
 zajawka_en: "The winner of the twelfth edition works at Purdue University in geometric group theory."
 tresc_en: |

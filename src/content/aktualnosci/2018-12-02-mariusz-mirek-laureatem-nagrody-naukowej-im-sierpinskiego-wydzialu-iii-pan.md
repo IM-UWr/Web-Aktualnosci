@@ -7,6 +7,7 @@ dla:
 zajawka: "Dr hab. Mariusz Mirek otrzymał Nagrodę Naukową im. Wacława Sierpińskiego Wydziału III Polskiej Akademii Nauk."
 zdjecie: "/pliki/aktualnosci/mirek_4_1.jpg"
 zdjecie_opis: "Dr hab. Mariusz Mirek"
+zdjecie_opis_en: "Dr hab. Mariusz Mirek"
 tytul_en: "Mariusz Mirek receives the Sierpiński Prize of Division III of the Polish Academy of Sciences"
 zajawka_en: "Dr hab. Mariusz Mirek has received the Wacław Sierpiński Research Prize of Division III of the Polish Academy of Sciences."
 tresc_en: |

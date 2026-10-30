@@ -8,6 +8,7 @@ dla:
 zajawka: "Rozprawa doktorska Karola Dudy, obroniona na naszym Wydziale, została wyróżniona w Międzynarodowej Nagrodzie im. Stefana Banacha."
 zdjecie: "/pliki/aktualnosci/kduda_0.jpg"
 zdjecie_opis: "Karol Duda"
+zdjecie_opis_en: "Karol Duda"
 tytul_en: "Karol Duda distinguished in the Stefan Banach competition"
 zajawka_en: "Karol Duda's doctoral dissertation, defended at our Faculty, received a distinction in the International Stefan Banach Prize."
 tresc_en: |

@@ -8,6 +8,7 @@ dla:
 zajawka: "Jedno z najważniejszych i najbardziej prestiżowych wyróżnień matematycznych w Polsce."
 zdjecie: "/pliki/aktualnosci/tjan_sierpinski.jpg"
 zdjecie_opis: "Prof. Tadeusz Januszkiewicz"
+zdjecie_opis_en: "Prof. Tadeusz Januszkiewicz"
 tytul_en: "Sierpiński Medal for Prof. Tadeusz Januszkiewicz"
 zajawka_en: "One of the most important and prestigious mathematical distinctions in Poland."
 tresc_en: |

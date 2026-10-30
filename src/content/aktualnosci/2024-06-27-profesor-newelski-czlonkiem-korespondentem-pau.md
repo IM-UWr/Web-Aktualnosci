@@ -8,6 +8,7 @@ dla:
 zajawka: "Walne Zgromadzenie PAU wybrało prof. Ludomira Newelskiego na członka korespondenta Wydziału III Nauk Ścisłych i Technicznych."
 zdjecie: "/pliki/aktualnosci/ludomir_2024.jpg"
 zdjecie_opis: "Prof. Ludomir Newelski"
+zdjecie_opis_en: "Prof. Ludomir Newelski"
 tytul_en: "Professor Newelski elected corresponding member of the Polish Academy of Arts and Sciences"
 zajawka_en: "The General Assembly of PAU has elected Prof. Ludomir Newelski a corresponding member of its Division III of Exact and Technical Sciences."
 tresc_en: |

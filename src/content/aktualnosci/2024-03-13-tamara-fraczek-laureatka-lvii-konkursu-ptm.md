@@ -8,6 +8,7 @@ dla:
 zajawka: "Tamara Frączek otrzymała pierwszą nagrodę w LVII konkursie PTM; wyróżnienia otrzymali Michał Dąbrowski i Martyna Wereta."
 zdjecie: "/pliki/aktualnosci/tamara_fraczek_2024_fot-pawel_piotrowski_uwr.jpg"
 zdjecie_opis: "Tamara Frączek. Fot. Paweł Piotrowski (UWr)"
+zdjecie_opis_en: "Tamara Frączek. Photo: Paweł Piotrowski (UWr)"
 tytul_en: "Tamara Frączek a laureate of the 57th competition for the best paper in probability theory and applied mathematics"
 zajawka_en: "Tamara Frączek won first prize in the 57th Polish Mathematical Society competition; Michał Dąbrowski and Martyna Wereta received honourable mentions."
 tresc_en: |

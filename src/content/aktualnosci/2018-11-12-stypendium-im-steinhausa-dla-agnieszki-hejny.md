@@ -5,6 +5,7 @@ rodzaj: "sukces"
 zajawka: "Doktorantka mgr Agnieszka Hejna otrzymała Stypendium im. Hugona Steinhausa przyznawane przez Wrocławskie Centrum Akademickie."
 zdjecie: "/pliki/aktualnosci/hejna2.jpg"
 zdjecie_opis: "Mgr Agnieszka Hejna"
+zdjecie_opis_en: "Agnieszka Hejna, MSc"
 tytul_en: "Hugo Steinhaus Scholarship for Agnieszka Hejna"
 zajawka_en: "PhD student Agnieszka Hejna has received the Hugo Steinhaus Scholarship awarded by the Wrocław Academic Centre."
 tresc_en: |

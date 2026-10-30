@@ -8,6 +8,7 @@ dla:
 zajawka: "Mgr Agnieszka Hejna otrzymała nagrodę Polskiego Towarzystwa Matematycznego dla Młodych Matematyków za cykl pięciu prac z analizy harmonicznej."
 zdjecie: "/pliki/aktualnosci/hejna2.jpg"
 zdjecie_opis: "Mgr Agnieszka Hejna"
+zdjecie_opis_en: "Agnieszka Hejna, MSc"
 tytul_en: "Agnieszka Hejna receives the Polish Mathematical Society Prize"
 zajawka_en: "Agnieszka Hejna has received the Polish Mathematical Society Prize for Young Mathematicians for a series of five papers in harmonic analysis."
 tresc_en: "We are pleased to announce that **Agnieszka Hejna** of the Mathematical Institute of the University of Wrocław, a PhD student of Prof. Jacek Dziubański, has received the [Polish Mathematical Society Prize for Young Mathematicians](https://www.ptm.org.pl/kategorie/konkursy/konkurs-dla-mlodych-matematykow) for a series of five papers in harmonic analysis published in renowned mathematical journals."

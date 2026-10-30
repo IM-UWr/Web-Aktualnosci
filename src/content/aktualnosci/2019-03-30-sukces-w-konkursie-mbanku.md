@@ -8,6 +8,7 @@ dla:
 zajawka: "Troje naszych absolwentów znalazło się w finałowej szóstce konkursu „Krok w Przyszłość”; wyróżnienie zdobyła Katarzyna Siejek."
 zdjecie: "/pliki/aktualnosci/dscf3404.jpg"
 zdjecie_opis: "Ogłoszenie wyników konkursu „Krok w Przyszłość” w Warszawie"
+zdjecie_opis_en: "Announcement of the results of the “Krok w Przyszłość” competition in Warsaw"
 tytul_en: "Success in the mBank competition"
 zajawka_en: "Three of our graduates were among the six finalists of the “Krok w Przyszłość” competition; Katarzyna Siejek received an honourable mention."
 tresc_en: |

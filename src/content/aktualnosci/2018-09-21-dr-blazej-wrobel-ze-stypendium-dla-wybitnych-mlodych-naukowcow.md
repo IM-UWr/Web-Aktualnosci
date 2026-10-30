@@ -8,6 +8,7 @@ dla:
 zajawka: "Dr Błażej Wróbel został laureatem XII edycji konkursu Ministerstwa Nauki i Szkolnictwa Wyższego o stypendia dla wybitnych młodych naukowców."
 zdjecie: "/pliki/aktualnosci/bwrobel1.jpg"
 zdjecie_opis: "Dr Błażej Wróbel"
+zdjecie_opis_en: "Dr Błażej Wróbel"
 tytul_en: "Dr Błażej Wróbel receives a scholarship for outstanding young researchers"
 zajawka_en: "Dr Błażej Wróbel has won the 12th edition of the Ministry of Science and Higher Education competition for scholarships for outstanding young researchers."
 tresc_en: |

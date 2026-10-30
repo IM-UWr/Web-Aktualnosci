@@ -8,6 +8,7 @@ dla:
 zajawka: "Laureatką drugiej edycji Nagrody im. Kamila Duszenki została Kate Juschenko z Northwestern University."
 zdjecie: "/pliki/aktualnosci/kate-photo2.jpg"
 zdjecie_opis: "Kate Juschenko"
+zdjecie_opis_en: "Kate Juschenko"
 tytul_en: "Kamil Duszenko Prize"
 zajawka_en: "The winner of the second edition of the Kamil Duszenko Prize is Kate Juschenko of Northwestern University."
 tresc_en: |

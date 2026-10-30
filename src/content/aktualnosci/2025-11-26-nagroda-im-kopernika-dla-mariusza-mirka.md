@@ -8,6 +8,7 @@ dla:
 zajawka: "Prof. Mariusz Mirek został laureatem Nagrody naukowej im. Mikołaja Kopernika przyznawanej przez Polską Akademię Umiejętności."
 zdjecie: "/pliki/aktualnosci/mirek_4_1.jpg"
 zdjecie_opis: "Prof. Mariusz Mirek"
+zdjecie_opis_en: "Prof. Mariusz Mirek"
 tytul_en: "Copernicus Prize for Mariusz Mirek"
 zajawka_en: "Prof. Mariusz Mirek has received the Nicolaus Copernicus Scientific Prize awarded by the Polish Academy of Arts and Sciences."
 tresc_en: |

@@ -8,6 +8,7 @@ dla:
 zajawka: "Dr hab. Janusz Wysoczański otrzymał tytuł profesora nauk ścisłych i przyrodniczych w dyscyplinie matematyka."
 zdjecie: "/pliki/aktualnosci/jwys2.jpg"
 zdjecie_opis: "Prof. Janusz Wysoczański"
+zdjecie_opis_en: "Prof. Janusz Wysoczański"
 tytul_en: "Janusz Wysoczański becomes a full professor"
 zajawka_en: "Dr hab. Janusz Wysoczański has been awarded the title of Professor of Exact and Natural Sciences in mathematics."
 tresc_en: "We are pleased to announce that on **16 February 2022** our colleague Dr hab. **Janusz Wysoczański** was awarded the title of **Professor of Exact and Natural Sciences in the discipline of mathematics**."

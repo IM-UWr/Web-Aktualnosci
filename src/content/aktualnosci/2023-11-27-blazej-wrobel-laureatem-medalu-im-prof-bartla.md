@@ -8,6 +8,7 @@ dla:
 zajawka: "Dr hab. Błażej Wróbel otrzymał Nagrodę naukową im. Premiera Prof. Kazimierza Bartla – Medal Bartla."
 zdjecie: "/pliki/aktualnosci/medal_bartla.jpg"
 zdjecie_opis: "Wręczenie Medalu Bartla podczas Święta Nauk Ścisłych w AGH"
+zdjecie_opis_en: "Presentation of the Bartel Medal during the Festival of Exact Sciences at the AGH University of Kraków"
 tytul_en: "Błażej Wróbel receives the Prof. Bartel Medal"
 zajawka_en: "Dr hab. Błażej Wróbel has received the Prime Minister Prof. Kazimierz Bartel Scientific Prize – the Bartel Medal."
 tresc_en: |

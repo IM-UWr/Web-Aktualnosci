@@ -7,6 +7,7 @@ dla:
 zajawka: "Doktorantka mgr Agnieszka Hejna zdobyła nagrodę główną konkursu Fundacji mBanku na najlepszą pracę studencką z matematyki."
 zdjecie: "/pliki/aktualnosci/hejna5.jpg"
 zdjecie_opis: "Mgr Agnieszka Hejna"
+zdjecie_opis_en: "Agnieszka Hejna, MSc"
 tytul_en: "Agnieszka Hejna wins the “Krok w przyszłość” competition"
 zajawka_en: "PhD student Agnieszka Hejna has won the main prize of the mBank Foundation competition for the best student paper in mathematics."
 tresc_en: |

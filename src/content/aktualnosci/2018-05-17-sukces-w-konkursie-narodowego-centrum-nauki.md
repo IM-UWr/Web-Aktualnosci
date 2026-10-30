@@ -7,6 +7,7 @@ dla:
 zajawka: "Projekt dr. hab. Światosława Gala został zakwalifikowany do finansowania w konkursie OPUS 14."
 zdjecie: "/pliki/aktualnosci/gal3.jpg"
 zdjecie_opis: "Dr hab. Światosław Gal"
+zdjecie_opis_en: "Dr hab. Światosław Gal"
 tytul_en: "Success in the National Science Centre competition"
 zajawka_en: "A project by Dr hab. Światosław Gal has been qualified for funding in the OPUS 14 competition."
 tresc_en: |

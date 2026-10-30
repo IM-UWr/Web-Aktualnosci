@@ -5,6 +5,7 @@ rodzaj: "sukces"
 zajawka: "Dr inż. Błażej Wróbel otrzymał nagrodę Polskiego Towarzystwa Matematycznego dla Młodych Matematyków za cykl sześciu prac."
 zdjecie: "/pliki/aktualnosci/b_wrobel.jpg"
 zdjecie_opis: "Dr inż. Błażej Wróbel"
+zdjecie_opis_en: "Dr inż. Błażej Wróbel"
 tytul_en: "Błażej Wróbel receives the Polish Mathematical Society Prize"
 zajawka_en: "Dr inż. Błażej Wróbel has received the Polish Mathematical Society Prize for Young Mathematicians for a series of six papers."
 tresc_en: |

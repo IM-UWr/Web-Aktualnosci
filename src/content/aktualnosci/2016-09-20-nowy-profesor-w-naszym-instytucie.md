@@ -7,6 +7,7 @@ dla:
 zajawka: "12 września 2016 r. Prezydent RP nadał dr. hab. Krzysztofowi Krupińskiemu tytuł profesora nauk matematycznych."
 zdjecie: "/pliki/aktualnosci/kkrup.jpg"
 zdjecie_opis: "Prof. Krzysztof Krupiński"
+zdjecie_opis_en: "Prof. Krzysztof Krupiński"
 tytul_en: "A new professor at our Institute"
 zajawka_en: "On 12 September 2016 the President of Poland conferred on Krzysztof Krupiński the title of Professor of Mathematical Sciences."
 tresc_en: |

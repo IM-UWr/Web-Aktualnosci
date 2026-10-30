@@ -74,6 +74,9 @@ content:
   - name: zdjecie_opis
     label: Podpis / opis zdjęcia (np. kto jest na zdjęciu, autor)
     type: string
+  - name: zdjecie_opis_en
+    label: 'EN: podpis / opis zdjęcia (np. Photo: Jan Kowalski)'
+    type: string
   - name: wyroznij_do
     label: Wyróżnij na stronie głównej do… (żółty pasek; puste = bez wyróżnienia)
     type: date
@@ -123,6 +126,9 @@ content:
     fields:
     - name: nazwa
       label: Nazwa wyświetlana
+      type: string
+    - name: nazwa_en
+      label: 'EN: nazwa wyświetlana (plik po polsku — np. Job offer (PDF, Polish))'
       type: string
     - name: plik
       label: Plik
@@ -193,6 +199,9 @@ content:
       path: public/pliki/aktualnosci
   - name: zdjecie_opis
     label: Podpis / opis zdjęcia
+    type: string
+  - name: zdjecie_opis_en
+    label: 'EN: podpis / opis zdjęcia'
     type: string
   - name: promotorzy
     label: Promotor / promotorzy

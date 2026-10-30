@@ -8,6 +8,7 @@ dla:
 zajawka: "Wykład otwarty „Who was Seki Takakazu?” w ramach programu IDUB."
 zdjecie: "/pliki/aktualnosci/uwefranz.jpg"
 zdjecie_opis: "Prof. Uwe Franz"
+zdjecie_opis_en: "Prof. Uwe Franz"
 wydarzenie_poczatek: "2026-09-15T13:00"
 wydarzenie_koniec: "2026-09-15T14:30"
 wydarzenie_miejsce: "sala WS, Instytut Matematyczny UWr"

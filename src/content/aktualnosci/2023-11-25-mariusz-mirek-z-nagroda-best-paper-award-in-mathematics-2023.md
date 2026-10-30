@@ -8,6 +8,7 @@ dla:
 zajawka: "Prof. Mariusz Mirek, Ben Krause i Terence Tao otrzymali nagrodę ICCM Best Paper Award in Mathematics 2023."
 zdjecie: "/pliki/aktualnosci/mirek2.jpg"
 zdjecie_opis: "Prof. Mariusz Mirek"
+zdjecie_opis_en: "Prof. Mariusz Mirek"
 tytul_en: "Mariusz Mirek receives the Best Paper Award in Mathematics 2023"
 zajawka_en: "Prof. Mariusz Mirek, Ben Krause and Terence Tao have received the ICCM Best Paper Award in Mathematics 2023."
 tresc_en: |

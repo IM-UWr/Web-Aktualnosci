@@ -5,6 +5,7 @@ rodzaj: "sukces"
 zajawka: "Doktorantka mgr Agnieszka Hejna otrzymała II nagrodę w LXI edycji Konkursu im. Józefa Marcinkiewicza."
 zdjecie: "/pliki/aktualnosci/hejna5.jpg"
 zdjecie_opis: "Mgr Agnieszka Hejna"
+zdjecie_opis_en: "Agnieszka Hejna, MSc"
 tytul_en: "Agnieszka Hejna wins a Józef Marcinkiewicz Prize"
 zajawka_en: "PhD student Agnieszka Hejna won second prize in the 61st Józef Marcinkiewicz competition."
 tresc_en: |

@@ -8,6 +8,7 @@ dla:
 zajawka: "Dr Aleksandra Kwiatkowska została laureatką drugiej edycji Konkursu o nagrodę im. Edyty Szymańskiej."
 zdjecie: "/pliki/aktualnosci/ola_kwiatkowska.jpg"
 zdjecie_opis: "Dr Aleksandra Kwiatkowska"
+zdjecie_opis_en: "Dr Aleksandra Kwiatkowska"
 tytul_en: "Aleksandra Kwiatkowska wins the Edyta Szymańska Prize competition"
 zajawka_en: "Dr Aleksandra Kwiatkowska has won the second edition of the Edyta Szymańska Prize competition."
 tresc_en: |

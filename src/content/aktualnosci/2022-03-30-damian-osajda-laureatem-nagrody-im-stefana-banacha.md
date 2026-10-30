@@ -8,6 +8,7 @@ dla:
 zajawka: "Dr Damian Osajda otrzymał Nagrodę Główną Polskiego Towarzystwa Matematycznego im. Stefana Banacha za rok 2021."
 zdjecie: "/pliki/aktualnosci/osajda2.jpg"
 zdjecie_opis: "Dr Damian Osajda"
+zdjecie_opis_en: "Dr Damian Osajda"
 tytul_en: "Damian Osajda receives the Stefan Banach Prize"
 zajawka_en: "Dr Damian Osajda has received the Stefan Banach Main Prize of the Polish Mathematical Society for 2021."
 tresc_en: |

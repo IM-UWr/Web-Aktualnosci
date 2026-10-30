@@ -7,6 +7,7 @@ dla:
 zajawka: "Doktorant mgr Daniel Hoffmann otrzymał Stypendium im. Hugona Steinhausa; wyróżniony został także mgr Piotr Dyszewski."
 zdjecie: "/pliki/aktualnosci/hoffmann2.jpg"
 zdjecie_opis: "Mgr Daniel Hoffmann"
+zdjecie_opis_en: "Daniel Hoffmann, MSc"
 tytul_en: "Hugo Steinhaus Scholarship for Daniel Hoffmann"
 zajawka_en: "PhD student Daniel Hoffmann has received the Hugo Steinhaus Scholarship; Piotr Dyszewski received an honourable mention."
 tresc_en: |

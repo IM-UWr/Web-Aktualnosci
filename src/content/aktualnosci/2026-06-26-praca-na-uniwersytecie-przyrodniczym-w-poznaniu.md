@@ -7,6 +7,7 @@ dla:
 zajawka: "Konkurs na stanowisko asystenta w Katedrze Metod Matematycznych i Statystycznych Uniwersytetu Przyrodniczego w Poznaniu."
 zalaczniki:
   - nazwa: "Ogłoszenie o konkursie (PDF)"
+    nazwa_en: "Job competition announcement (PDF, Polish)"
     plik: "/pliki/studia/oferty-pracy/ogloszenie_kmmis_upp.pdf"
 tytul_en: "Job at the Poznań University of Life Sciences"
 zajawka_en: "Competition for an assistant position in the Department of Mathematical and Statistical Methods at the Poznań University of Life Sciences."

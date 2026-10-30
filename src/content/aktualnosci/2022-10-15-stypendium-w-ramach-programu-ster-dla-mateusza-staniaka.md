@@ -8,6 +8,7 @@ dla:
 zajawka: "Doktorant Mateusz Staniak otrzymał dodatkowe stypendium w ramach programu STER – Umiędzynarodowienie Szkół Doktorskich."
 zdjecie: "/pliki/aktualnosci/staniak.jpg"
 zdjecie_opis: "Mateusz Staniak"
+zdjecie_opis_en: "Mateusz Staniak"
 tytul_en: "STER programme scholarship for Mateusz Staniak"
 zajawka_en: "PhD student Mateusz Staniak has received an additional scholarship under the STER – Internationalisation of Doctoral Schools programme."
 tresc_en: |

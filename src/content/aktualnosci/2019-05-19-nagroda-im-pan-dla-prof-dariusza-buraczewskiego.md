@@ -7,6 +7,7 @@ dla:
 zajawka: "Prof. Dariusz Buraczewski otrzymał Nagrodę Instytutu Matematycznego PAN za wybitne osiągnięcia naukowe w zakresie matematyki."
 zdjecie: "/pliki/aktualnosci/buraczewski3_0.jpg"
 zdjecie_opis: "Prof. Dariusz Buraczewski"
+zdjecie_opis_en: "Prof. Dariusz Buraczewski"
 tytul_en: "IMPAN Prize for Prof. Dariusz Buraczewski"
 zajawka_en: "Prof. Dariusz Buraczewski has received the Prize of the Institute of Mathematics of the Polish Academy of Sciences for outstanding achievements in mathematics."
 tresc_en: |

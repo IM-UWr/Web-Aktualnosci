@@ -5,6 +5,7 @@ rodzaj: "sukces"
 zajawka: "Dr Łukasz Garncarek otrzymał Nagrodę Prezesa Rady Ministrów za rozprawę doktorską obronioną na naszym Wydziale."
 zdjecie: "/pliki/aktualnosci/garncarek.jpg"
 zdjecie_opis: "Dr Łukasz Garncarek"
+zdjecie_opis_en: "Dr Łukasz Garncarek"
 tytul_en: "Łukasz Garncarek receives the Prime Minister's Award"
 zajawka_en: "Dr Łukasz Garncarek has received the Prime Minister's Award for his doctoral dissertation defended at our Faculty."
 tresc_en: |

@@ -7,6 +7,7 @@ dla:
 zajawka: "Dr Barbara Jasiulis-Gołdyn została laureatką pierwszej edycji konkursu POWROTY Fundacji na rzecz Nauki Polskiej."
 zdjecie: "/pliki/aktualnosci/jasiulis-goldyn.jpg"
 zdjecie_opis: "Dr Barbara Jasiulis-Gołdyn"
+zdjecie_opis_en: "Dr Barbara Jasiulis-Gołdyn"
 tytul_en: "Barbara Jasiulis-Gołdyn wins the POWROTY competition"
 zajawka_en: "Dr Barbara Jasiulis-Gołdyn has won the first edition of the Foundation for Polish Science POWROTY (Homing) competition."
 tresc_en: |

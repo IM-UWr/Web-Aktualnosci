@@ -8,6 +8,7 @@ dla:
 zajawka: "Projekt prof. Małgorzaty Bogdan został zakwalifikowany do finansowania w konkursie Preludium Bis."
 zdjecie: "/pliki/aktualnosci/mbogdan2.jpg"
 zdjecie_opis: "Prof. Małgorzata Bogdan"
+zdjecie_opis_en: "Prof. Małgorzata Bogdan"
 tytul_en: "Prof. Małgorzata Bogdan's success in the NCN competition"
 zajawka_en: "Prof. Małgorzata Bogdan's project has been qualified for funding in the Preludium Bis competition."
 tresc_en: |

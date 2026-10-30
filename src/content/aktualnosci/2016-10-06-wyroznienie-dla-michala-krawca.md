@@ -7,6 +7,7 @@ dla:
 zajawka: "Doktorant Michał Krawiec otrzymał wyróżnienie w konkursie na najlepszy referat młodego uczestnika konferencji „Zagadnienia Aktuarialne – teoria i praktyka”."
 zdjecie: "/pliki/aktualnosci/krawiec4.jpg"
 zdjecie_opis: "Michał Krawiec"
+zdjecie_opis_en: "Michał Krawiec"
 tytul_en: "Distinction for Michał Krawiec"
 zajawka_en: "PhD student Michał Krawiec received a distinction in the competition for the best talk by a young participant of the conference “Actuarial Issues – Theory and Practice”."
 tresc_en: |

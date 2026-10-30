@@ -7,6 +7,7 @@ dla:
 zajawka: "Firma JUBSOFT Piotr Zięba (marka Korepetycje Matematyki) zatrudni studentów matematyki na stanowisku korepetytora matematyki."
 zalaczniki:
   - nazwa: "Oferta pracy — korepetytor matematyki (PDF)"
+    nazwa_en: "Job offer — mathematics tutor (PDF, Polish)"
     plik: "/pliki/studia/oferty-pracy/jubsoft.pdf"
 tytul_en: "Job as a mathematics tutor"
 zajawka_en: "JUBSOFT Piotr Zięba (the Korepetycje Matematyki brand) will hire mathematics students as mathematics tutors."

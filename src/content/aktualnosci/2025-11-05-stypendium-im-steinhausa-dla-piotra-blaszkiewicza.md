@@ -8,6 +8,7 @@ dla:
 zajawka: "Doktorant mgr Piotr Błaszkiewicz otrzymał Stypendium im. Hugona Steinhausa przyznawane przez Wrocławskie Centrum Akademickie."
 zdjecie: "/pliki/aktualnosci/piotr_blaszkiewicz.jpg"
 zdjecie_opis: "Mgr Piotr Błaszkiewicz"
+zdjecie_opis_en: "Piotr Błaszkiewicz, MSc"
 tytul_en: "Hugo Steinhaus Scholarship for Piotr Błaszkiewicz"
 zajawka_en: "PhD student Piotr Błaszkiewicz has received the Hugo Steinhaus Scholarship awarded by the Wrocław Academic Centre."
 tresc_en: |

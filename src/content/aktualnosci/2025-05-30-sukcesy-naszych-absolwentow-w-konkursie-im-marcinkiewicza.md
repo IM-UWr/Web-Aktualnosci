@@ -8,6 +8,7 @@ dla:
 zajawka: "Mateusz Rzepecki, Jakub Niksiński i Jędrzej Miarecki zostali nagrodzeni w Konkursie im. Józefa Marcinkiewicza na najlepszą pracę studencką z matematyki."
 zdjecie: "/pliki/aktualnosci/marcinkiewicz.jpg"
 zdjecie_opis: "Konkurs im. Józefa Marcinkiewicza na najlepszą pracę studencką z matematyki"
+zdjecie_opis_en: "Józef Marcinkiewicz Competition for the best student paper in mathematics"
 tytul_en: "Our graduates succeed in the Marcinkiewicz competition"
 zajawka_en: "Mateusz Rzepecki, Jakub Niksiński and Jędrzej Miarecki received awards in the Józef Marcinkiewicz competition for the best student paper in mathematics."
 tresc_en: |

@@ -8,8 +8,10 @@ dla:
 zajawka: "Czteroletnie stypendium naukowe w projekcie „Układy równań i stopnie wzrostu w grupach”."
 zalaczniki:
   - nazwa: "Szczegóły konkursu"
+    nazwa_en: "Call details (Polish)"
     plik: "/pliki/aktualnosci/stypendium_mv-pl.pdf"
   - nazwa: "Call details (English)"
+    nazwa_en: "Call details (English)"
     plik: "/pliki/aktualnosci/stipend_mv-en.pdf"
 tytul_en: "PhD scholarship competition"
 zajawka_en: "A four-year research scholarship in the project “Systems of equations and growth rates in groups”."

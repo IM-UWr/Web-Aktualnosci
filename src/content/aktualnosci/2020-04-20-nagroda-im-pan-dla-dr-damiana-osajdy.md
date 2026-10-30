@@ -8,6 +8,7 @@ dla:
 zajawka: "Dr Damian Osajda otrzymał Nagrodę Instytutu Matematycznego PAN za wybitne osiągnięcia naukowe w zakresie matematyki."
 zdjecie: "/pliki/aktualnosci/osajda2.jpg"
 zdjecie_opis: "Dr Damian Osajda"
+zdjecie_opis_en: "Dr Damian Osajda"
 tytul_en: "IMPAN Prize for Dr Damian Osajda"
 zajawka_en: "Dr Damian Osajda has received the Prize of the Institute of Mathematics of the Polish Academy of Sciences for outstanding achievements in mathematics."
 tresc_en: |

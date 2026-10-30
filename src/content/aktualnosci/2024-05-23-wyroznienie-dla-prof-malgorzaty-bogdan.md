@@ -8,6 +8,7 @@ dla:
 zajawka: "Prof. Małgorzata Bogdan otrzymała status IMS Fellow przyznawany przez Institute of Mathematical Statistics."
 zdjecie: "/pliki/aktualnosci/mbogdan2.jpg"
 zdjecie_opis: "Prof. Małgorzata Bogdan"
+zdjecie_opis_en: "Prof. Małgorzata Bogdan"
 tytul_en: "Distinction for Prof. Małgorzata Bogdan"
 zajawka_en: "Prof. Małgorzata Bogdan has been named an IMS Fellow by the Institute of Mathematical Statistics."
 tresc_en: |

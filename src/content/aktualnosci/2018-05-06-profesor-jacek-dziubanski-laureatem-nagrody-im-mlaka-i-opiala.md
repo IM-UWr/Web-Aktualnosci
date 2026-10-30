@@ -8,6 +8,7 @@ dla:
 zajawka: "Prof. Jacek Dziubański otrzymał Nagrodę im. Włodzimierza Mlaka i Zdzisława Opiala."
 zdjecie: "/pliki/aktualnosci/jacek_d.jpg"
 zdjecie_opis: "Prof. Jacek Dziubański"
+zdjecie_opis_en: "Prof. Jacek Dziubański"
 tytul_en: "Professor Jacek Dziubański receives the Mlak and Opial Prize"
 zajawka_en: "Prof. Jacek Dziubański has received the Włodzimierz Mlak and Zdzisław Opial Prize."
 tresc_en: |

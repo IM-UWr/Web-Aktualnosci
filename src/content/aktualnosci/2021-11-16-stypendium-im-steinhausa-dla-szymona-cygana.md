@@ -8,6 +8,7 @@ dla:
 zajawka: "Doktorant mgr Szymon Cygan otrzymał Stypendium im. Hugona Steinhausa przyznawane przez Wrocławskie Centrum Akademickie."
 zdjecie: "/pliki/aktualnosci/scygan.jpg"
 zdjecie_opis: "Mgr Szymon Cygan"
+zdjecie_opis_en: "Szymon Cygan, MSc"
 tytul_en: "Hugo Steinhaus Scholarship for Szymon Cygan"
 zajawka_en: "PhD student Szymon Cygan has received the Hugo Steinhaus Scholarship awarded by the Wrocław Academic Centre."
 tresc_en: |

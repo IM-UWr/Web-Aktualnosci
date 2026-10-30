@@ -8,6 +8,7 @@ dla:
 zajawka: "Student Maciej Kucharski otrzymał II nagrodę w LXIII edycji Konkursu im. Józefa Marcinkiewicza na najlepszą pracę studencką z matematyki."
 zdjecie: "/pliki/aktualnosci/kucharski.jpg"
 zdjecie_opis: "Maciej Kucharski"
+zdjecie_opis_en: "Maciej Kucharski"
 tytul_en: "Maciej Kucharski wins a Józef Marcinkiewicz Prize"
 zajawka_en: "Our student Maciej Kucharski won second prize in the 63rd Józef Marcinkiewicz competition for the best student paper in mathematics."
 tresc_en: |

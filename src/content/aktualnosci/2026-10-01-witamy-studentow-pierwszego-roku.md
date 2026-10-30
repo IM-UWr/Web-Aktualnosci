@@ -8,6 +8,7 @@ dla:
 zajawka: "Uroczysta immatrykulacja na Wydziale Matematyki i Informatyki odbyła się 29 września w Auli Leopoldina."
 zdjecie: "/pliki/aktualnosci/2026-09-29_-_immatrykulacja_wmi_-_fot-_zuzanna_pelc-23.jpg"
 zdjecie_opis: "Immatrykulacja w Auli Leopoldina. Fot. Zuzanna Pelc (UWr)"
+zdjecie_opis_en: "Matriculation ceremony in the Leopoldina Hall. Photo: Zuzanna Pelc (UWr)"
 tytul_en: "Welcome, first-year students"
 zajawka_en: "The matriculation ceremony of the Faculty of Mathematics and Computer Science took place on 29 September in the Leopoldina Hall."
 tresc_en: |

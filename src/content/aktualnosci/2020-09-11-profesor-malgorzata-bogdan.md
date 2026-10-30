@@ -8,6 +8,7 @@ dla:
 zajawka: "21 lipca 2020 r. Prezydent RP nadał Małgorzacie Bogdan tytuł profesora nauk ścisłych i przyrodniczych."
 zdjecie: "/pliki/aktualnosci/mbogdan.jpg"
 zdjecie_opis: "Prof. Małgorzata Bogdan"
+zdjecie_opis_en: "Prof. Małgorzata Bogdan"
 tytul_en: "Professor Małgorzata Bogdan"
 zajawka_en: "On 21 July 2020 the President of Poland conferred on Małgorzata Bogdan the title of Professor of Exact and Natural Sciences."
 tresc_en: "We are pleased to announce that on 21 July 2020 the President of the Republic of Poland conferred the title of **Professor of Exact and Natural Sciences** on **Małgorzata Bogdan**."

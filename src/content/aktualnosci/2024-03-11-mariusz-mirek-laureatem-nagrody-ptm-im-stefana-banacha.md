@@ -8,6 +8,7 @@ dla:
 zajawka: "Prof. Mariusz Mirek otrzymał Nagrodę Główną Polskiego Towarzystwa Matematycznego im. Stefana Banacha za rok 2023."
 zdjecie: "/pliki/aktualnosci/mirek2.jpg"
 zdjecie_opis: "Prof. Mariusz Mirek"
+zdjecie_opis_en: "Prof. Mariusz Mirek"
 tytul_en: "Mariusz Mirek receives the Stefan Banach Prize of the Polish Mathematical Society"
 zajawka_en: "Prof. Mariusz Mirek has received the Stefan Banach Main Prize of the Polish Mathematical Society for 2023."
 tresc_en: |

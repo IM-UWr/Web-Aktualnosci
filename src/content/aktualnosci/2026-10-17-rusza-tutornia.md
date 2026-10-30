@@ -7,6 +7,7 @@ dla:
 zajawka: "Od 19 października w sali 202 starsi studenci pomagają w problemach matematycznych — szczególnie osobom z pierwszego roku."
 zalaczniki:
   - nazwa: "Plan dyżurów tutorów (semestr zimowy 2026/27)"
+    nazwa_en: "Tutors' schedule (winter semester 2026/27, Polish)"
     plik: "/pliki/aktualnosci/plan_tutorni_2026_z.png"
 tytul_en: "The tutoring room opens"
 zajawka_en: "From 19 October, senior students help with maths problems in room 202 — especially first-year students."

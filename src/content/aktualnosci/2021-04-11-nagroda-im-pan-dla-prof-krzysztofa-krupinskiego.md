@@ -8,6 +8,7 @@ dla:
 zajawka: "Prof. Krzysztof Krupiński otrzymał Nagrodę Instytutu Matematycznego PAN za wybitne osiągnięcia naukowe w zakresie matematyki."
 zdjecie: "/pliki/aktualnosci/kkrup_3.jpg"
 zdjecie_opis: "Prof. Krzysztof Krupiński"
+zdjecie_opis_en: "Prof. Krzysztof Krupiński"
 tytul_en: "IMPAN Prize for Prof. Krzysztof Krupiński"
 zajawka_en: "Prof. Krzysztof Krupiński has received the Prize of the Institute of Mathematics of the Polish Academy of Sciences for outstanding achievements in mathematics."
 tresc_en: |

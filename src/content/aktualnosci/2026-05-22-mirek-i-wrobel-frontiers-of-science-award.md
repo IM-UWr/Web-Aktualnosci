@@ -8,6 +8,7 @@ dla:
 zajawka: "Nagroda za artykuł napisany wspólnie z Jeanem Bourgainem i Eliasem M. Steinem."
 zdjecie: "/pliki/aktualnosci/mirekwrobel.jpg"
 zdjecie_opis: "Prof. Mariusz Mirek i prof. Błażej Wróbel"
+zdjecie_opis_en: "Prof. Mariusz Mirek and Prof. Błażej Wróbel"
 tytul_en: "Mariusz Mirek and Błażej Wróbel receive the 2026 Frontiers of Science Award"
 zajawka_en: "The award recognises a paper co-authored with Jean Bourgain and Elias M. Stein."
 tresc_en: |

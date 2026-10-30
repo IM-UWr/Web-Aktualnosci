@@ -8,6 +8,7 @@ dla:
 zajawka: "„Statistical methods increase the accuracy and the interpretability of quantitative proteomic investigations” — 23 czerwca, sala 119 w Instytucie Informatyki."
 zdjecie: "/pliki/aktualnosci/vitek-olga.jpg"
 zdjecie_opis: "Prof. Olga Vitek"
+zdjecie_opis_en: "Prof. Olga Vitek"
 wydarzenie_poczatek: "2026-06-23T12:30"
 wydarzenie_koniec: "2026-06-23T14:00"
 wydarzenie_miejsce: "sala 119, Instytut Informatyki UWr"

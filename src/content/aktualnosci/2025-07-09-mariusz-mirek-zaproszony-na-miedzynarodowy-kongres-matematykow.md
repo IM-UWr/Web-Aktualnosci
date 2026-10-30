@@ -8,6 +8,7 @@ dla:
 zajawka: "Prof. Mariusz Mirek wygłosi zaproszony wykład w sekcji „analiza” na Międzynarodowym Kongresie Matematyków w Filadelfii w 2026 roku."
 zdjecie: "/pliki/aktualnosci/mmirek.jpg"
 zdjecie_opis: "Prof. Mariusz Mirek"
+zdjecie_opis_en: "Prof. Mariusz Mirek"
 tytul_en: "Mariusz Mirek invited to the International Congress of Mathematicians"
 zajawka_en: "Prof. Mariusz Mirek will give an invited lecture in the Analysis section of the International Congress of Mathematicians in Philadelphia in 2026."
 tresc_en: |

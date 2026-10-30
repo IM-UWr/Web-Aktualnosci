@@ -7,6 +7,7 @@ dla:
 zajawka: "Dr hab. Mariusz Mirek otrzymał Nagrodę Wrocławskiego Oddziału PAN „Iuvenes Wratislaviae” w obszarze nauk o życiu, ścisłych i technicznych."
 zdjecie: "/pliki/aktualnosci/dyplom_laureata_mariusz_mirek.jpg"
 zdjecie_opis: "Dyplom laureata nagrody „Iuvenes Wratislaviae”"
+zdjecie_opis_en: "“Iuvenes Wratislaviae” award diploma"
 tytul_en: "Mariusz Mirek receives the “Iuvenes Wratislaviae” award"
 zajawka_en: "Dr hab. Mariusz Mirek has received the “Iuvenes Wratislaviae” award of the Wrocław Branch of the Polish Academy of Sciences in life, exact and technical sciences."
 tresc_en: |

@@ -8,6 +8,7 @@ dla:
 zajawka: "Rozprawa doktorska dr Agnieszki Hejny została wyróżniona w Międzynarodowej Nagrodzie im. Stefana Banacha."
 zdjecie: "/pliki/aktualnosci/agnieszka_hejna_2022.jpg"
 zdjecie_opis: "Dr Agnieszka Hejna"
+zdjecie_opis_en: "Dr Agnieszka Hejna"
 tytul_en: "Agnieszka Hejna's success"
 zajawka_en: "Dr Agnieszka Hejna's doctoral dissertation received a distinction in the International Stefan Banach Prize."
 tresc_en: "We are pleased to announce that Dr **Agnieszka Hejna** of our Institute received a distinction in this year's edition of the [**International Stefan Banach Prize**](https://ibp.ptm.org.pl/laureaci/). The award recognises her doctoral dissertation *Harmonic analysis and Hardy spaces in the rational Dunkl setting*, supervised by Prof. Jacek Dziubański."

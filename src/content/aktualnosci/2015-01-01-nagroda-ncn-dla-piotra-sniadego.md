@@ -5,6 +5,7 @@ rodzaj: "sukces"
 zajawka: "Prof. Piotr Śniady został laureatem Nagrody NCN 2015 w kategorii nauk ścisłych i technicznych."
 zdjecie: "/pliki/aktualnosci/sniady.png"
 zdjecie_opis: "Prof. Piotr Śniady"
+zdjecie_opis_en: "Prof. Piotr Śniady"
 tytul_en: "NCN Prize for Piotr Śniady"
 zajawka_en: "Prof. Piotr Śniady has received the 2015 NCN Prize in the exact and technical sciences category."
 tresc_en: |

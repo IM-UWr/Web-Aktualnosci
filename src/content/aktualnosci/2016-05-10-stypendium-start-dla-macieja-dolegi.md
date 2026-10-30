@@ -7,6 +7,7 @@ dla:
 zajawka: "Dr Maciej Dołęga został laureatem stypendium START Fundacji na rzecz Nauki Polskiej."
 zdjecie: "/pliki/aktualnosci/dolega_1.jpg"
 zdjecie_opis: "Dr Maciej Dołęga"
+zdjecie_opis_en: "Dr Maciej Dołęga"
 tytul_en: "START scholarship for Maciej Dołęga"
 zajawka_en: "Dr Maciej Dołęga has received a START scholarship from the Foundation for Polish Science."
 tresc_en: |

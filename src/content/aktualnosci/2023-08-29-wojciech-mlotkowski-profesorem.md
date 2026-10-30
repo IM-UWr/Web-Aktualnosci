@@ -8,6 +8,7 @@ dla:
 zajawka: "Dr hab. Wojciech Młotkowski otrzymał tytuł profesora nauk ścisłych i przyrodniczych w dyscyplinie matematyka."
 zdjecie: "/pliki/aktualnosci/mlotkowski4.jpg"
 zdjecie_opis: "Prof. Wojciech Młotkowski"
+zdjecie_opis_en: "Prof. Wojciech Młotkowski"
 tytul_en: "Wojciech Młotkowski becomes a full professor"
 zajawka_en: "Dr hab. Wojciech Młotkowski has been awarded the title of Professor of Exact and Natural Sciences in mathematics."
 tresc_en: "We are pleased to announce that our colleague Dr hab. **Wojciech Młotkowski** has been awarded the title of **Professor of Exact and Natural Sciences in the discipline of mathematics**."

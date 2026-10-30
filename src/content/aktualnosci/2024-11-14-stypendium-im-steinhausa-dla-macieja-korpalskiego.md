@@ -8,6 +8,7 @@ dla:
 zajawka: "Doktorant mgr Maciej Korpalski otrzymał Stypendium im. Hugona Steinhausa przyznawane przez Wrocławskie Centrum Akademickie."
 zdjecie: "/pliki/aktualnosci/maciek_korpalski_2024.jpg"
 zdjecie_opis: "Mgr Maciej Korpalski"
+zdjecie_opis_en: "Maciej Korpalski, MSc"
 tytul_en: "Hugo Steinhaus Scholarship for Maciej Korpalski"
 zajawka_en: "PhD student Maciej Korpalski has received the Hugo Steinhaus Scholarship awarded by the Wrocław Academic Centre."
 tresc_en: |

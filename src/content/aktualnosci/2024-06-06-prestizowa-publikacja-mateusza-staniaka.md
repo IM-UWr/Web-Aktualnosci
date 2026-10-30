@@ -8,6 +8,7 @@ dla:
 zajawka: "Doktorant Mateusz Staniak jest współautorem artykułu w Nature Protocols o nowej wersji programu MSstats do analizy danych ze spektrometrii masowej."
 zdjecie: "/pliki/aktualnosci/staniak.jpg"
 zdjecie_opis: "Mateusz Staniak"
+zdjecie_opis_en: "Mateusz Staniak"
 tytul_en: "Mateusz Staniak's prestigious publication"
 zajawka_en: "PhD student Mateusz Staniak has co-authored a Nature Protocols paper on a new version of MSstats, software for mass spectrometry data analysis."
 tresc_en: |

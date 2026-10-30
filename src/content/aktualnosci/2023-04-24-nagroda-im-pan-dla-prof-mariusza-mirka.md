@@ -8,6 +8,7 @@ dla:
 zajawka: "Prof. Mariusz Mirek otrzymał Nagrodę Instytutu Matematycznego PAN za wybitne osiągnięcia naukowe w zakresie matematyki."
 zdjecie: "/pliki/aktualnosci/mirek_4_1.jpg"
 zdjecie_opis: "Prof. Mariusz Mirek"
+zdjecie_opis_en: "Prof. Mariusz Mirek"
 tytul_en: "IMPAN Prize for Prof. Mariusz Mirek"
 zajawka_en: "Prof. Mariusz Mirek has received the Prize of the Institute of Mathematics of the Polish Academy of Sciences for outstanding achievements in mathematics."
 tresc_en: |

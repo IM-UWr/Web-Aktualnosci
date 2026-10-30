@@ -7,6 +7,7 @@ dla:
 zajawka: "Doktorant Adam Kaszubowski otrzymał wyróżnienie za referat na konferencji „Zagadnienia Aktuarialne – teoria i praktyka”."
 zdjecie: "/pliki/aktualnosci/kaszubowski3.jpg"
 zdjecie_opis: "Adam Kaszubowski"
+zdjecie_opis_en: "Adam Kaszubowski"
 tytul_en: "Distinction for Adam Kaszubowski"
 zajawka_en: "PhD student Adam Kaszubowski received a distinction for his talk at the conference “Actuarial Issues – Theory and Practice”."
 tresc_en: |

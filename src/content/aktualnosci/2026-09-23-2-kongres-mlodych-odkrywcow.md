@@ -7,6 +7,7 @@ dla:
 zajawka: "Prawie 170 uczniów z niemal 20 szkół średnich wzięło udział w wykładach, warsztatach i grze terenowej."
 zdjecie: "/pliki/aktualnosci/odkrywcy.jpg"
 zdjecie_opis: "Dolnośląski Kongres Młodych Odkrywców"
+zdjecie_opis_en: "Lower Silesian Congress of Young Explorers"
 wydarzenie_poczatek: "2026-09-21"
 wydarzenie_koniec: "2026-09-22"
 wydarzenie_miejsce: "Wydział Matematyki i Informatyki UWr"

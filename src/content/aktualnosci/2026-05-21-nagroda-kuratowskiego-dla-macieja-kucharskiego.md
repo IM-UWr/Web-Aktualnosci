@@ -8,6 +8,7 @@ dla:
 zajawka: "Nagroda za cykl prac z zakresu analizy harmonicznej."
 zdjecie: "/pliki/aktualnosci/maciej_kucharski_2024_fot-pawel_piotrowski_uwr_3_2.jpg"
 zdjecie_opis: "Dr Maciej Kucharski. Fot. Paweł Piotrowski, Uniwersytet Wrocławski"
+zdjecie_opis_en: "Dr Maciej Kucharski. Photo: Paweł Piotrowski, University of Wrocław"
 tytul_en: "Kazimierz Kuratowski Prize for Maciej Kucharski"
 zajawka_en: "The prize recognises a series of papers in harmonic analysis."
 tresc_en: "We are pleased to announce that Dr **Maciej Kucharski** has received the prestigious [**Kazimierz Kuratowski Prize**](https://impan.pl/pl/instytut/aktualnosci/1856-nagroda-im-kazimierza-kuratowskiego-w-2026-r). The prize was awarded for a series of papers in harmonic analysis."
