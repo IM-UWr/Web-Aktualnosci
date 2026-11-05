@@ -18,7 +18,3 @@ recenzje:
 w_aktualnosciach: true
 opublikowany: true
 ---
-
-Zapraszamy na publiczną obronę rozprawy doktorskiej mgr Malwiny Mrowińskiej pt. *Estimation of a block-structured covariance matrix*.
-
-Rozprawa doktorska, streszczenia oraz recenzje są dostępne poniżej.

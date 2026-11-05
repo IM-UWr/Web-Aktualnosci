@@ -18,7 +18,3 @@ data_ogloszenia: "2026-10-02"
 w_aktualnosciach: true
 opublikowany: true
 ---
-
-Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Mister Test pt. *Regularity of free boundaries in the thin obstacle problem with variable coefficients*.
-
-Rozprawa doktorska, streszczenia oraz recenzje są dostępne poniżej.

@@ -17,7 +17,3 @@ recenzje:
 w_aktualnosciach: true
 opublikowany: true
 ---
-
-Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Macieja Korpalskiego pt. *On isomorphic and geometric properties of Banach spaces of continuous functions*.
-
-Rozprawa doktorska, streszczenia oraz recenzje są dostępne poniżej.

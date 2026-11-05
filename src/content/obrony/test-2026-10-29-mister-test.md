@@ -18,7 +18,3 @@ data_ogloszenia: "2026-09-29"
 w_aktualnosciach: true
 opublikowany: true
 ---
-
-Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Mister Test pt. *Spectral gaps and cutoff for random walks on finite groups*.
-
-Rozprawa doktorska, streszczenia oraz recenzje są dostępne poniżej.

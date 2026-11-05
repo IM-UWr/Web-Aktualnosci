@@ -18,7 +18,3 @@ data_ogloszenia: "2026-10-28"
 w_aktualnosciach: true
 opublikowany: true
 ---
-
-Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Mister Test pt. *Topological dynamics of automorphism groups of countable homogeneous structures*.
-
-Rozprawa doktorska, streszczenia oraz recenzje są dostępne poniżej.

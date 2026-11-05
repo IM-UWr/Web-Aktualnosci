@@ -270,7 +270,7 @@ content:
       values: *id001
     description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
   - name: body
-    label: Dodatkowy opis (opcjonalnie)
+    label: 'Opis (opcjonalnie; puste = zaproszenie, a po terminie informacja o odbytej obronie, złożone z danych. Wpisany tekst nie zmieni się sam po terminie)'
     type: rich-text
     options:
       format: markdown

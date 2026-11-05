@@ -17,7 +17,3 @@ recenzje:
 w_aktualnosciach: true
 opublikowany: true
 ---
-
-Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Macieja Tadeja pt. *Analysis and simulations of the non-linear models with non-local dispersal of species considered in finite, flat habitats*.
-
-Rozprawa doktorska, streszczenia oraz recenzje są dostępne poniżej.

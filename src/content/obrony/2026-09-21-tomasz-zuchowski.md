@@ -17,7 +17,3 @@ recenzje:
 w_aktualnosciach: true
 opublikowany: true
 ---
-
-Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Tomasza Żuchowskiego pt. *On sequences of measures and ideals in Boolean algebras*.
-
-Rozprawa doktorska, streszczenia oraz recenzje są dostępne poniżej.

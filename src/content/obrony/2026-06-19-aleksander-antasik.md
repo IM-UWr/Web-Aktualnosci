@@ -17,7 +17,3 @@ recenzje:
 w_aktualnosciach: true
 opublikowany: true
 ---
-
-Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Aleksandra Antasika pt. *Rational approximation of surface group representations*.
-
-Rozprawa doktorska, streszczenia oraz recenzje są dostępne poniżej.
