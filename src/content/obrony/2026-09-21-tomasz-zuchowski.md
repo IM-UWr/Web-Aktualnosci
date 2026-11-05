@@ -16,10 +16,6 @@ recenzje:
     plik: "https://www.math.uni.wroc.pl/sites/default/files/recenzja_pzakrzewski_zuchowski.pdf"
 w_aktualnosciach: true
 opublikowany: true
-tresc_en: |-
-  You are cordially invited to the public defence of the doctoral dissertation of Tomasz Żuchowski, MSc, entitled *On sequences of measures and ideals in Boolean algebras*.
-
-  The dissertation, abstracts and reviews are available below.
 ---
 
 Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Tomasza Żuchowskiego pt. *On sequences of measures and ideals in Boolean algebras*.

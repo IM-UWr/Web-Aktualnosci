@@ -17,10 +17,6 @@ recenzje:
 data_ogloszenia: "2026-09-29"
 w_aktualnosciach: true
 opublikowany: true
-tresc_en: |-
-  You are cordially invited to the public defence of the doctoral dissertation of Mister Test, MSc, entitled *Spectral gaps and cutoff for random walks on finite groups*.
-
-  The dissertation, abstracts and reviews are available below.
 ---
 
 Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Mister Test pt. *Spectral gaps and cutoff for random walks on finite groups*.
