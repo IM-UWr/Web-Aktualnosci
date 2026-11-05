@@ -14,7 +14,7 @@ zajawka_en: "Our student Maciej Kucharski won second prize in the 63rd Józef Ma
 tresc_en: |
   We are pleased to announce that our student **Maciej Kucharski** has won the **second prize** in the [63rd Józef Marcinkiewicz competition for the best student paper in mathematics](https://www.ptm.org.pl/konkursy/wyniki-kolejnych-edycji-konkursu-im-jozefa-marcinkiewicza-na-najlepsza-prace-studencka-z-ma).
 
-  The award recognises his paper *Dimension-free estimates for Riesz transforms related to the harmonic oscillator*, supervised by Dr hab. inż. **Błażej Wróbel**.
+  The award recognises his paper *Dimension-free estimates for Riesz transforms related to the harmonic oscillator*, supervised by Dr hab. **Błażej Wróbel**.
 zaklad: "analiza-funkcjonalna"
 opublikowany: true
 ---

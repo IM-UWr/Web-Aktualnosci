@@ -7,9 +7,9 @@ dla:
   - "studenci"
 zajawka: "Projekt dr. hab. inż. Błażeja Wróbla otrzymał dofinansowanie w konkursie PRELUDIUM BIS 1."
 tytul_en: "PRELUDIUM BIS grant for Dr hab. Błażej Wróbel"
-zajawka_en: "A project by Dr hab. inż. Błażej Wróbel has received funding in the PRELUDIUM BIS 1 competition."
+zajawka_en: "A project by Dr hab. Błażej Wróbel has received funding in the PRELUDIUM BIS 1 competition."
 tresc_en: |
-  The National Science Centre (NCN) has published the list of projects funded in the PRELUDIUM BIS 1 competition. We are pleased to announce that they include the project of Dr hab. inż. **Błażej Wróbel**, [*Oszacowania norm transformat Riesza*](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2019-09-16/streszczenia/459556-pl.pdf) (Norm estimates for Riesz transforms).
+  The National Science Centre (NCN) has published the list of projects funded in the PRELUDIUM BIS 1 competition. We are pleased to announce that they include the project of Dr hab. **Błażej Wróbel**, [*Oszacowania norm transformat Riesza*](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2019-09-16/streszczenia/459556-pl.pdf) (Norm estimates for Riesz transforms).
 
   PRELUDIUM BIS is a new type of NCN competition funding a four-year scholarship and research of a doctoral student in a doctoral school.
 zaklad: "analiza-funkcjonalna"

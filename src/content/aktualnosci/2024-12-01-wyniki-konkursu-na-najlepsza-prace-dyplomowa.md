@@ -29,27 +29,27 @@ tresc_en: |
   Two **honourable mentions** were awarded to
 
   - **Katarzyna Hasal** for the thesis *Williamson transforms of probability distributions and their inversions*, supervised by Dr Marek Arendarczyk,
-  - **Rafał Łyżwa** for the thesis *O reprezentacji w teorii operatorów Dunkla funkcji harmonicznych z warunkiem Carlesona*, supervised by Prof. Jacek Dziubański.
+  - **Rafał Łyżwa** for the thesis *O reprezentacji w teorii operatorów Dunkla funkcji harmonicznych z warunkiem Carlesona* (On the representation of harmonic functions satisfying the Carleson condition in Dunkl theory), supervised by Prof. Jacek Dziubański.
 
   ## Bachelor's theses
 
   The winners of the competition for the best bachelor's thesis in mathematics were chosen during the final held on **6 December 2024**. Three **prizes** were awarded:
 
   - the **first** to **Jadwiga Świerczyńska** for the thesis *Finitely additive measures on ω*, supervised by Dr hab. Piotr Borodulin-Nadzieja (this thesis also received the **audience award**),
-  - two equal **second** prizes to **Weronika Jakimowicz** for the thesis *Knot colorings and homological invariants*, supervised by Prof. Lech Januszkiewicz, and to **Zuzanna Nogala** for the thesis *Zastosowanie operatora Steina do testowania zgodności z rozkładem Weibulla w obecności prawostronnego cenzurowania*, supervised by Dr Grzegorz Wyłupek,
+  - two equal **second** prizes to **Weronika Jakimowicz** for the thesis *Knot colorings and homological invariants*, supervised by Prof. Lech Januszkiewicz, and to **Zuzanna Nogala** for the thesis *Zastosowanie operatora Steina do testowania zgodności z rozkładem Weibulla w obecności prawostronnego cenzurowania* (Applying the Stein operator to goodness-of-fit testing for the Weibull distribution under right censoring), supervised by Dr Grzegorz Wyłupek,
 
   and an **honourable mention** to
 
-  - **Antoni Bieniasz** for the thesis *Charakterystyka dominacji oraz krzywych Lorenza z zastosowaniem do testów ilorazu wiarogodności*, supervised by Dr Grzegorz Wyłupek.
+  - **Antoni Bieniasz** for the thesis *Charakterystyka dominacji oraz krzywych Lorenza z zastosowaniem do testów ilorazu wiarogodności* (Characterising dominance and Lorenz curves, with applications to likelihood ratio tests), supervised by Dr Grzegorz Wyłupek.
 
   In addition, the **Wrocław Mathematicians Foundation Prize** was awarded to
 
-  - **Mateusz Padarz** for the thesis *Dekompozycje grafów na grafy regularne*, supervised by Dr hab. Piotr Borodulin-Nadzieja.
+  - **Mateusz Padarz** for the thesis *Dekompozycje grafów na grafy regularne* (Decompositions of graphs into regular graphs), supervised by Dr hab. Piotr Borodulin-Nadzieja.
 
   The other finalists were:
 
   - **Dominik Bargieła**, *Topological Stäckel Hypothesis* (supervisor: Dr hab. Piotr Borodulin-Nadzieja),
-  - **Filip Gaj**, *Zastosowanie ukrytych modeli Markowa do klasyfikacji szeregów czasowych* (supervisor: Dr hab. Paweł Lorek).
+  - **Filip Gaj**, *Zastosowanie ukrytych modeli Markowa do klasyfikacji szeregów czasowych* (Applying hidden Markov models to time series classification; supervisor: Dr hab. Paweł Lorek).
 
   The results in computer science are available on the [Faculty website](https://wmi.uwr.edu.pl/konkurs-na-prace-dyplomowa/wyniki-edycji-2024/). A recording of the final is available on the [Faculty's YouTube channel](https://www.youtube.com/watch?v=z3L_xP7R_9w&t=23s).
 

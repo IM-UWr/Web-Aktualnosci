@@ -19,18 +19,18 @@ tresc_en: |
     - **Aleksander Pogoda**, *Round and Advice Complexity of Local Broadcast in Radio Networks*, supervisor: Prof. Tomasz Jurdziński
     - **Łukasz Galas, Wojciech Pawlik**, *Regular Games compiler*, supervisors: Dr Marek Szykuła, Dr Jakub Kowalski
   - **honourable mention**:
-    - **Paweł Patreucha**, *Modelowanie wariantywności wewnątrzgatunkowej w mailach generowanych przez LLM*, supervisor: Dr hab. Krzysztof Topolski
+    - **Paweł Patreucha**, *Modelowanie wariantywności wewnątrzgatunkowej w mailach generowanych przez LLM* (Modelling intra-genre variation in LLM-generated emails), supervisor: Dr hab. Krzysztof Topolski
     - **Mateusz Rzepecki**, *Implementing superhuman AI for Azul board game with a variation of NNUE*, supervisor: Dr Jakub Kowalski
 
   ## Engineering and bachelor's theses
 
-  - **1st place** (PLN 1500): **Jakub Janeczko**, *Akcelerator graficzny fixed-pipeline oparty na FPGA*, supervisor: Dr Marek Materzok
+  - **1st place** (PLN 1500): **Jakub Janeczko**, *Akcelerator graficzny fixed-pipeline oparty na FPGA* (An FPGA-based fixed-pipeline graphics accelerator), supervisor: Dr Marek Materzok
   - **2nd place** (PLN 1000):
-    - **Zuzanna Kurnicka**, *Implementacja systemu dystrybucji powiadomień na platformie MS Teams w oparciu o architekturę chmurową MS Azure*, supervisor: Paweł Rzechonek, MSc
+    - **Zuzanna Kurnicka**, *Implementacja systemu dystrybucji powiadomień na platformie MS Teams w oparciu o architekturę chmurową MS Azure* (Implementing a notification distribution system on the MS Teams platform using the MS Azure cloud architecture), supervisor: Paweł Rzechonek, MSc
     - **Kacper Misiaszek**, *But: Infrastructure Automation for Programming Contests*, supervisor: Tomasz Wierzbicki, MSc
   - **3rd place** (PLN 500):
     - **Agnieszka Grala**, *Self-Supervised Learning in Deep Switching Kalman Filters*, supervisors: Dr hab. Piotr Wnuk-Lipiński, Mikołaj Słupiński, MSc
-    - **Michał Siwiec**, *Maszyna do rozwiązywania Sudoku*, supervisor: Prof. Krzysztof Loryś
+    - **Michał Siwiec**, *Maszyna do rozwiązywania Sudoku* (A Sudoku-solving machine), supervisor: Prof. Krzysztof Loryś
     - **Wiktor Zoga**, *Generations in self-similar fragmentation of positive index*, supervisor: Dr Piotr Dyszewski
 
   Congratulations to the winners and their supervisors.

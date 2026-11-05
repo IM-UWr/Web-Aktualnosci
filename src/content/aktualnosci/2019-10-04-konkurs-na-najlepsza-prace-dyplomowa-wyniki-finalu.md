@@ -21,7 +21,7 @@ tresc_en: |
   1. **Aleksandra Steiner** for the thesis *Regresja logistyczna – asymptotyczne własności estymatorów największej wiarygodności* (Logistic regression – asymptotic properties of maximum likelihood estimators; supervisor: Dr hab. Małgorzata Bogdan),
   2. **Michał Szachniewicz** for the thesis *O pewnych własnościach topologii logicznej* (On some properties of the logic topology; supervisor: Prof. Krzysztof Krupiński).
 
-  As announced earlier, the winners of the competition for the best master's thesis in mathematics are **Daniel Danielski** for the thesis *Prostokątne grupy Coxetera o brzegu homeomorficznym z krzywą Mengera* (supervisor: Prof. Jacek Świątkowski) and **Michał Makowski** for the thesis *Precision matrix estimation in Gaussian graphical models* (supervisor: Dr hab. Małgorzata Bogdan).
+  As announced earlier, the winners of the competition for the best master's thesis in mathematics are **Daniel Danielski** for the thesis *Prostokątne grupy Coxetera o brzegu homeomorficznym z krzywą Mengera* (Right-angled Coxeter groups with boundary homeomorphic to the Menger curve; supervisor: Prof. Jacek Świątkowski) and **Michał Makowski** for the thesis *Precision matrix estimation in Gaussian graphical models* (supervisor: Dr hab. Małgorzata Bogdan).
 
   Congratulations!
 

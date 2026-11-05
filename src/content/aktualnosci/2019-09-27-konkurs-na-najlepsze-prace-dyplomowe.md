@@ -16,13 +16,13 @@ tresc_en: |
 
   The committee selected the following theses for the second stage of the competition for the best bachelor's thesis in mathematics:
 
-  1. **Kajetan Jastrzębski**, *Symetria jądra ciepła operatorów nielokalnych* (supervisor: Prof. Krzysztof Bogdan),
+  1. **Kajetan Jastrzębski**, *Symetria jądra ciepła operatorów nielokalnych* (Symmetry of the heat kernel of nonlocal operators; supervisor: Prof. Krzysztof Bogdan),
   2. **Katarzyna Kulon**, *Modelling health insurances using non-homogeneous Markov processes* (supervisor: Prof. Tomasz Rolski),
-  3. **Aleksandra Steiner**, *Regresja logistyczna – asymptotyczne własności estymatorów największej wiarygodności* (supervisor: Dr hab. Małgorzata Bogdan),
+  3. **Aleksandra Steiner**, *Regresja logistyczna – asymptotyczne własności estymatorów największej wiarygodności* (Logistic regression – asymptotic properties of maximum likelihood estimators; supervisor: Dr hab. Małgorzata Bogdan),
   4. **Bartosz Sójka**, *Explanation of connection between Hopf algebras and Markov chains* (supervisor: Prof. Dariusz Buraczewski),
-  5. **Michał Szachniewicz**, *O pewnych własnościach topologii logicznej* (supervisor: Prof. Krzysztof Krupiński),
-  6. **Kamil Szubiński**, *Analiza niestandardowa i jej zastosowania* (supervisor: Prof. Ludomir Newelski),
-  7. **Szymon Czop**, *Cumulants and χ2-conjecture* (supervisor: Dr inż. Wiktor Ejsmont).
+  5. **Michał Szachniewicz**, *O pewnych własnościach topologii logicznej* (On some properties of the logic topology; supervisor: Prof. Krzysztof Krupiński),
+  6. **Kamil Szubiński**, *Analiza niestandardowa i jej zastosowania* (Nonstandard analysis and its applications; supervisor: Prof. Ludomir Newelski),
+  7. **Szymon Czop**, *Cumulants and χ2-conjecture* (supervisor: Dr Wiktor Ejsmont).
 
   Congratulations to all winners, finalists and their supervisors.
 

@@ -8,10 +8,10 @@ zajawka: "Dr hab. Mariusz Mirek otrzymał Nagrodę Wrocławskiego Oddziału PAN 
 zdjecie: "/pliki/aktualnosci/dyplom_laureata_mariusz_mirek.jpg"
 zdjecie_opis: "Dyplom laureata nagrody „Iuvenes Wratislaviae”"
 zdjecie_opis_en: "“Iuvenes Wratislaviae” award diploma"
-tytul_en: "Mariusz Mirek receives the “Iuvenes Wratislaviae” award"
-zajawka_en: "Dr hab. Mariusz Mirek has received the “Iuvenes Wratislaviae” award of the Wrocław Branch of the Polish Academy of Sciences in life, exact and technical sciences."
+tytul_en: "Mariusz Mirek receives the “Iuvenes Wratislaviae” (Young People of Wrocław) award"
+zajawka_en: "Dr hab. Mariusz Mirek has received the “Iuvenes Wratislaviae” (Young People of Wrocław) award of the Wrocław Branch of the Polish Academy of Sciences in life, exact and technical sciences."
 tresc_en: |
-  We are pleased to announce that our colleague Dr hab. **Mariusz Mirek** has received the **“Iuvenes Wratislaviae” award of the Wrocław Branch of the Polish Academy of Sciences**.
+  We are pleased to announce that our colleague Dr hab. **Mariusz Mirek** has received the **“Iuvenes Wratislaviae” (Young People of Wrocław) award of the Wrocław Branch of the Polish Academy of Sciences**.
 
   The award is given to young residents of Wrocław for outstanding scientific or artistic achievement. Dr hab. Mariusz Mirek was recognised in the area of life, exact and technical sciences.
 

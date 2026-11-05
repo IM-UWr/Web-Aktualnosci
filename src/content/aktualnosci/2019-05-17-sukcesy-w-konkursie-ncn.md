@@ -12,7 +12,7 @@ tresc_en: |
 
   - Prof. **Krzysztof Dębicki**, [*Wycieczki wielowymiarowych procesów gaussowskich: dokładne asymptotyki*](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2018-09-14/streszczenia/431713-pl.pdf) (Excursions of multidimensional Gaussian processes: exact asymptotics),
   - Dr hab. **Piotr Kowalski**, [*Działania grup i teoria modeli*](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2018-09-14/streszczenia/428373-pl.pdf) (Group actions and model theory),
-  - Dr inż. **Błażej Wróbel**, [*Ciągłe i dyskretne perspektywy w analizie harmonicznej*](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2018-09-14/streszczenia/429555-pl.pdf) (Continuous and discrete perspectives in harmonic analysis).
+  - Dr **Błażej Wróbel**, [*Ciągłe i dyskretne perspektywy w analizie harmonicznej*](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2018-09-14/streszczenia/429555-pl.pdf) (Continuous and discrete perspectives in harmonic analysis).
 
   [Full results of the competition](https://www.ncn.gov.pl/konkursy/wyniki/2019-05-15-opus16-preludium16-sonata14) – panel ST1.
 opublikowany: true

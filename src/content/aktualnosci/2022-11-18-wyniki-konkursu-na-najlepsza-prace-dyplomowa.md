@@ -28,7 +28,7 @@ tresc_en: |
 
   - the **first** to **Dominik Gdesz** for the thesis [*Przestrzeń wielomianów właściwych*](/pliki/aktualnosci/gdesz.pdf) (The space of proper polynomials), supervised by Prof. Tadeusz Januszkiewicz,
   - the **second** to **Mateusz Kandybo** for the thesis [*CAT(0)-boundaries of free products are dense amalgams*](/pliki/aktualnosci/kandybo_mateusz_praca.pdf), supervised by Prof. Jacek Świątkowski,
-  - the **third** to **Jakub Niksiński** for the thesis [*Rozwiązanie problemu Waringa ze szczególnym uwzględnieniem zależności od wymiaru w oszacowania błędu. Znalezienie jawnych oszacowań dla błędów wyższego rzędu w pracy Vaughan-Wooley*](/pliki/aktualnosci/niksinski.pdf) (on Waring's problem, with emphasis on the dimension dependence of the error estimates), supervised by Dr hab. inż. Błażej Wróbel,
+  - the **third** to **Jakub Niksiński** for the thesis [*Rozwiązanie problemu Waringa ze szczególnym uwzględnieniem zależności od wymiaru w oszacowania błędu. Znalezienie jawnych oszacowań dla błędów wyższego rzędu w pracy Vaughan-Wooley*](/pliki/aktualnosci/niksinski.pdf) (Solving Waring's problem with particular attention to the dependence of the error estimates on the dimension. Finding explicit estimates for higher-order errors in the work of Vaughan and Wooley), supervised by Dr hab. Błażej Wróbel,
 
   and an honourable mention to
 

@@ -7,7 +7,7 @@ dla:
   - "studenci"
 zajawka: "Daniel Danielski otrzymał wyróżnienie i nagrodę 10 tys. zł w czwartej edycji konkursu „Krok w Przyszłość”."
 tytul_en: "Success in the mBank competition"
-zajawka_en: "Daniel Danielski received an honourable mention and a PLN 10,000 prize in the fourth edition of the “Krok w Przyszłość” competition."
+zajawka_en: "Daniel Danielski received an honourable mention and a PLN 10,000 prize in the fourth edition of the “Krok w Przyszłość” (Step into the Future) competition."
 tresc_en: |
   The results of the fourth edition of mBank's “Krok w Przyszłość” (Step into the Future) competition for the best student paper in mathematics were announced in Warsaw.
 

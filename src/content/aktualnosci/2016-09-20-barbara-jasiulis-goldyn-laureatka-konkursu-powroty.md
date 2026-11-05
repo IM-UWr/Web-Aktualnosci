@@ -8,10 +8,10 @@ zajawka: "Dr Barbara Jasiulis-Gołdyn została laureatką pierwszej edycji konku
 zdjecie: "/pliki/aktualnosci/jasiulis-goldyn.jpg"
 zdjecie_opis: "Dr Barbara Jasiulis-Gołdyn"
 zdjecie_opis_en: "Dr Barbara Jasiulis-Gołdyn"
-tytul_en: "Barbara Jasiulis-Gołdyn wins the POWROTY competition"
+tytul_en: "Barbara Jasiulis-Gołdyn wins the POWROTY (Homing) competition"
 zajawka_en: "Dr Barbara Jasiulis-Gołdyn has won the first edition of the Foundation for Polish Science POWROTY (Homing) competition."
 tresc_en: |
-  Dr **Barbara Jasiulis-Gołdyn** has won the first edition of the POWROTY competition organised by the Foundation for Polish Science.
+  Dr **Barbara Jasiulis-Gołdyn** has won the first edition of the POWROTY (Homing) competition organised by the Foundation for Polish Science.
 
   Her project [*Pierwszego rzędu maksymalne procesy autoregresji typu Kendalla i ich zastosowania*](/pliki/aktualnosci/opis-popularnonukowy_bjasiulis-goldyn_2.pdf) (First order Kendall maximal autoregressive processes and their applications; popular-science description in Polish) was selected.
 

@@ -11,7 +11,7 @@ zdjecie_opis: "Prof. Błażej Wróbel"
 zdjecie_opis_en: "Prof. Błażej Wróbel"
 tytul_en: "Błażej Wróbel becomes a full professor!"
 zajawka_en: "The President of Poland has conferred on Błażej Wróbel the title of Professor of Exact and Natural Sciences in mathematics."
-tresc_en: "We are pleased to announce that the President of the Republic of Poland has conferred the title of Professor of Exact and Natural Sciences in the discipline of mathematics on Dr hab. inż. **Błażej Wróbel**, a member of staff of the Institute of Mathematics of the Polish Academy of Sciences and of our Institute."
+tresc_en: "We are pleased to announce that the President of the Republic of Poland has conferred the title of Professor of Exact and Natural Sciences in the discipline of mathematics on Dr hab. **Błażej Wróbel**, a member of staff of the Institute of Mathematics of the Polish Academy of Sciences and of our Institute."
 zaklad: "analiza-funkcjonalna"
 opublikowany: true
 ---

@@ -10,7 +10,7 @@ zdjecie: "/pliki/aktualnosci/dscf3404.jpg"
 zdjecie_opis: "Ogłoszenie wyników konkursu „Krok w Przyszłość” w Warszawie"
 zdjecie_opis_en: "Announcement of the results of the “Krok w Przyszłość” competition in Warsaw"
 tytul_en: "Success in the mBank competition"
-zajawka_en: "Three of our graduates were among the six finalists of the “Krok w Przyszłość” competition; Katarzyna Siejek received an honourable mention."
+zajawka_en: "Three of our graduates were among the six finalists of the “Krok w Przyszłość” (Step into the Future) competition; Katarzyna Siejek received an honourable mention."
 tresc_en: |
   Yesterday in Warsaw the results of the latest edition of mBank's “Krok w Przyszłość” (Step into the Future) competition were announced.
 
