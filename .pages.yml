@@ -274,3 +274,6 @@ content:
     type: rich-text
     options:
       format: markdown
+  - name: tresc_en
+    label: 'EN: treść (Markdown; puste = wersja angielska pokaże zaproszenie złożone z danych obrony)'
+    type: text

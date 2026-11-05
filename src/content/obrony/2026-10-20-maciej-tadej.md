@@ -16,6 +16,10 @@ recenzje:
     plik: "https://www.math.uni.wroc.pl/sites/default/files/recenzja_spetrovskiy_tadej.pdf"
 w_aktualnosciach: true
 opublikowany: true
+tresc_en: |-
+  You are cordially invited to the public defence of the doctoral dissertation of Maciej Tadej, MSc, entitled *Analysis and simulations of the non-linear models with non-local dispersal of species considered in finite, flat habitats*.
+
+  The dissertation, abstracts and reviews are available below.
 ---
 
 Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Macieja Tadeja pt. *Analysis and simulations of the non-linear models with non-local dispersal of species considered in finite, flat habitats*.

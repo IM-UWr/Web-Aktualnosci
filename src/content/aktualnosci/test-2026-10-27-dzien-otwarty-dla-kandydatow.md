@@ -7,6 +7,7 @@ dla:
 zajawka: "Mini-wykłady, rozmowy ze studentami i kołami naukowymi oraz wszystko o rekrutacji na matematykę. Sobota, 28 listopada, 10:00–14:00."
 zdjecie: "/pliki/aktualnosci/test-dzien-otwarty.jpg"
 zdjecie_opis: "Mozaika Voronoi w kolorach strony Instytutu. Grafika testowa"
+zdjecie_opis_en: "A Voronoi mosaic in the Institute’s colours. Test image"
 wydarzenie_poczatek: "2026-11-28T10:00"
 wydarzenie_koniec: "2026-11-28T14:00"
 wydarzenie_miejsce: "Instytut Matematyczny UWr, pl. Grunwaldzki 2"

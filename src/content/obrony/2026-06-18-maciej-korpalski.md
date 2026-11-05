@@ -16,6 +16,10 @@ recenzje:
     plik: "https://www.math.uni.wroc.pl/sites/default/files/recenzja_jkakol_korpalski.pdf"
 w_aktualnosciach: true
 opublikowany: true
+tresc_en: |-
+  You are cordially invited to the public defence of the doctoral dissertation of Maciej Korpalski, MSc, entitled *On isomorphic and geometric properties of Banach spaces of continuous functions*.
+
+  The dissertation, abstracts and reviews are available below.
 ---
 
 Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Macieja Korpalskiego pt. *On isomorphic and geometric properties of Banach spaces of continuous functions*.

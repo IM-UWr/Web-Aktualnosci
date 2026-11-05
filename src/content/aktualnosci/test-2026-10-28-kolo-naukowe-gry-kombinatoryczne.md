@@ -7,6 +7,7 @@ dla:
 zajawka: "Popularny referat o grach kombinatorycznych i twierdzeniu Sprague’a–Grundy’ego. Wstęp wolny, zapisy niepotrzebne."
 zdjecie: "/pliki/aktualnosci/test-kolo-gry-kombinatoryczne.jpg"
 zdjecie_opis: "Tabela dodawania w grze Nim (a XOR b); bursztynowe pola na przekątnej to pozycje przegrywające. Grafika testowa"
+zdjecie_opis_en: "Addition table of the game of Nim (a XOR b); the amber cells on the diagonal are losing positions. Test image"
 wydarzenie_poczatek: "2026-11-02T18:15"
 wydarzenie_koniec: "2026-11-02T19:45"
 wydarzenie_miejsce: "sala 603, Instytut Matematyczny UWr"

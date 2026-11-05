@@ -17,6 +17,10 @@ recenzje:
 data_ogloszenia: "2026-10-28"
 w_aktualnosciach: true
 opublikowany: true
+tresc_en: |-
+  You are cordially invited to the public defence of the doctoral dissertation of Mister Test, MSc, entitled *Topological dynamics of automorphism groups of countable homogeneous structures*.
+
+  The dissertation, abstracts and reviews are available below.
 ---
 
 Zapraszamy na publiczną obronę rozprawy doktorskiej mgr. Mister Test pt. *Topological dynamics of automorphism groups of countable homogeneous structures*.

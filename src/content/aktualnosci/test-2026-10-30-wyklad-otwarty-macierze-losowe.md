@@ -9,6 +9,7 @@ dla:
 zajawka: "Prof. Mister Test (Uniwersytet Test) o zaskakującym związku zer funkcji dzeta Riemanna z wartościami własnymi macierzy losowych."
 zdjecie: "/pliki/aktualnosci/test-wyklad-macierze-losowe.jpg"
 zdjecie_opis: "Kolorowanie dziedziny wielomianu charakterystycznego losowej macierzy unitarnej; białe punkty to wartości własne na okręgu jednostkowym. Grafika testowa"
+zdjecie_opis_en: "Domain colouring of the characteristic polynomial of a random unitary matrix; the white dots are eigenvalues on the unit circle. Test image"
 wydarzenie_poczatek: "2026-11-12T13:15"
 wydarzenie_koniec: "2026-11-12T14:45"
 wydarzenie_miejsce: "sala WS, Instytut Matematyczny UWr"

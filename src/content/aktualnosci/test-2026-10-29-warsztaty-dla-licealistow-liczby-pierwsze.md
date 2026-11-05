@@ -7,6 +7,7 @@ dla:
 zajawka: "Cztery godziny zajęć o liczbach pierwszych i kryptografii dla uczniów szkół średnich. Szkoły mogą zgłaszać grupy do 30 osób."
 zdjecie: "/pliki/aktualnosci/test-warsztaty-liczby-pierwsze.jpg"
 zdjecie_opis: "Spirala Ulama: liczby pierwsze jako jasne punkty, na bursztynowo — wartości wielomianu Eulera n² + n + 41. Grafika testowa"
+zdjecie_opis_en: "The Ulam spiral: primes as bright dots, with values of Euler’s polynomial n² + n + 41 in amber. Test image"
 wydarzenie_poczatek: "2026-11-05T09:30"
 wydarzenie_koniec: "2026-11-05T13:30"
 wydarzenie_miejsce: "sala HS, Instytut Matematyczny UWr"
