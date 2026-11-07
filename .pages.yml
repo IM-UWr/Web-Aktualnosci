@@ -49,6 +49,19 @@ content:
         label: Sukces
       - name: kariera
         label: Kariera
+  - name: body
+    label: Treść
+    type: rich-text
+    options:
+      format: markdown
+      path: public/pliki/aktualnosci
+  - name: tresc_en
+    label: Treść EN
+    description: Treść po angielsku, w tym samym układzie co Treść. Puste = wersja angielska pokaże treść po polsku.
+    type: rich-text
+    options:
+      format: markdown
+      path: public/pliki/aktualnosci
   - name: dla
     label: Dla kogo
     type: select
@@ -92,12 +105,6 @@ content:
   - name: wydarzenie_miejsce
     label: 'Wydarzenie: miejsce (np. sala WS, Instytut Matematyczny UWr)'
     type: string
-  - name: body
-    label: Treść
-    type: rich-text
-    options:
-      format: markdown
-      path: public/pliki/aktualnosci
   - name: galeria
     label: Galeria zdjęć
     type: object
@@ -160,9 +167,6 @@ content:
   - name: zajawka_en
     label: 'EN: zajawka'
     type: text
-  - name: tresc_en
-    label: 'EN: treść (Markdown; puste = wersja angielska pokaże treść po polsku)'
-    type: text
 - name: obrony
   label: Obrony doktorskie
   type: collection
@@ -187,6 +191,28 @@ content:
     label: Tytuł rozprawy
     type: string
     required: true
+  - name: termin
+    label: Termin obrony
+    type: date
+    required: true
+    options:
+      time: true
+      format: yyyy-MM-dd'T'HH:mm
+  - name: miejsce
+    label: Miejsce
+    type: string
+    default: sala WS, Instytut Matematyczny UWr
+  - name: body
+    label: Opis (opcjonalnie; puste = zaproszenie, a po terminie informacja o odbytej obronie, złożone z danych. Wpisany tekst nie zmieni się sam po terminie)
+    type: rich-text
+    options:
+      format: markdown
+  - name: tresc_en
+    label: Treść EN
+    description: Opis po angielsku, w tym samym układzie. Puste = wersja angielska pokaże zaproszenie złożone z danych (albo opis po polsku, gdy jest).
+    type: rich-text
+    options:
+      format: markdown
   - name: zdjecie
     label: Zdjęcie (opcjonalne; puste = domyślna grafika obrony)
     type: image
@@ -202,17 +228,6 @@ content:
     label: Promotor / promotorzy
     type: string
     list: true
-  - name: termin
-    label: Termin obrony
-    type: date
-    required: true
-    options:
-      time: true
-      format: yyyy-MM-dd'T'HH:mm
-  - name: miejsce
-    label: Miejsce
-    type: string
-    default: sala WS, Instytut Matematyczny UWr
   - name: data_ogloszenia
     label: Data ogłoszenia (pozycja na liście aktualności)
     type: date
@@ -264,14 +279,6 @@ content:
     options:
       values: *id001
     description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
-  - name: body
-    label: Opis (opcjonalnie; puste = zaproszenie, a po terminie informacja o odbytej obronie, złożone z danych. Wpisany tekst nie zmieni się sam po terminie)
-    type: rich-text
-    options:
-      format: markdown
-  - name: tresc_en
-    label: 'EN: treść (Markdown; puste = wersja angielska pokaże zaproszenie złożone z danych obrony)'
-    type: text
 - name: strony
   label: Strony
   description: 'Adres strony = ścieżka pliku, np. aktualnosci.md → /aktualnosci. Teksty stron z listą (tytuł, opis, hasło i tekst nad listą) to też strony: aktualnosci.md (Aktualności), obrony-doktorskie.md (Obrony doktorskie). Brak takiej strony nic nie psuje — lista pokaże domyślny tytuł i hasło, bez tekstu.'
@@ -289,11 +296,55 @@ content:
     label: Tytuł
     type: string
     required: true
+  - name: body
+    label: Treść
+    type: rich-text
+    options:
+      format: markdown
+      path: public/pliki/aktualnosci
+    description: |-
+      Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
+
+      Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
+
+      • Punkt listy zaczynający się pogrubieniem = kafelek.
+
+      • Lista numerowana z pogrubionym początkiem = oś kroków.
+
+      • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
+
+      • Lista samych linków = lista plików (PDF / strona).
+
+      • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
+
+      • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
+
+      • Plik PDF: wgraj w „Media” i wklej link.
+
+      • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
+
+      Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
+  - name: tytul_en
+    label: Tytuł EN
+    type: string
+  - name: tresc_en
+    label: Treść EN
+    description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
+    type: rich-text
+    options:
+      format: markdown
+      path: public/pliki/aktualnosci
   - name: opis
     label: Krótki opis (pod tytułem i w Google)
     type: text
+  - name: opis_en
+    label: 'EN: opis'
+    type: text
   - name: haslo
     label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+    type: string
+  - name: haslo_en
+    label: 'EN: hasło na banerze'
     type: string
   - name: haslo_podstron
     label: Hasło na banerze stron pojedynczych wpisów (tylko Publikacje — rocznik, i Obrony doktorskie — obrona)
@@ -333,21 +384,8 @@ content:
         label: Tylko menu działu (podstrony)
       - name: brak
         label: Bez prawego paska (strona na całą szerokość)
-  - name: body
-    label: Treść
-    type: rich-text
-    options:
-      format: markdown
-      path: public/pliki/aktualnosci
-  - name: tytul_en
-    label: 'EN: tytuł'
-    type: string
-  - name: opis_en
-    label: 'EN: opis'
-    type: text
-  - name: haslo_en
-    label: 'EN: hasło na banerze'
-    type: string
-  - name: tresc_en
-    label: 'EN: treść (Markdown)'
-    type: text
+  - name: bloki
+    label: Kafelki, oś i kontakty z list — zob. ściągawka
+    type: boolean
+    default: false
+    description: 'Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy.'
