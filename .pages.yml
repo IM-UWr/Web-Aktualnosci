@@ -108,7 +108,10 @@ content:
   - name: galeria
     label: Galeria zdjęć
     type: object
-    list: true
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{index}. {podpis}"
     fields:
     - name: plik
       label: Zdjęcie
@@ -124,7 +127,10 @@ content:
   - name: zalaczniki
     label: Załączniki (PDF itp.)
     type: object
-    list: true
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{nazwa}"
     fields:
     - name: nazwa
       label: Nazwa wyświetlana
@@ -260,7 +266,10 @@ content:
   - name: recenzje
     label: Recenzje
     type: object
-    list: true
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{recenzent}"
     fields:
     - name: recenzent
       label: Recenzent (np. prof. dr hab. Jan Kowalski)
@@ -355,7 +364,10 @@ content:
   - name: liczby
     label: Liczby pod hasłem na banerze (tylko gdy nie da się ich policzyć z danych)
     type: object
-    list: true
+    list:
+      collapsible:
+        collapsed: true
+        summary: "{n} {etykieta}"
     fields:
     - name: n
       label: Liczba (np. 8 albo 3 lata)
