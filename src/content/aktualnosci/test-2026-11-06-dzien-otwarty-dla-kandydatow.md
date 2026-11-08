@@ -1,19 +1,21 @@
 ---
-tytul: "Testowe: Dzień otwarty matematyki dla kandydatów"
-data: "2026-11-06"
-rodzaj: "wydarzenie"
+tytul: "TEST: Dzień otwarty matematyki dla kandydatów"
+data: 2026-11-06
+rodzaj: wydarzenie
 dla:
-  - "kandydaci"
-zajawka: "Mini-wykłady, rozmowy ze studentami i kołami naukowymi oraz wszystko o rekrutacji na matematykę. Sobota, 14 listopada, 10:00–14:00."
-zdjecie: "/pliki/aktualnosci/test-dzien-otwarty.jpg"
-zdjecie_opis: "Mozaika Voronoi w kolorach strony Instytutu. Grafika testowa"
-zdjecie_opis_en: "A Voronoi mosaic in the Institute’s colours. Test image"
-wydarzenie_poczatek: "2026-11-14T10:00"
-wydarzenie_koniec: "2026-11-14T14:00"
-wydarzenie_miejsce: "Instytut Matematyczny UWr, pl. Grunwaldzki 2"
-tytul_en: "Test: Mathematics open day for prospective students"
-zajawka_en: "Short lectures, meetings with students and science clubs, and everything about admission to mathematics. Saturday 14 November, 10:00–14:00."
-tresc_en: |
+  - kandydaci
+zajawka: TEST - przykładowe wydarzenie, nie jest rzeczywistą zapowiedzią. Mini-wykłady, rozmowy ze studentami i kołami naukowymi oraz wszystko o rekrutacji na matematykę. Sobota, 14 listopada, 10:00–14:00.
+zdjecie: /pliki/aktualnosci/test-dzien-otwarty.jpg
+zdjecie_opis: Mozaika Voronoi w kolorach strony Instytutu. Grafika testowa
+zdjecie_opis_en: A Voronoi mosaic in the Institute’s colours. Test image
+wydarzenie_poczatek: 2026-11-14T10:00
+wydarzenie_koniec: 2026-11-14T14:00
+wydarzenie_miejsce: TEST - miejsce przykładowe, bez rezerwacji sali
+tytul_en: "TEST: Mathematics open day for prospective students"
+zajawka_en: TEST - sample event, not a real announcement. Short lectures, meetings with students and science clubs, and everything about admission to mathematics. Saturday 14 November, 10:00–14:00.
+tresc_en: |-
+  **TEST: This entry is for testing the website. It does not announce a real meeting.**
+
   On Saturday **14 November** from **10:00** to **14:00** we invite secondary school students, their parents and teachers to the Mathematical Institute's **open day**.
 
   ## Programme
@@ -29,6 +31,8 @@ tresc_en: |
   *Test entry — an example for previewing the new website.*
 opublikowany: true
 ---
+
+**TEST: Wpis testowy do sprawdzania strony, nie jest zapowiedzią rzeczywistego spotkania.**
 
 W sobotę **14 listopada** w godz. **10:00–14:00** zapraszamy uczniów szkół średnich, ich rodziców i nauczycieli na **dzień otwarty** Instytutu Matematycznego.
 

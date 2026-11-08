@@ -1,19 +1,21 @@
 ---
-tytul: "Testowe: Spotkanie koła naukowego: gry kombinatoryczne, czyli dlaczego wszystko jest Nimem"
-data: "2026-11-03"
-rodzaj: "wydarzenie"
+tytul: "TEST: Spotkanie koła naukowego: gry kombinatoryczne, czyli dlaczego wszystko jest Nimem"
+data: 2026-11-03
+rodzaj: wydarzenie
 dla:
-  - "studenci"
-zajawka: "Popularny referat o grach kombinatorycznych i twierdzeniu Sprague’a–Grundy’ego. Wstęp wolny, zapisy niepotrzebne."
-zdjecie: "/pliki/aktualnosci/test-kolo-gry-kombinatoryczne.jpg"
-zdjecie_opis: "Tabela dodawania w grze Nim (a XOR b); bursztynowe pola na przekątnej to pozycje przegrywające. Grafika testowa"
-zdjecie_opis_en: "Addition table of the game of Nim (a XOR b); the amber cells on the diagonal are losing positions. Test image"
-wydarzenie_poczatek: "2026-11-09T18:15"
-wydarzenie_koniec: "2026-11-09T19:45"
-wydarzenie_miejsce: "sala 603, Instytut Matematyczny UWr"
-tytul_en: "Test: Student club meeting: combinatorial games, or why everything is Nim"
-zajawka_en: "A popular talk on combinatorial games and the Sprague–Grundy theorem. Free entry, no registration needed."
-tresc_en: |
+  - studenci
+zajawka: TEST - przykładowe wydarzenie, nie jest rzeczywistą zapowiedzią. Popularny referat o grach kombinatorycznych i twierdzeniu Sprague’a–Grundy’ego. Wstęp wolny, zapisy niepotrzebne.
+zdjecie: /pliki/aktualnosci/test-kolo-gry-kombinatoryczne.jpg
+zdjecie_opis: Tabela dodawania w grze Nim (a XOR b); bursztynowe pola na przekątnej to pozycje przegrywające. Grafika testowa
+zdjecie_opis_en: Addition table of the game of Nim (a XOR b); the amber cells on the diagonal are losing positions. Test image
+wydarzenie_poczatek: 2026-11-09T18:15
+wydarzenie_koniec: 2026-11-09T19:45
+wydarzenie_miejsce: TEST - miejsce przykładowe, bez rezerwacji sali
+tytul_en: "TEST: Student club meeting: combinatorial games, or why everything is Nim"
+zajawka_en: TEST - sample event, not a real announcement. A popular talk on combinatorial games and the Sprague–Grundy theorem. Free entry, no registration needed.
+tresc_en: |-
+  **TEST: This entry is for testing the website. It does not announce a real meeting.**
+
   The **Students' Scientific Club of Theoretical Mathematicians** invites you on Monday **9 November** at **18:15** to room **603** for a talk by **Mister Test** (3rd-year mathematics student):
 
   *Combinatorial games, or why everything is Nim*
@@ -27,6 +29,8 @@ tresc_en: |
   *Test entry — an example for previewing the new website.*
 opublikowany: true
 ---
+
+**TEST: Wpis testowy do sprawdzania strony, nie jest zapowiedzią rzeczywistego spotkania.**
 
 **Koło Naukowe Matematyków Teoretyków** zaprasza w poniedziałek **9 listopada** o godz. **18:15** do sali **603** na referat **Mister Test** (student III roku matematyki) pt.
 

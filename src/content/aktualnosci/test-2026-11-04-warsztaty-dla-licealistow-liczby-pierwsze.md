@@ -1,19 +1,21 @@
 ---
-tytul: "Testowe: Warsztaty dla licealistów: od spirali Ulama do szyfru RSA"
-data: "2026-11-04"
-rodzaj: "wydarzenie"
+tytul: "TEST: Warsztaty dla licealistów: od spirali Ulama do szyfru RSA"
+data: 2026-11-04
+rodzaj: wydarzenie
 dla:
-  - "kandydaci"
-zajawka: "Cztery godziny zajęć o liczbach pierwszych i kryptografii dla uczniów szkół średnich. Szkoły mogą zgłaszać grupy do 30 osób."
-zdjecie: "/pliki/aktualnosci/test-warsztaty-liczby-pierwsze.jpg"
+  - kandydaci
+zajawka: TEST - przykładowe wydarzenie, nie jest rzeczywistą zapowiedzią. Cztery godziny zajęć o liczbach pierwszych i kryptografii dla uczniów szkół średnich. Szkoły mogą zgłaszać grupy do 30 osób.
+zdjecie: /pliki/aktualnosci/test-warsztaty-liczby-pierwsze.jpg
 zdjecie_opis: "Spirala Ulama: liczby pierwsze jako jasne punkty, na bursztynowo — wartości wielomianu Eulera n² + n + 41. Grafika testowa"
 zdjecie_opis_en: "The Ulam spiral: primes as bright dots, with values of Euler’s polynomial n² + n + 41 in amber. Test image"
-wydarzenie_poczatek: "2026-11-12T09:30"
-wydarzenie_koniec: "2026-11-12T13:30"
-wydarzenie_miejsce: "sala HS, Instytut Matematyczny UWr"
-tytul_en: "Test: Workshop for secondary school students: from the Ulam spiral to RSA"
-zajawka_en: "Four hours of activities on prime numbers and cryptography for secondary school students. Schools can register groups of up to 30."
-tresc_en: |
+wydarzenie_poczatek: 2026-11-12T09:30
+wydarzenie_koniec: 2026-11-12T13:30
+wydarzenie_miejsce: TEST - miejsce przykładowe, bez rezerwacji sali
+tytul_en: "TEST: Workshop for secondary school students: from the Ulam spiral to RSA"
+zajawka_en: TEST - sample event, not a real announcement. Four hours of activities on prime numbers and cryptography for secondary school students. Schools can register groups of up to 30.
+tresc_en: |-
+  **TEST: This entry is for testing the website. It does not announce a real meeting.**
+
   On Thursday **12 November** from **9:30** to **13:30** we invite secondary school students to room **HS** for a workshop on prime numbers and cryptography.
 
   We will start with the **Ulam spiral**: write consecutive natural numbers along a square spiral, mark the primes, and unexpected diagonal lines appear. One of them is made of values of Euler's polynomial $n^2 + n + 41$, which gives primes for $n = 0, 1, \dots, 39$. Next, participants will check by hand why there are infinitely many primes and how quickly the sieve of Eratosthenes finds them.
@@ -25,6 +27,8 @@ tresc_en: |
   *Test entry — an example for previewing the new website.*
 opublikowany: true
 ---
+
+**TEST: Wpis testowy do sprawdzania strony, nie jest zapowiedzią rzeczywistego spotkania.**
 
 W czwartek **12 listopada** w godz. **9:30–13:30** zapraszamy uczniów szkół średnich do sali **HS** na warsztaty o liczbach pierwszych i kryptografii.
 
