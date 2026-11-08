@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Tamara Frączek laureatką LVII konkursu na najlepszą pracę z zakresu teorii prawdopodobieństwa i zastosowań matematyki"
 data: "2024-03-13"
 rodzaj: "sukces"

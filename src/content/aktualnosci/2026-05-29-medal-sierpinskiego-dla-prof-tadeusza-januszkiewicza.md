@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Medal Sierpińskiego dla prof. Tadeusza Januszkiewicza"
 data: "2026-05-29"
 rodzaj: "sukces"

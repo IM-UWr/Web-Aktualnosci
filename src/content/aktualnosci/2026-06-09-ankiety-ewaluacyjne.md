@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Ankiety ewaluacyjne"
 data: "2026-06-09"
 rodzaj: "ogloszenie"

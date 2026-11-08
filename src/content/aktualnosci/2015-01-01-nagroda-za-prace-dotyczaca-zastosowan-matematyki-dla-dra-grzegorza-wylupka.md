@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda za pracę dotyczącą zastosowań matematyki dla dr. Grzegorza Wyłupka"
 data: "2015-01-01"
 rodzaj: "sukces"

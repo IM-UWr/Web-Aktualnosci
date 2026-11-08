@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Mariusz Mirek i Błażej Wróbel z nagrodą 2026 Frontiers of Science Award"
 data: "2026-05-22"
 rodzaj: "sukces"

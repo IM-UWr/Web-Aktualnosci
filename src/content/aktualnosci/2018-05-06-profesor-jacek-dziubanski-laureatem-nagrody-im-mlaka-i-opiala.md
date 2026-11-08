@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Profesor Jacek Dziubański laureatem Nagrody im. Mlaka i Opiala"
 data: "2018-05-06"
 rodzaj: "sukces"

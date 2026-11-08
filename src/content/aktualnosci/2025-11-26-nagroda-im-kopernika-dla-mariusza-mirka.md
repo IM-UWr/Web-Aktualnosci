@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda im. Kopernika dla Mariusza Mirka"
 data: "2025-11-26"
 rodzaj: "sukces"

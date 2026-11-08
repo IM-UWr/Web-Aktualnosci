@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Karol Duda wyróżniony w konkursie im. Stefana Banacha"
 data: "2024-10-06"
 rodzaj: "sukces"

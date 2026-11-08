@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Lvzhou Chen laureatem Nagrody im. Kamila Duszenki"
 data: "2026-05-29"
 rodzaj: "sukces"

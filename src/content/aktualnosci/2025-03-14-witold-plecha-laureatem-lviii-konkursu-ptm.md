@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Witold Płecha laureatem LVIII konkursu na najlepszą pracę z zakresu teorii prawdopodobieństwa i zastosowań matematyki"
 data: "2025-03-14"
 rodzaj: "sukces"

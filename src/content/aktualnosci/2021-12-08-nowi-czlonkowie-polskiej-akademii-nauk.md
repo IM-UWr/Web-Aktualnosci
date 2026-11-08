@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nowi członkowie Polskiej Akademii Nauk"
 data: "2021-12-08"
 rodzaj: "sukces"

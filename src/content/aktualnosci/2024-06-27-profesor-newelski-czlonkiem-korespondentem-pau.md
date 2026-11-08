@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Profesor Newelski członkiem korespondentem Polskiej Akademii Umiejętności"
 data: "2024-06-27"
 rodzaj: "sukces"

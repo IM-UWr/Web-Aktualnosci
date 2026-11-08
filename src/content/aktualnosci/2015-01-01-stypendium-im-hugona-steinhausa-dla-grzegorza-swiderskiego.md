@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium im. Hugona Steinhausa dla Grzegorza Świderskiego"
 data: "2015-01-01"
 rodzaj: "sukces"

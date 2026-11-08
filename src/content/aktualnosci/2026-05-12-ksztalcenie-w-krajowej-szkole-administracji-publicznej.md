@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Kształcenie w Krajowej Szkole Administracji Publicznej"
 data: "2026-05-12"
 rodzaj: "kariera"

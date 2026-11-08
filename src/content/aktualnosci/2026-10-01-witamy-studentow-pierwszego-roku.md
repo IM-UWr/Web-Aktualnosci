@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Witamy studentów pierwszego roku"
 data: "2026-10-01"
 rodzaj: "ogloszenie"

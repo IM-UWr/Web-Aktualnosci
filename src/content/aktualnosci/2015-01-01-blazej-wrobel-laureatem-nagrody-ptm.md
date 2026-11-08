@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Błażej Wróbel laureatem Nagrody PTM"
 data: "2015-01-01"
 rodzaj: "sukces"

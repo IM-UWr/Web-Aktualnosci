@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Profesorowie Biler i Januszkiewicz członkami korespondentami PAN"
 data: "2016-12-03"
 rodzaj: "sukces"

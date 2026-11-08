@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces naszego studenta Krzysztofa Kępczyńskiego"
 data: "2018-04-10"
 rodzaj: "sukces"

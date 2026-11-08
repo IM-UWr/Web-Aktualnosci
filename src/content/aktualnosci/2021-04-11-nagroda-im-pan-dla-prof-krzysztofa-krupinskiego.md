@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda IM PAN dla prof. Krzysztofa Krupińskiego"
 data: "2021-04-11"
 rodzaj: "sukces"

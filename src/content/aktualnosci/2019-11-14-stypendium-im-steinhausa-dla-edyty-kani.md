@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium im. Steinhausa dla Edyty Kani"
 data: "2019-11-14"
 rodzaj: "sukces"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendia Ministra dla wybitnych młodych naukowców"
 data: "2022-07-01"
 rodzaj: "sukces"

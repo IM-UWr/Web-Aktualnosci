@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda im. Andrzeja Hulanickiego"
 data: "2026-06-16"
 rodzaj: "sukces"

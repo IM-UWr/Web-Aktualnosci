@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nasz Wydział po raz kolejny oceniony jako bardzo dobry"
 data: "2017-10-23"
 rodzaj: "sukces"

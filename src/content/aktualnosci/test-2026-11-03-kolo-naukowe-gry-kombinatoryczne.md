@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Testowe: Spotkanie koła naukowego: gry kombinatoryczne, czyli dlaczego wszystko jest Nimem"
 data: "2026-11-03"
 rodzaj: "wydarzenie"

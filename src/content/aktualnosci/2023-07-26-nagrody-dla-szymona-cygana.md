@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagrody dla Szymona Cygana"
 data: "2023-07-26"
 rodzaj: "sukces"

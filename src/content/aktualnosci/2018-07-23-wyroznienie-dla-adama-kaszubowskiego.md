@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Wyróżnienie dla Adama Kaszubowskiego"
 data: "2018-07-23"
 rodzaj: "sukces"

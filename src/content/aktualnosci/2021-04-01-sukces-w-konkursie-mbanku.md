@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces w konkursie mBanku"
 data: "2021-04-01"
 rodzaj: "sukces"

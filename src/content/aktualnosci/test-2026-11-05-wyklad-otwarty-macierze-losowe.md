@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Testowe: Wykład otwarty: Co macierze losowe wiedzą o liczbach pierwszych?"
 data: "2026-11-05"
 rodzaj: "wydarzenie"

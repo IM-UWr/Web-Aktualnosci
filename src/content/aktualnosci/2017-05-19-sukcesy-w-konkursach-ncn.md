@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukcesy w konkursach NCN"
 data: "2017-05-19"
 rodzaj: "sukces"

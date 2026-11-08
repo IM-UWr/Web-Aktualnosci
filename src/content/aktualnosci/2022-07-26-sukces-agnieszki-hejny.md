@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces Agnieszki Hejny"
 data: "2022-07-26"
 rodzaj: "sukces"

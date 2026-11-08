@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces prof. Ewy Damek w konkursie NCN"
 data: "2019-11-18"
 rodzaj: "sukces"

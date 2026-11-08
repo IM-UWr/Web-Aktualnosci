@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Wyniki konkursu na najlepszą pracę dyplomową"
 data: "2023-11-17"
 rodzaj: "sukces"

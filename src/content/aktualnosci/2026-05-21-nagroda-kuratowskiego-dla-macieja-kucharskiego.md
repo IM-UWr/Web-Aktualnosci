@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda im. Kazimierza Kuratowskiego dla Macieja Kucharskiego"
 data: "2026-05-21"
 rodzaj: "sukces"

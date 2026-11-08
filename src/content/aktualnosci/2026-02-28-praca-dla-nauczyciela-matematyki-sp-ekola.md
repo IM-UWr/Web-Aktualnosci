@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Praca dla nauczyciela matematyki w Szkole Podstawowej EKOLA we Wrocławiu"
 data: "2026-02-28"
 rodzaj: "kariera"

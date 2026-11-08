@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Mariusz Mirek laureatem nagrody „Iuvenes Wratislaviae”"
 data: "2018-12-21"
 rodzaj: "sukces"

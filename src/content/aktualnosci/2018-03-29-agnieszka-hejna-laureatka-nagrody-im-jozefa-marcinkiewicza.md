@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Agnieszka Hejna laureatką nagrody im. Józefa Marcinkiewicza"
 data: "2018-03-29"
 rodzaj: "sukces"

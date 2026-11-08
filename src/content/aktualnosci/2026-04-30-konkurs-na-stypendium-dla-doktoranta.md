@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Konkurs na stypendium dla doktoranta"
 data: "2026-04-30"
 rodzaj: "kariera"

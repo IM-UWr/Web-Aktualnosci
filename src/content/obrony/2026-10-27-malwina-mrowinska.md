@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 kandydat: "Malwina Mrowińska"
 tytul_rozprawy: "Estimation of a block-structured covariance matrix"
 termin: "2026-10-27T13:15"

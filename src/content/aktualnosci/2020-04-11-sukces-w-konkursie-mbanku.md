@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces w konkursie mBanku"
 data: "2020-04-11"
 rodzaj: "sukces"

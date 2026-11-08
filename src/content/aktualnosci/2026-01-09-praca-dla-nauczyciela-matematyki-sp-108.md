@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Praca dla nauczyciela matematyki w Szkole Podstawowej nr 108 we Wrocławiu"
 data: "2026-01-09"
 rodzaj: "kariera"

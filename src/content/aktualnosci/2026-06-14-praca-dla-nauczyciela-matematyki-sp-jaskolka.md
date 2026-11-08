@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Praca dla nauczyciela matematyki w Autorskiej Szkole Podstawowej „Jaskółka” we Wrocławiu"
 data: "2026-06-14"
 rodzaj: "kariera"

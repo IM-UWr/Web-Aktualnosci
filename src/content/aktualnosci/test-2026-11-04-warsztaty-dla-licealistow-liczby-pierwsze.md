@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Testowe: Warsztaty dla licealistów: od spirali Ulama do szyfru RSA"
 data: "2026-11-04"
 rodzaj: "wydarzenie"

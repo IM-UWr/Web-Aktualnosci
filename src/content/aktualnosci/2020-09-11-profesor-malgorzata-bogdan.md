@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Profesor Małgorzata Bogdan"
 data: "2020-09-11"
 rodzaj: "sukces"

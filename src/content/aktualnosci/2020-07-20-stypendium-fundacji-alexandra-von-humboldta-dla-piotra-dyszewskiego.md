@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium Fundacji Alexandra von Humboldta dla Piotra Dyszewskiego"
 data: "2020-07-20"
 rodzaj: "sukces"

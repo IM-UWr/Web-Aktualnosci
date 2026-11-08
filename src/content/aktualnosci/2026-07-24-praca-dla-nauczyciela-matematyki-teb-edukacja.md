@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Praca dla nauczyciela matematyki w Technikum i Liceum TEB Edukacja we Wrocławiu"
 data: "2026-07-24"
 rodzaj: "kariera"

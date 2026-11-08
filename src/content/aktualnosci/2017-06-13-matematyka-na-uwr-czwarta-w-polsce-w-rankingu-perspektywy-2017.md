@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Matematyka na UWr czwarta w Polsce w rankingu Perspektywy 2017"
 data: "2017-06-13"
 rodzaj: "sukces"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium im. Steinhausa dla Piotra Błaszkiewicza"
 data: "2025-11-05"
 rodzaj: "sukces"

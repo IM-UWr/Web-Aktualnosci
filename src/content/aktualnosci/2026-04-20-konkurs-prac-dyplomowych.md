@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Konkurs prac dyplomowych"
 data: "2026-04-20"
 rodzaj: "sukces"

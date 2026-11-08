@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Seminarium wydziałowe: prof. Olga Vitek"
 data: "2026-06-16"
 rodzaj: "wydarzenie"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Testowe: Dzień otwarty matematyki dla kandydatów"
 data: "2026-11-06"
 rodzaj: "wydarzenie"

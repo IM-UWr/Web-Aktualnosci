@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukcesy naszych absolwentów w konkursie im. Marcinkiewicza"
 data: "2025-05-30"
 rodzaj: "sukces"

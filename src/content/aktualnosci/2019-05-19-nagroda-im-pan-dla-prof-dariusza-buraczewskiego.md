@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda IM PAN dla prof. Dariusza Buraczewskiego"
 data: "2019-05-19"
 rodzaj: "sukces"

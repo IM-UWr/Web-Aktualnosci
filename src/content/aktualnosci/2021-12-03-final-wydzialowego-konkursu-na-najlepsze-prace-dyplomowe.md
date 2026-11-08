@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Finał wydziałowego konkursu na najlepsze prace dyplomowe"
 data: "2021-12-03"
 rodzaj: "sukces"

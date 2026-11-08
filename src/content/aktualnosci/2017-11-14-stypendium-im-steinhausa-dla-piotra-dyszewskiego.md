@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium im. Steinhausa dla Piotra Dyszewskiego"
 data: "2017-11-14"
 rodzaj: "sukces"

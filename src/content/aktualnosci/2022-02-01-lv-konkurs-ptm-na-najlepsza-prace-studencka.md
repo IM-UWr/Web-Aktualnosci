@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "LV Konkurs PTM na najlepszą pracę studencką z teorii prawdopodobieństwa i zastosowań matematyki"
 data: "2022-02-01"
 rodzaj: "sukces"

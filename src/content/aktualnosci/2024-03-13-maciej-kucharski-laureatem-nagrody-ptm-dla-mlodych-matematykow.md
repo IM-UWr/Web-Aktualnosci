@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Maciej Kucharski laureatem nagrody PTM dla młodych matematyków"
 data: "2024-03-13"
 rodzaj: "sukces"

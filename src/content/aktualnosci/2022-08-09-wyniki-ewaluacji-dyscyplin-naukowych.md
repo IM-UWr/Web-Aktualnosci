@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Wyniki ewaluacji dyscyplin naukowych"
 data: "2022-08-09"
 rodzaj: "sukces"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukcesy w konkursie „Krok w Przyszłość”"
 data: "2024-04-03"
 rodzaj: "sukces"

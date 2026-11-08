@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagrody Rektora"
 data: "2021-11-26"
 rodzaj: "sukces"

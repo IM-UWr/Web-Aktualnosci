@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Projekt naukowy prof. dr. hab. Dariusza Buraczewskiego wyróżniony w konkursie Sonata Bis przez NCN"
 data: "2015-02-19"
 rodzaj: "sukces"

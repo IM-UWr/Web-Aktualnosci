@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda im. Kazimierza Kuratowskiego dla Agnieszki Hejny"
 data: "2023-05-15"
 rodzaj: "sukces"

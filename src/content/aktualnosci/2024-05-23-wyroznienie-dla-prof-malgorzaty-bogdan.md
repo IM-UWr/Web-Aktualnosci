@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Wyróżnienie dla prof. Małgorzaty Bogdan"
 data: "2024-05-23"
 rodzaj: "sukces"

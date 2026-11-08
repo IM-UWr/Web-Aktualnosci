@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Praca dla nauczyciela matematyki w Szkole Podstawowej nr 107 we Wrocławiu"
 data: "2026-07-02"
 rodzaj: "kariera"

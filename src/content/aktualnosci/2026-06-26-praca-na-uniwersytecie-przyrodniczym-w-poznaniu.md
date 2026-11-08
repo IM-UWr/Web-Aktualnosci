@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Praca na Uniwersytecie Przyrodniczym w Poznaniu"
 data: "2026-06-26"
 rodzaj: "kariera"

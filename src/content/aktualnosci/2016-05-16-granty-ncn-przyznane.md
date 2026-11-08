@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Granty NCN przyznane"
 data: "2016-05-16"
 rodzaj: "sukces"

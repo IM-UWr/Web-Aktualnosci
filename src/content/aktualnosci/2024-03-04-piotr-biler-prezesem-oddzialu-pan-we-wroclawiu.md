@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Piotr Biler prezesem oddziału PAN we Wrocławiu"
 data: "2024-03-04"
 rodzaj: "sukces"

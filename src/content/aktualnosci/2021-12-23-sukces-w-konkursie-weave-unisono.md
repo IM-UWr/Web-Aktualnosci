@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces w konkursie Weave-UNISONO"
 data: "2021-12-23"
 rodzaj: "sukces"

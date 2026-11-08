@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagrody PTM"
 data: "2015-11-25"
 rodzaj: "sukces"

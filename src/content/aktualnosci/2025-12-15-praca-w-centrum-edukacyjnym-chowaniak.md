@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Praca w Centrum Edukacyjnym Chowaniak"
 data: "2025-12-15"
 rodzaj: "kariera"

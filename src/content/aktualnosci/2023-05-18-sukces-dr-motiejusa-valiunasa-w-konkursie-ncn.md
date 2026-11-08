@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces dr. Motiejusa Valiunasa w konkursie NCN"
 data: "2023-05-18"
 rodzaj: "sukces"

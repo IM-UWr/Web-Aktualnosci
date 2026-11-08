@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendia Ministra dla naszych studentów"
 data: "2017-12-15"
 rodzaj: "sukces"

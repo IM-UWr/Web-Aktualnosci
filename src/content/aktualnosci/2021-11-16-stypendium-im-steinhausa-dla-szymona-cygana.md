@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium im. Steinhausa dla Szymona Cygana"
 data: "2021-11-16"
 rodzaj: "sukces"

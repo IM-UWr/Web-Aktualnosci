@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Łukasz Garncarek laureatem nagrody Premiera"
 data: "2016-09-27"
 rodzaj: "sukces"

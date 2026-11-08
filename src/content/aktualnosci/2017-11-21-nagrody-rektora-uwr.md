@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagrody Rektora UWr"
 data: "2017-11-21"
 rodzaj: "sukces"

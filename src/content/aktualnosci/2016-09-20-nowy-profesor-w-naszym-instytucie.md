@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nowy profesor w naszym Instytucie"
 data: "2016-09-20"
 rodzaj: "sukces"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium MNiSW dla dr. Mariusza Mirka"
 data: "2015-01-01"
 rodzaj: "sukces"

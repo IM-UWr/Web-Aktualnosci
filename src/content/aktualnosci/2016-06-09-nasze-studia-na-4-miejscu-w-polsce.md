@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nasze studia na 4. miejscu w Polsce"
 data: "2016-06-09"
 rodzaj: "sukces"

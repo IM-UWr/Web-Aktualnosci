@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Zmiany w regulaminie Biblioteki"
 data: "2026-04-25"
 rodzaj: "ogloszenie"

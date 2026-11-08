@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Wykład prof. Uwe Franza"
 data: "2026-09-10"
 rodzaj: "wydarzenie"

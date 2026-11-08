@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Aleksandra Kwiatkowska laureatką Konkursu o nagrodę im. Edyty Szymańskiej"
 data: "2019-03-05"
 rodzaj: "sukces"

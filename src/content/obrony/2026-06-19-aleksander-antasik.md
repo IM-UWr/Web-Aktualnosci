@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 kandydat: "Aleksander Antasik"
 tytul_rozprawy: "Rational approximation of surface group representations"
 termin: "2026-06-19T15:30"

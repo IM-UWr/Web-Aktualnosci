@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Kurs dla studentów pierwszego roku"
 data: "2026-09-20"
 rodzaj: "ogloszenie"

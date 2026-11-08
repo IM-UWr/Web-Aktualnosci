@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Mariusz Mirek profesorem"
 data: "2023-08-29"
 rodzaj: "sukces"

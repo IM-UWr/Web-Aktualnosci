@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Błażej Wróbel laureatem Medalu im. Prof. Bartla"
 data: "2023-11-27"
 rodzaj: "sukces"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium im. Steinhausa dla Macieja Korpalskiego"
 data: "2024-11-14"
 rodzaj: "sukces"

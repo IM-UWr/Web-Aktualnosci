@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Seminarium ze statystyki"
 data: "2026-06-19"
 rodzaj: "wydarzenie"

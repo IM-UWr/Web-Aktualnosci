@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Grant PRELUDIUM BIS dla dr. hab. Błażeja Wróbla"
 data: "2020-05-28"
 rodzaj: "sukces"

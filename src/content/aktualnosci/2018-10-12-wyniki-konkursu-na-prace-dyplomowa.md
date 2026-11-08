@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Wyniki konkursu na pracę dyplomową"
 data: "2018-10-12"
 rodzaj: "sukces"

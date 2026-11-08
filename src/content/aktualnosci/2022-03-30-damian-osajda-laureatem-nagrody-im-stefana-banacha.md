@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Damian Osajda laureatem nagrody im. Stefana Banacha"
 data: "2022-03-30"
 rodzaj: "sukces"

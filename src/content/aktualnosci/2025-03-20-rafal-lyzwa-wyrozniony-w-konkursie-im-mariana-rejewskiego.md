@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Rafał Łyżwa wyróżniony w Konkursie im. Mariana Rejewskiego"
 data: "2025-03-20"
 rodzaj: "sukces"

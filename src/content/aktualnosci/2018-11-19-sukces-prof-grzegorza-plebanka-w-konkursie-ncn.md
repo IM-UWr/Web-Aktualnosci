@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces prof. Grzegorza Plebanka w konkursie NCN"
 data: "2018-11-19"
 rodzaj: "sukces"

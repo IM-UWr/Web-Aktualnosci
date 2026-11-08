@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Wyniki konkursu na najlepszą pracę dyplomową"
 data: "2024-12-01"
 rodzaj: "sukces"

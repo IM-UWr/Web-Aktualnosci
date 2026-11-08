@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Wyniki konkursu na najlepszą pracę dyplomową"
 data: "2022-11-18"
 rodzaj: "sukces"

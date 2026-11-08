@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces w konkursie prac studenckich"
 data: "2021-01-08"
 rodzaj: "sukces"

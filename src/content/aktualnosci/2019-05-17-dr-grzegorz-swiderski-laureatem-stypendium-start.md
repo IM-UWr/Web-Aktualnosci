@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Dr Grzegorz Świderski laureatem stypendium START"
 data: "2019-05-17"
 rodzaj: "sukces"

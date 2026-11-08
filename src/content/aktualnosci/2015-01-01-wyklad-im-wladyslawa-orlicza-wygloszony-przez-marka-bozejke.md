@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Wykład im. Władysława Orlicza wygłoszony przez Marka Bożejkę"
 data: "2015-01-01"
 rodzaj: "sukces"

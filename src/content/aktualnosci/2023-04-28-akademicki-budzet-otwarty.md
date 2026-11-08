@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Akademicki Budżet Otwarty"
 data: "2023-04-28"
 rodzaj: "sukces"

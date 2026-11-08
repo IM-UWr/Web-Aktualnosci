@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda im. Kamila Duszenki"
 data: "2016-05-31"
 rodzaj: "sukces"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium START dla Macieja Dołęgi"
 data: "2016-05-10"
 rodzaj: "sukces"

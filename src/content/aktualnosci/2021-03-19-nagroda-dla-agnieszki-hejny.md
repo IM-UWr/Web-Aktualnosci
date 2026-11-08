@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda dla Agnieszki Hejny"
 data: "2021-03-19"
 rodzaj: "sukces"

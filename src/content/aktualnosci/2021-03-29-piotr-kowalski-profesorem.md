@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Piotr Kowalski profesorem!"
 data: "2021-03-29"
 rodzaj: "sukces"

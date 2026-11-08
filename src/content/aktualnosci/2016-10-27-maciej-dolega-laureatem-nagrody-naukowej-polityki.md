@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Maciej Dołęga laureatem Nagrody Naukowej POLITYKI"
 data: "2016-10-27"
 rodzaj: "sukces"

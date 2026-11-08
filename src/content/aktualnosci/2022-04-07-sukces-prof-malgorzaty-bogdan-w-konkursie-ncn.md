@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces prof. Małgorzaty Bogdan w konkursie NCN"
 data: "2022-04-07"
 rodzaj: "sukces"

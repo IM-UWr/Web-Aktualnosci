@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda PTM im. Steinhausa dla prof. Małgorzaty Bogdan"
 data: "2021-03-19"
 rodzaj: "sukces"

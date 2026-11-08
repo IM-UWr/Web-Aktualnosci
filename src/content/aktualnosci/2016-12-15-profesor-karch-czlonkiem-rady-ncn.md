@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Profesor Karch członkiem Rady NCN"
 data: "2016-12-15"
 rodzaj: "sukces"

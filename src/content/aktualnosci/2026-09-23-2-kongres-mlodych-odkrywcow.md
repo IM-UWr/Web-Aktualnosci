@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "2. Kongres Młodych Odkrywców"
 data: "2026-09-23"
 rodzaj: "wydarzenie"

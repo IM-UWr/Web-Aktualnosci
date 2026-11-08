@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Rusza tutornia"
 data: "2026-10-17"
 rodzaj: "ogloszenie"

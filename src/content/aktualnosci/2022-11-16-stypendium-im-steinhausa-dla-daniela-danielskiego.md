@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium im. Steinhausa dla Daniela Danielskiego"
 data: "2022-11-16"
 rodzaj: "sukces"

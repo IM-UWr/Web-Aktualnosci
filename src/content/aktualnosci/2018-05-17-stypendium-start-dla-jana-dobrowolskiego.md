@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium START dla Jana Dobrowolskiego"
 data: "2018-05-17"
 rodzaj: "sukces"

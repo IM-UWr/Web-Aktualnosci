@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Daniel Hoffmann laureatem konkursu ETIUDA 4"
 data: "2016-07-24"
 rodzaj: "sukces"

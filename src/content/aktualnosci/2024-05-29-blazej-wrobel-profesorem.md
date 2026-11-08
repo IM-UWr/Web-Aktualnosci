@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Błażej Wróbel profesorem!"
 data: "2024-05-29"
 rodzaj: "sukces"

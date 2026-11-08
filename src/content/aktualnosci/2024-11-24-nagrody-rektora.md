@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagrody Rektora"
 data: "2024-11-24"
 rodzaj: "sukces"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Konkurs na najlepsze prace dyplomowe rozstrzygnięty"
 data: "2020-10-19"
 rodzaj: "sukces"

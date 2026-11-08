@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium w ramach programu STER dla Mateusza Staniaka"
 data: "2022-10-15"
 rodzaj: "sukces"

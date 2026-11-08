@@ -1,5 +1,4 @@
-# Pages CMS — Web-Aktualnosci: Aktualności i obrony doktorskie.
-# Wygenerowane przy migracji z Avean/IM-Website-test; pola „Opublikowany” usunięte (bez wersji roboczych).
+# Pages CMS — formularze aktualnej strony Instytutu Matematycznego UWr.
 media:
   input: public/pliki
   output: /pliki
@@ -21,20 +20,38 @@ content:
     - tytul
     - data
     - rodzaj
+    - status_publikacji
     primary: tytul
-    sort: data
-    order: desc
+    sort:
+    - data
+    default:
+      sort: data
+      order: desc
   fields:
   - name: tytul
     label: Tytuł
     type: string
     required: true
+    description: Nazwa strony lub wpisu, widoczna także na odpowiednich listach i w wynikach wyszukiwania.
+  - name: status_publikacji
+    label: Status publikacji
+    type: select
+    required: true
+    default: oficjalna
+    description: Zapisuje wybór do przyszłej publikacji. Obecnie nie zmienia widoczności. Podgląd jest publiczny.
+    options:
+      values:
+      - name: oficjalna
+        label: Opublikowana — strona oficjalna i podgląd
+      - name: podglad
+        label: Tylko podgląd
   - name: data
     label: Data publikacji
     type: date
     required: true
     options:
       format: yyyy-MM-dd
+    description: Data wpisu używana do sortowania i wyświetlana przy aktualności.
   - name: rodzaj
     label: Rodzaj
     type: select
@@ -49,15 +66,19 @@ content:
         label: Sukces
       - name: kariera
         label: Kariera
+    description: Wybór określa oznaczenie i miejsce wpisu na listach.
   - name: body
     label: Treść
     type: rich-text
     options:
       format: markdown
       path: public/pliki/aktualnosci
+    description: Tekst strony. Nagłówek 2 tworzy sekcję; listy z pogrubionym początkiem tworzą bloki cech lub etapów,
+      a nagłówek 3 zakończony pytajnikiem — rozwijane pytanie.
   - name: tresc_en
     label: Treść EN
-    description: Treść po angielsku, w tym samym układzie co Treść. Puste = wersja angielska pokaże treść po polsku.
+    description: Tekst strony po angielsku; puste oznacza wyświetlanie tekstu polskiego. Układ treści jest taki
+      sam jak w polskim opisie.
     type: rich-text
     options:
       format: markdown
@@ -76,78 +97,95 @@ content:
         label: Pracownicy
       - name: kandydaci
         label: Kandydaci
+    description: Odbiorcy wpisu; służą także do wybierania aktualności na stronie Studia.
   - name: zajawka
     label: Zajawka (1–2 zdania na listę i stronę główną)
     type: text
+    description: Krótka zapowiedź na listach oraz przy wyróżnionym wpisie.
   - name: zdjecie
     label: Zdjęcie główne
     type: image
     options:
       path: public/pliki/aktualnosci
+    description: Zdjęcie wpisu lub strony, używane także w powiązanych zapowiedziach.
   - name: zdjecie_opis
     label: Podpis / opis zdjęcia (np. kto jest na zdjęciu, autor)
     type: string
+    description: Tekst alternatywny opisujący zdjęcie; pomaga osobom korzystającym z czytnika ekranu.
   - name: zdjecie_opis_en
     label: 'EN: podpis / opis zdjęcia (np. Photo: Jan Kowalski)'
     type: string
+    description: Angielska wersja pola Podpis / opis zdjęcia (np. kto jest na zdjęciu, autor); puste oznacza użycie
+      wersji polskiej.
   - name: wydarzenie_poczatek
     label: 'Wydarzenie: początek (puste = to nie jest wydarzenie)'
     type: date
     options:
       time: true
       format: yyyy-MM-dd'T'HH:mm
+    description: Początek wydarzenia. Uzupełnienie dodaje wpis do kalendarza i zapowiedzi.
   - name: wydarzenie_koniec
     label: 'Wydarzenie: koniec (opcjonalnie)'
     type: date
     options:
       time: true
       format: yyyy-MM-dd'T'HH:mm
+    description: Koniec wydarzenia; pozostaw pusty, gdy nie jest ustalony.
   - name: wydarzenie_miejsce
     label: 'Wydarzenie: miejsce (np. sala WS, Instytut Matematyczny UWr)'
     type: string
+    description: Miejsce wydarzenia wyświetlane przy jego terminie.
   - name: galeria
     label: Galeria zdjęć
     type: object
     list:
       collapsible:
         collapsed: true
-        summary: "{index}. {podpis}"
+        summary: '{index}. {podpis}'
     fields:
     - name: plik
       label: Zdjęcie
       type: image
       options:
         path: public/pliki/aktualnosci
+      description: Wgraj plik albo wybierz już dostępny; na stronie pojawi się odnośnik.
     - name: podpis
       label: Podpis
       type: string
+      description: Dodatkowy podpis pod nazwą wydarzenia.
+    description: Zdjęcia i podpisy wyświetlane w galerii wpisu.
   - name: album
     label: Link do pełnego albumu (np. Google Photos, Flickr)
     type: string
+    description: Adres pełnego albumu, do którego prowadzi przycisk pod wpisem.
   - name: zalaczniki
     label: Załączniki (PDF itp.)
     type: object
     list:
       collapsible:
         collapsed: true
-        summary: "{nazwa}"
+        summary: '{nazwa}'
     fields:
     - name: nazwa
       label: Nazwa wyświetlana
       type: string
+      description: Nazwa wyświetlana na stronie i powiązanych listach.
     - name: nazwa_en
       label: 'EN: nazwa wyświetlana (plik po polsku — np. Job offer (PDF, Polish))'
       type: string
+      description: Angielska wersja pola Nazwa wyświetlana; puste oznacza użycie wersji polskiej.
     - name: plik
       label: Plik
       type: file
       options:
         path: public/pliki/aktualnosci
+      description: Wgraj plik albo wybierz już dostępny; na stronie pojawi się odnośnik.
+    description: Pliki do pobrania pod treścią wpisu.
   - name: zaklad
     label: Zakład (opcjonalnie — wpis pojawi się też na stronie zakładu)
     type: select
     options:
-      values: &id001
+      values:
       - name: algebra-i-teoria-modeli
         label: Zakład Algebry i Teorii Modeli
       - name: analiza-funkcjonalna
@@ -166,13 +204,24 @@ content:
         label: Zakład Teorii Mnogości i Topologii
       - name: teoria-prawdopodobienstwa
         label: Zakład Teorii Prawdopodobieństwa
-    description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
+    description: Powiązanie ze stroną zakładu. Lista pochodzi z Web-Instytut; dodanie zakładu wymaga uzupełnienia
+      listy wyboru.
   - name: tytul_en
     label: 'EN: tytuł'
     type: string
+    description: Angielska wersja pola Tytuł; puste oznacza użycie wersji polskiej.
   - name: zajawka_en
     label: 'EN: zajawka'
     type: text
+    description: Angielska wersja pola Zajawka (1–2 zdania na listę i stronę główną); puste oznacza użycie wersji
+      polskiej.
+  - name: opublikowany
+    label: Dotychczasowe uwzględnianie w zestawieniach
+    type: boolean
+    hidden: true
+    default: true
+    description: Zachowuje dotychczasową widoczność w zestawieniach i indeksowanie. To osobna opcja od statusu publikacji.
+  description: 'Ogłoszenia, wydarzenia i sukcesy: strona wpisu, lista aktualności oraz zestawienia na stronach działów.'
 - name: obrony
   label: Obrony doktorskie
   type: collection
@@ -185,18 +234,36 @@ content:
     fields:
     - kandydat
     - termin
+    - status_publikacji
     primary: kandydat
-    sort: termin
-    order: desc
+    sort:
+    - termin
+    default:
+      sort: termin
+      order: desc
   fields:
   - name: kandydat
     label: Imię i nazwisko doktoranta
     type: string
     required: true
+    description: Imię i nazwisko osoby broniącej rozprawy.
+  - name: status_publikacji
+    label: Status publikacji
+    type: select
+    required: true
+    default: oficjalna
+    description: Zapisuje wybór do przyszłej publikacji. Obecnie nie zmienia widoczności. Podgląd jest publiczny.
+    options:
+      values:
+      - name: oficjalna
+        label: Opublikowana — strona oficjalna i podgląd
+      - name: podglad
+        label: Tylko podgląd
   - name: tytul_rozprawy
     label: Tytuł rozprawy
     type: string
     required: true
+    description: Pełny tytuł rozprawy w języku oryginału.
   - name: termin
     label: Termin obrony
     type: date
@@ -204,18 +271,24 @@ content:
     options:
       time: true
       format: yyyy-MM-dd'T'HH:mm
+    description: Data i godzina wydarzenia w czasie lokalnym; używana również w kalendarzu.
   - name: miejsce
     label: Miejsce
     type: string
     default: sala WS, Instytut Matematyczny UWr
+    description: Miejsce wydarzenia wyświetlane przy terminie.
   - name: body
-    label: Opis (opcjonalnie; puste = zaproszenie, a po terminie informacja o odbytej obronie, złożone z danych. Wpisany tekst nie zmieni się sam po terminie)
+    label: Opis (opcjonalnie; puste = zaproszenie, a po terminie informacja o odbytej obronie, złożone z danych.
+      Wpisany tekst nie zmieni się sam po terminie)
     type: rich-text
     options:
       format: markdown
+    description: Tekst strony. Nagłówek 2 tworzy sekcję; listy z pogrubionym początkiem tworzą bloki cech lub etapów,
+      a nagłówek 3 zakończony pytajnikiem — rozwijane pytanie.
   - name: tresc_en
     label: Treść EN
-    description: Opis po angielsku, w tym samym układzie. Puste = wersja angielska pokaże zaproszenie złożone z danych (albo opis po polsku, gdy jest).
+    description: Tekst strony po angielsku; puste oznacza wyświetlanie tekstu polskiego. Układ treści jest taki
+      sam jak w polskim opisie.
     type: rich-text
     options:
       format: markdown
@@ -224,73 +297,114 @@ content:
     type: image
     options:
       path: public/pliki/aktualnosci
+    description: Zdjęcie wpisu lub strony, używane także w powiązanych zapowiedziach.
   - name: zdjecie_opis
     label: Podpis / opis zdjęcia
     type: string
+    description: Tekst alternatywny opisujący zdjęcie; pomaga osobom korzystającym z czytnika ekranu.
   - name: zdjecie_opis_en
     label: 'EN: podpis / opis zdjęcia'
     type: string
+    description: Angielska wersja pola Podpis / opis zdjęcia; puste oznacza użycie wersji polskiej.
   - name: promotorzy
     label: Promotor / promotorzy
     type: string
     list: true
+    description: Lista promotorów wyświetlana w zaproszeniu na obronę.
   - name: data_ogloszenia
     label: Data ogłoszenia (pozycja na liście aktualności)
     type: date
     options:
       format: yyyy-MM-dd
+    description: Data używana przy obronie w aktualnościach; nie zmienia daty samej obrony.
   - name: w_aktualnosciach
     label: Pokaż też w aktualnościach
     type: boolean
     default: true
+    description: Dodaje obronę do listy aktualności. Pozostałe miejsca nadal korzystają z wpisu obrony.
   - name: zawiadomienie
     label: Zawiadomienie o obronie (PDF)
     type: file
     options:
       path: public/pliki/obrony
+    description: Oficjalne zawiadomienie o obronie do pobrania.
   - name: rozprawa
     label: Rozprawa doktorska (PDF)
     type: file
     options:
       path: public/pliki/obrony
+    description: Plik rozprawy do pobrania.
   - name: streszczenie_pl
     label: Streszczenie po polsku (PDF)
     type: file
     options:
       path: public/pliki/obrony
+    description: Polskie streszczenie rozprawy do pobrania.
   - name: streszczenie_en
     label: Streszczenie po angielsku (PDF)
     type: file
     options:
       path: public/pliki/obrony
+    description: Angielskie streszczenie rozprawy do pobrania.
   - name: recenzje
     label: Recenzje
     type: object
     list:
       collapsible:
         collapsed: true
-        summary: "{recenzent}"
+        summary: '{recenzent}'
     fields:
     - name: recenzent
       label: Recenzent (np. prof. dr hab. Jan Kowalski)
       type: string
+      description: Imię i nazwisko recenzenta.
     - name: plik
       label: Recenzja (PDF)
       type: file
       options:
         path: public/pliki/obrony
+      description: Wgraj plik albo wybierz już dostępny; na stronie pojawi się odnośnik.
+    description: Recenzenci i pliki recenzji do pobrania.
   - name: bip
     label: Link do ogłoszenia w BIP (opcjonalnie)
     type: string
+    description: Adres postępowania w Biuletynie Informacji Publicznej.
   - name: zaklad
     label: Zakład (opcjonalnie)
     type: select
     options:
-      values: *id001
-    description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
+      values:
+      - name: algebra-i-teoria-modeli
+        label: Zakład Algebry i Teorii Modeli
+      - name: analiza-funkcjonalna
+        label: Zakład Analizy Funkcjonalnej
+      - name: analiza-matematyczna
+        label: Zakład Analizy Matematycznej
+      - name: dydaktyka
+        label: Pracownia Dydaktyki i Popularyzacji Matematyki
+      - name: geometria
+        label: Zakład Geometrii
+      - name: rownania-rozniczkowe
+        label: Zakład Równań Różniczkowych
+      - name: statystyka
+        label: Zakład Statystyki
+      - name: teoria-mnogosci-i-topologia
+        label: Zakład Teorii Mnogości i Topologii
+      - name: teoria-prawdopodobienstwa
+        label: Zakład Teorii Prawdopodobieństwa
+    description: Powiązanie ze stroną zakładu. Lista pochodzi z Web-Instytut; dodanie zakładu wymaga uzupełnienia
+      listy wyboru.
+  - name: opublikowany
+    label: Dotychczasowe uwzględnianie w zestawieniach
+    type: boolean
+    hidden: true
+    default: true
+    description: Zachowuje dotychczasową widoczność w zestawieniach i indeksowanie. To osobna opcja od statusu publikacji.
+  description: 'Dane obrony: zaproszenie, lista obron, kalendarz i opcjonalnie aktualności.'
 - name: strony
   label: Strony
-  description: 'Adres strony = ścieżka pliku, np. aktualnosci.md → /aktualnosci. Teksty stron z listą (tytuł, opis, hasło i tekst nad listą) to też strony: aktualnosci.md (Aktualności), obrony-doktorskie.md (Obrony doktorskie). Brak takiej strony nic nie psuje — lista pokaże domyślny tytuł i hasło, bez tekstu.'
+  description: Strony informacyjne oraz teksty stron z listami. Adres wynika ze ścieżki pliku; nie zmieniaj nazw
+    istniejących plików. Nowe strony nie są dopisywane do menu.
   type: collection
   path: src/content/strony
   format: yaml-frontmatter
@@ -299,46 +413,42 @@ content:
   view:
     fields:
     - tytul
+    - status_publikacji
     primary: tytul
   fields:
   - name: tytul
     label: Tytuł
     type: string
     required: true
+    description: Nazwa strony lub wpisu, widoczna także na odpowiednich listach i w wynikach wyszukiwania.
+  - name: status_publikacji
+    label: Status publikacji
+    type: select
+    required: true
+    default: oficjalna
+    description: Zapisuje wybór do przyszłej publikacji. Obecnie nie zmienia widoczności. Podgląd jest publiczny.
+    options:
+      values:
+      - name: oficjalna
+        label: Opublikowana — strona oficjalna i podgląd
+      - name: podglad
+        label: Tylko podgląd
   - name: body
     label: Treść
     type: rich-text
     options:
       format: markdown
       path: public/pliki/aktualnosci
-    description: |-
-      Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
-
-      Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
-
-      • Punkt listy zaczynający się pogrubieniem = kafelek.
-
-      • Lista numerowana z pogrubionym początkiem = oś kroków.
-
-      • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
-
-      • Lista samych linków = lista plików (PDF / strona).
-
-      • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
-
-      • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
-
-      • Plik PDF: wgraj w „Media” i wklej link.
-
-      • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-
-      Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
+    description: Tekst strony; nagłówek 2 tworzy sekcję. Opcja Bloki włącza układy cech, etapów, kontaktów, plików
+      i pytań z list w tekście.
   - name: tytul_en
     label: Tytuł EN
     type: string
+    description: Angielska wersja pola Tytuł; puste oznacza użycie wersji polskiej.
   - name: tresc_en
     label: Treść EN
-    description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
+    description: Tekst strony po angielsku; puste oznacza wyświetlanie tekstu polskiego. Układ treści jest taki
+      sam jak w polskim opisie.
     type: rich-text
     options:
       format: markdown
@@ -346,43 +456,54 @@ content:
   - name: opis
     label: Krótki opis (pod tytułem i w Google)
     type: text
+    description: Opis strony do wyszukiwarek i udostępniania linku.
   - name: opis_en
     label: 'EN: opis'
     type: text
+    description: Angielska wersja pola Krótki opis (pod tytułem i w Google); puste oznacza użycie wersji polskiej.
   - name: haslo
-    label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
+    label: Hasło w nagłówku
     type: string
+    description: Krótkie hasło w nagłówku, widoczne razem z liczbami. Na okładce działu służy również jako podpis.
   - name: haslo_en
     label: 'EN: hasło na banerze'
     type: string
+    description: Angielskie hasło; puste pole nie zastępuje go polskim hasłem.
   - name: haslo_podstron
     label: Hasło na banerze stron pojedynczych wpisów (tylko Publikacje — rocznik, i Obrony doktorskie — obrona)
     type: string
+    description: Hasło na stronach pojedynczych obron lub roczników publikacji, zamiast hasła listy.
   - name: haslo_podstron_en
     label: 'EN: hasło stron pojedynczych wpisów'
     type: string
+    description: Angielskie hasło; puste pole nie zastępuje go polskim hasłem.
   - name: liczby
     label: Liczby pod hasłem na banerze (tylko gdy nie da się ich policzyć z danych)
     type: object
     list:
       collapsible:
         collapsed: true
-        summary: "{n} {etykieta}"
+        summary: '{n} {etykieta}'
     fields:
     - name: n
       label: Liczba (np. 8 albo 3 lata)
       type: string
       required: true
+      description: Wartość w nagłówku, np. 8 albo 3 lata.
     - name: n_en
       label: 'EN: liczba (puste = jak po polsku)'
       type: string
+      description: Angielska wersja pola Liczba (np. 8 albo 3 lata); puste oznacza użycie wersji polskiej.
     - name: etykieta
       label: Podpis
       type: string
       required: true
+      description: Napis wyświetlany przy tej pozycji.
     - name: etykieta_en
       label: 'EN: podpis'
       type: string
+      description: Angielska wersja pola Podpis; puste oznacza użycie wersji polskiej.
+    description: Wartości i podpisy w nagłówku. Nie powtarzaj danych, które dana strona oblicza samodzielnie.
   - name: pasek_boczny
     label: 'Prawy pasek: spis „Na tej stronie”, menu działu czy oba (puste = domyślnie tylko spis)'
     type: select
@@ -396,8 +517,16 @@ content:
         label: Tylko menu działu (podstrony)
       - name: brak
         label: Bez prawego paska (strona na całą szerokość)
+    description: Spis sekcji jest widoczny przy opcji Spis lub Oba. Menu i Brak wyłączają spis; ta wersja strony
+      nie wyświetla bocznego menu działu.
   - name: bloki
     label: Kafelki, oś i kontakty z list — zob. ściągawka
     type: boolean
     default: false
-    description: 'Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy.'
+    description: 'Włącz, aby z list w tekście powstawały bloki treści: cechy, etapy, kontakty, pliki i pytania.'
+  - name: opublikowany
+    label: Dotychczasowe uwzględnianie w zestawieniach
+    type: boolean
+    hidden: true
+    default: true
+    description: Zachowuje dotychczasową widoczność w zestawieniach i indeksowanie. To osobna opcja od statusu publikacji.

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Agnieszka Hejna laureatką konkursu „Najlepszy Dyplom Roku”"
 data: "2017-11-13"
 rodzaj: "sukces"

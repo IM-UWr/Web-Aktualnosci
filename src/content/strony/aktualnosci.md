@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: Aktualności
 tytul_en: News
 opis: Ogłoszenia, wydarzenia i sukcesy Instytutu Matematycznego.

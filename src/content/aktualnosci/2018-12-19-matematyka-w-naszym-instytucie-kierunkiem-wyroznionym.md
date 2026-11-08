@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Matematyka w naszym Instytucie kierunkiem wyróżnionym!"
 data: "2018-12-19"
 rodzaj: "sukces"

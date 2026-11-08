@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Konkurs na dodatki motywacyjne"
 data: "2021-11-27"
 rodzaj: "sukces"

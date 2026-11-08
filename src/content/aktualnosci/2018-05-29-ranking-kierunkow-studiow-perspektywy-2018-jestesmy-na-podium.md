@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Ranking Kierunków Studiów Perspektywy 2018 – jesteśmy na podium!"
 data: "2018-05-29"
 rodzaj: "sukces"

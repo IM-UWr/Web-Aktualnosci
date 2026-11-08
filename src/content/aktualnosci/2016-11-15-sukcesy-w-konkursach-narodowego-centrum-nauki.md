@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukcesy w konkursach Narodowego Centrum Nauki"
 data: "2016-11-15"
 rodzaj: "sukces"

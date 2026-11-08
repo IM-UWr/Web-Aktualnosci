@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 kandydat: "Maciej Tadej"
 tytul_rozprawy: "Analysis and simulations of the non-linear models with non-local dispersal of species considered in finite, flat habitats"
 termin: "2026-10-20T14:00"

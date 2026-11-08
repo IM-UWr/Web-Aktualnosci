@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Ludomir Newelski wygłosił XXX Uroczysty Wykład im. Orlicza"
 data: "2022-01-01"
 rodzaj: "sukces"

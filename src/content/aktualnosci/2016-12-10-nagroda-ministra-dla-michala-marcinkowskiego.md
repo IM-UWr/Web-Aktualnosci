@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda Ministra dla Michała Marcinkowskiego"
 data: "2016-12-10"
 rodzaj: "sukces"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Grant SONATA BIS dla prof. Krupińskiego"
 data: "2017-02-03"
 rodzaj: "sukces"

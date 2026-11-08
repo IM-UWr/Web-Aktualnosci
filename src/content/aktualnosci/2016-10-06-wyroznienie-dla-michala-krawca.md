@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Wyróżnienie dla Michała Krawca"
 data: "2016-10-06"
 rodzaj: "sukces"

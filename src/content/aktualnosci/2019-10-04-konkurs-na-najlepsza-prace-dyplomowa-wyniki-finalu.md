@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Konkurs na najlepszą pracę dyplomową"
 data: "2019-10-04"
 rodzaj: "sukces"

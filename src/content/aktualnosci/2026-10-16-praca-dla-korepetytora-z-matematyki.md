@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Praca dla korepetytora z matematyki"
 data: "2026-10-16"
 rodzaj: "kariera"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda IM PAN dla dr. Damiana Osajdy"
 data: "2020-04-20"
 rodzaj: "sukces"

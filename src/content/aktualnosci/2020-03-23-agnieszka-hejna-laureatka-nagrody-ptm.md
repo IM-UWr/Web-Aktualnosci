@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Agnieszka Hejna laureatką nagrody PTM"
 data: "2020-03-23"
 rodzaj: "sukces"

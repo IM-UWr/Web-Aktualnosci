@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda IM PAN dla prof. Mariusza Mirka"
 data: "2023-04-24"
 rodzaj: "sukces"

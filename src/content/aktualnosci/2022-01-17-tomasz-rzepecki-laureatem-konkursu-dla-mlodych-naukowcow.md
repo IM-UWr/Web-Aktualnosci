@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Tomasz Rzepecki laureatem konkursu dla młodych naukowców"
 data: "2022-01-17"
 rodzaj: "sukces"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Mariusz Mirek zaproszony na Międzynarodowy Kongres Matematyków"
 data: "2025-07-09"
 rodzaj: "sukces"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukcesy naszych doktorantów w konkursie NCN"
 data: "2020-11-21"
 rodzaj: "sukces"

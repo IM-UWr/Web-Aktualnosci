@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Polska Nagroda Inteligentnego Rozwoju 2019 dla Barbary Jasiulis-Gołdyn"
 data: "2019-11-25"
 rodzaj: "sukces"

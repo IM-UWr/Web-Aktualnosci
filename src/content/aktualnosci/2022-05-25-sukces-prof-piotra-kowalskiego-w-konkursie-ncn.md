@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces prof. Piotra Kowalskiego w konkursie NCN"
 data: "2022-05-25"
 rodzaj: "sukces"

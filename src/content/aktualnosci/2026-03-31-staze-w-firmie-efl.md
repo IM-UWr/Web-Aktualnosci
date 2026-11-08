@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Staże w firmie EFL"
 data: "2026-03-31"
 rodzaj: "kariera"

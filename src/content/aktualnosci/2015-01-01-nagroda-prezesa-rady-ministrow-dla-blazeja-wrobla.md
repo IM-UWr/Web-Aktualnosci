@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Nagroda Prezesa Rady Ministrów dla Błażeja Wróbla"
 data: "2015-01-01"
 rodzaj: "sukces"

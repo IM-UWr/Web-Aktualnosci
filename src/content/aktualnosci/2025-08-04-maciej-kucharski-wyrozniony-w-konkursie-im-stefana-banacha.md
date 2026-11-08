@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Maciej Kucharski wyróżniony w konkursie im. Stefana Banacha"
 data: "2025-08-04"
 rodzaj: "sukces"

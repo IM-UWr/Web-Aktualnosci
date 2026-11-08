@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Dr Błażej Wróbel ze stypendium dla wybitnych młodych naukowców"
 data: "2018-09-21"
 rodzaj: "sukces"

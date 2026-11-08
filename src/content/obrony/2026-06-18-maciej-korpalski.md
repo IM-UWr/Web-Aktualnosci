@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 kandydat: "Maciej Korpalski"
 tytul_rozprawy: "On isomorphic and geometric properties of Banach spaces of continuous functions"
 termin: "2026-06-18T16:30"

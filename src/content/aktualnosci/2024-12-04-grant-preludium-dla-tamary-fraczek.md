@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Grant Preludium dla Tamary Frączek"
 data: "2024-12-04"
 rodzaj: "sukces"

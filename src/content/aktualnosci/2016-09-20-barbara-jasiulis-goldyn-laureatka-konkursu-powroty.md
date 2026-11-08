@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Barbara Jasiulis-Gołdyn laureatką konkursu POWROTY"
 data: "2016-09-20"
 rodzaj: "sukces"

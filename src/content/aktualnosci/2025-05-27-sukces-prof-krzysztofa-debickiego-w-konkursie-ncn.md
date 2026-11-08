@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces prof. Krzysztofa Dębickiego w konkursie NCN"
 data: "2025-05-27"
 rodzaj: "sukces"

@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Otrzymaliśmy kategorię naukową A+"
 data: "2026-08-03"
 rodzaj: "sukces"

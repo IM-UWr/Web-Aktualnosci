@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Matematyka na A+"
 data: "2023-02-15"
 rodzaj: "sukces"

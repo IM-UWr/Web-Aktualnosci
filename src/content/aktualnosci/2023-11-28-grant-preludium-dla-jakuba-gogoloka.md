@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Grant Preludium dla Jakuba Gogoloka"
 data: "2023-11-28"
 rodzaj: "sukces"

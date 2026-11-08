@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Mariusz Mirek laureatem Nagrody Naukowej im. Sierpińskiego Wydziału III PAN"
 data: "2018-12-02"
 rodzaj: "sukces"

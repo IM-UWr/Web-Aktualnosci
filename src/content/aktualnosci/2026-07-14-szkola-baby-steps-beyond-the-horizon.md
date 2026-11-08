@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Szkoła dla studentów Baby Steps Beyond the Horizon"
 data: "2026-07-14"
 rodzaj: "wydarzenie"

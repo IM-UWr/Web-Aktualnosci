@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces w konkursie Narodowego Centrum Nauki"
 data: "2018-05-17"
 rodzaj: "sukces"

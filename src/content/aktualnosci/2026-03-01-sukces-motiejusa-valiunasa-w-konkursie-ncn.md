@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces Motiejusa Valiunasa w konkursie NCN"
 data: "2026-03-01"
 rodzaj: "sukces"

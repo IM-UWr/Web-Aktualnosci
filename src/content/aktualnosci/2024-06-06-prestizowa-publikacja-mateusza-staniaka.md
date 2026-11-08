@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Prestiżowa publikacja Mateusza Staniaka"
 data: "2024-06-06"
 rodzaj: "sukces"

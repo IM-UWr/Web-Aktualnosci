@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Janusz Wysoczański profesorem"
 data: "2022-03-04"
 rodzaj: "sukces"

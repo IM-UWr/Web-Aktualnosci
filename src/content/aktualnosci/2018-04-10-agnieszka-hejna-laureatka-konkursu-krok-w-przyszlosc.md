@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Agnieszka Hejna laureatką konkursu „Krok w Przyszłość”"
 data: "2018-04-10"
 rodzaj: "sukces"

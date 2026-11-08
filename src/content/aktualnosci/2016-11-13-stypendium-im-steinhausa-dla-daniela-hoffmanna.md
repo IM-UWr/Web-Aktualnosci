@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium im. Steinhausa dla Daniela Hoffmanna"
 data: "2016-11-13"
 rodzaj: "sukces"

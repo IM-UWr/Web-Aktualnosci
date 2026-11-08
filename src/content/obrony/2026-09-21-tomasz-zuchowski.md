@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 kandydat: "Tomasz Żuchowski"
 tytul_rozprawy: "On sequences of measures and ideals in Boolean algebras"
 termin: "2026-09-21T17:00"

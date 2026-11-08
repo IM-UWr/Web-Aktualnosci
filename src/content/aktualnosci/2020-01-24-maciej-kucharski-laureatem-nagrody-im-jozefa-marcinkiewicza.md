@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Maciej Kucharski laureatem nagrody im. Józefa Marcinkiewicza"
 data: "2020-01-24"
 rodzaj: "sukces"

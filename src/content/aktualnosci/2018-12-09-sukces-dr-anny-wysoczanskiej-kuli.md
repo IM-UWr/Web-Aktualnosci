@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Sukces dr Anny Wysoczańskiej-Kuli"
 data: "2018-12-09"
 rodzaj: "sukces"

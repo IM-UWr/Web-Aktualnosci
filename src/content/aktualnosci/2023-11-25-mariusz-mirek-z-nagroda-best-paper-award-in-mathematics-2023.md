@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Mariusz Mirek z nagrodą Best Paper Award in Mathematics 2023"
 data: "2023-11-25"
 rodzaj: "sukces"

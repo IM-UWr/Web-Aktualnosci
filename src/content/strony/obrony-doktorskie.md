@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: Obrony doktorskie
 tytul_en: PhD defences
 tresc_en: |-

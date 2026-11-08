@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Stypendium im. Steinhausa dla Agnieszki Hejny"
 data: "2018-11-12"
 rodzaj: "sukces"

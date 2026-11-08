@@ -1,4 +1,5 @@
 ---
+status_publikacji: oficjalna
 tytul: "Mariusz Mirek laureatem nagrody PTM im. Stefana Banacha"
 data: "2024-03-11"
 rodzaj: "sukces"
