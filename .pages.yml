@@ -22,8 +22,10 @@ content:
     - data
     - rodzaj
     primary: tytul
-    sort: data
-    order: desc
+    sort: [data]
+    default:
+      sort: data
+      order: desc
   fields:
   - name: tytul
     label: Tytuł
@@ -184,8 +186,10 @@ content:
     - kandydat
     - termin
     primary: kandydat
-    sort: termin
-    order: desc
+    sort: [termin]
+    default:
+      sort: termin
+      order: desc
   fields:
   - name: kandydat
     label: Imię i nazwisko doktoranta
