@@ -51,17 +51,15 @@ content:
         label: Kariera
   - name: body
     label: Treść
-    type: rich-text
+    type: code
     options:
       format: markdown
-      path: public/pliki/aktualnosci
   - name: tresc_en
     label: Treść EN
     description: Treść po angielsku, w tym samym układzie co Treść. Puste = wersja angielska pokaże treść po polsku.
-    type: rich-text
+    type: code
     options:
       format: markdown
-      path: public/pliki/aktualnosci
   - name: dla
     label: Dla kogo
     type: select
@@ -210,13 +208,13 @@ content:
     default: sala WS, Instytut Matematyczny UWr
   - name: body
     label: Opis (opcjonalnie; puste = zaproszenie, a po terminie informacja o odbytej obronie, złożone z danych. Wpisany tekst nie zmieni się sam po terminie)
-    type: rich-text
+    type: code
     options:
       format: markdown
   - name: tresc_en
     label: Treść EN
     description: Opis po angielsku, w tym samym układzie. Puste = wersja angielska pokaże zaproszenie złożone z danych (albo opis po polsku, gdy jest).
-    type: rich-text
+    type: code
     options:
       format: markdown
   - name: zdjecie
@@ -307,10 +305,9 @@ content:
     required: true
   - name: body
     label: Treść
-    type: rich-text
+    type: code
     options:
       format: markdown
-      path: public/pliki/aktualnosci
     description: |-
       Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
 
@@ -339,10 +336,9 @@ content:
   - name: tresc_en
     label: Treść EN
     description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
-    type: rich-text
+    type: code
     options:
       format: markdown
-      path: public/pliki/aktualnosci
   - name: opis
     label: Krótki opis (pod tytułem i w Google)
     type: text
