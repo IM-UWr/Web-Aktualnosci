@@ -1,5 +1,6 @@
 ---
 tytul: Aktualności
+opublikowany: true
 tytul_en: News
 opis: Ogłoszenia, wydarzenia i sukcesy Instytutu Matematycznego.
 opis_en: Announcements, events and achievements of the Mathematical Institute.

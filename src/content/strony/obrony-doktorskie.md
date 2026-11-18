@@ -1,5 +1,6 @@
 ---
 tytul: Obrony doktorskie
+opublikowany: true
 tytul_en: PhD defences
 tresc_en: |-
   This page announces PhD defences at the Mathematical Institute; those that have already taken place remain on the list together with their documents. The defence is the public part of the procedure for conferring the doctoral degree: the candidate gives an overview of the thesis, the reviews are then presented, and an open discussion follows. The doctoral degree in mathematics is conferred by the Mathematics Discipline Council of the University of Wrocław.
