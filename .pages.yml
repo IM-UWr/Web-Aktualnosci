@@ -58,7 +58,7 @@ content:
       - name: kariera
         label: Kariera
   - name: termin
-    label: Termin wydarzenia
+        label: Termin wydarzenia (tylko spotkania, konferencje itp.; ogólna informacja: zostaw puste)
     description: Tylko jeśli wpis zapowiada wydarzenie (kliknij „Add an item”). Termin trafia do Kalendarza, do „Nadchodzących wydarzeń” i do Szybkiego dostępu na stronie głównej, a po jego końcu wpis znika z Aktualności na stronie głównej. Dzień, którego dotyczy zwykła informacja (np. dzień wręczenia medalu), wpisz w polu „Data”, nie tutaj.
     type: object
     list:
