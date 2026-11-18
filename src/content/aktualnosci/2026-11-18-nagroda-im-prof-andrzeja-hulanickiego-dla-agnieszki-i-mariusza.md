@@ -1,6 +1,7 @@
 ---
 tytul: Nagroda im. prof. Andrzeja Hulanickiego dla Agnieszki i Mariusza
 tytul_en: The Professor Andrzej Hulanicki Award for Agnieszka and Mariusz
+opublikowany: true
 data: 2026-11-17
 rodzaj: sukces
 tresc_en: >-
@@ -42,7 +43,7 @@ dla:
   - studenci
   - doktoranci
   - pracownicy
-zdjecie: /pliki/aktualnosci/agnieszkaimariusz2.jpeg
+zdjecie: /pliki/aktualnosci/agnieszkaimariusz1.jpeg
 zdjecie_opis: Agnieszka Hejna-Łyżwa i Mariusz Tobolski
 zdjecie_opis_en: Agnieszka Hejna-Łyżwa and Mariusz Tobolski
 galeria:
