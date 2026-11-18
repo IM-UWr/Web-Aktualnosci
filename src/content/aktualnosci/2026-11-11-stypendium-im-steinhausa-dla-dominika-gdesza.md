@@ -10,11 +10,13 @@ tresc_en: >-
 
 
   Our PhD student, **Rafał Łyżwa**, also received an honorable mention.
+zajawka: "Dominik Gdesz został laureatem Studenckiego Programu Stypendialnego "
 dla:
   - studenci
   - doktoranci
   - pracownicy
-zajawka: "Dominik Gdesz został laureatem Studenckiego Programu Stypendialnego "
+zdjecie: /pliki/aktualnosci/dominik-gdesz2026.jpg
+zdjecie_opis: Dominik Gdesz
 ---
 Nasz doktorant mgr Dominik Gdesz został laureatem Studenckiego Programu Stypendialnego w ramach konkursu organizowanego przez Wrocławskie Centrum Akademickie. Otrzymał on Stypendium im. Hugona Steinhausa (w zakresie nauk matematycznych).
 
