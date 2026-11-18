@@ -41,7 +41,6 @@ dla:
   - studenci
   - doktoranci
   - pracownicy
-  - kandydaci
 zdjecie: /pliki/aktualnosci/wir.png
 zdjecie_opis: "OpenAI votrex "
 zdjecie_opis_en: Grzegorz Karch
