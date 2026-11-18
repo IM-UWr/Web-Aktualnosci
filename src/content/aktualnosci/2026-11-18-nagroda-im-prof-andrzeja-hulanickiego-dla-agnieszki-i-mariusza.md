@@ -43,7 +43,7 @@ dla:
   - studenci
   - doktoranci
   - pracownicy
-zdjecie: /pliki/aktualnosci/agnieszkaimariusz1.jpeg
+zdjecie: /pliki/aktualnosci/agnieszkaimariuszweb.jpg
 zdjecie_opis: Agnieszka Hejna-Łyżwa i Mariusz Tobolski
 zdjecie_opis_en: Agnieszka Hejna-Łyżwa and Mariusz Tobolski
 galeria:
