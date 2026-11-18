@@ -2,6 +2,7 @@
 # Wygenerowane przy migracji z Avean/IM-Website-test; pola „Opublikowany” usunięte (bez wersji roboczych).
 # Zlecenie 33: pole „Opublikowane” wróciło w Stronach i na stronie działu (odznaczone = szkic, widoczny tylko na Podglądzie).
 # Zlecenie 40: Strony w jawnym Markdownie (ukryte format_tresci), ściągawki przy Treści, tytuł EN i zajawka EN pod polskimi, etykiety „… EN”, opisy formularzy Aktualności i Obron, szablony Treści aktualności i obrony.
+# Zlecenie 48: przełącznik „Opublikowane” w Aktualnościach, zaraz pod tytułem (odznaczone = szkic, widoczny tylko na Podglądzie).
 media:
   input: public/pliki
   output: /pliki
@@ -36,6 +37,11 @@ content:
   - name: tytul_en
     label: 'Tytuł EN'
     type: string
+  - name: opublikowany
+    label: Opublikowane — widoczne na stronie publicznej (na Podglądzie widać zawsze)
+    description: Odznacz, żeby przygotować wpis bez pokazywania go na stronie publicznej (szkic).
+    type: boolean
+    default: true
   - name: data
     label: Data publikacji
     type: date

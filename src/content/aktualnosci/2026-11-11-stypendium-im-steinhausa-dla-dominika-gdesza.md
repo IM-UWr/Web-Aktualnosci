@@ -1,5 +1,6 @@
 ---
 tytul: Stypendium im. Steinhausa dla Dominika Gdesza
+opublikowany: true
 data: 2026-11-11
 rodzaj: sukces
 tresc_en: >-

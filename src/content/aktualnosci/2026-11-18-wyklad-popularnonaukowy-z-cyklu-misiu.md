@@ -1,5 +1,6 @@
 ---
 tytul: "Wykład popularnonaukowy z cyklu MISIU. "
+opublikowany: true
 data: 2026-11-18
 rodzaj: wydarzenie
 termin:

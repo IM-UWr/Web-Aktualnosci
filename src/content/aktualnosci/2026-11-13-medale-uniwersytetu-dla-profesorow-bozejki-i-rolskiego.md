@@ -1,6 +1,7 @@
 ---
 tytul: Medale Uniwersytetu dla profesorów Marka Bożejki i Tomasza Rolskiego
 tytul_en: University Medals for Professors Marek Bożejko and Tomasz Rolski
+opublikowany: true
 data: 2026-11-13
 rodzaj: sukces
 tresc_en: We are pleased to announce that during the University Day

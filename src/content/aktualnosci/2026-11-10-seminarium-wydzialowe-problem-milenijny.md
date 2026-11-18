@@ -2,6 +2,7 @@
 tytul: "SEMINARIUM WYDZIAŁOWE: Problem Milenijny i jego rozwiązanie
   zaproponowane przez OpenAI."
 tytul_en: "FACULTY SEMINAR: The Millennium Prize Problem and OpenAI’s Proposed Solution"
+opublikowany: true
 data: 2026-11-10
 rodzaj: wydarzenie
 termin:
