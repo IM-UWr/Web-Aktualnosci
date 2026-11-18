@@ -63,19 +63,20 @@ tresc_en: >-
   can hold a wealth of surprises.
 dla:
   - kandydaci
+zdjecie: /pliki/aktualnosci/lz80hu7371ee5e67ca0549.webp
 ---
 MISIU (Matematyczno-Informatyczne Spotkania na Uniwersytecie) to seria wykładów popularyzujących matematykę i informatykę dla uczniów szkół średnich. Spotkanie składa się z dwóch wykładów - z matematyki oraz z informatyki. Każdy z nich trwa 45 minut. Zainteresowane szkoły zapraszamy do kontaktu: promocja [ at ] cs.uni.wroc.pl. Po ogłoszeniu terminu i tematów kolejnego spotkania opublikujemy formularz do zapisów.
 
 ## Piotr Polesiuk
 
-## *Jak zbudowałem własny procesor nie mając miliona dolarów*
+### *Jak zbudowałem własny procesor nie mając miliona dolarów*
 
 Procesor – serce każdego komputera – zwykle kojarzy się nam z zaawansowaną technologią, która wymaga ogromnych nakładów finansowych i specjalistycznej wiedzy. Okazuje się jednak, że procesor jest zbudowany z komponentów o bardzo prostych zasadach działania. W czasie wykładu postaram się przybliżyć jak taki procesor działa i z czego jest zbudowany. Pokażę również, że przy odrobinie kreatywności i determinacji, można samemu zbudować prosty procesor za niewielkie pieniądze, a wszystko to dzięki trochę już zapomnianej technologii sprzed pół wieku.
 
 
 ## Michał Bałwanowski
 
-## *Nieprzewidywalna matematyka prostych reguł*
+### *Nieprzewidywalna matematyka prostych reguł*
 
 Czy coś, co działa według prostych i dobrze znanych zasad, może nas zaskoczyć? Okazuje się, że jak najbardziej! Czasem wystarczy kilka nieskomplikowanych reguł, żeby stworzyć niezwykłe wzory i zaobserwować zjawiska, których przebieg trudno przewidzieć.
 Podczas wykładu spojrzymy na matematykę z nieco innej strony. Zobaczymy, jak za pomocą prostych modeli można odtworzyć zaskakująco złożone zjawiska. Przekonamy się też, że nawet niewinne zabawy polegające na kolorowaniu kwadratów mogą prowadzić do pytań, na które matematycy wciąż szukają odpowiedzi. Nie zabraknie animacji, eksperymentów i okazji do sprawdzenia własnych przewidywań. Wszystko po to, by pokazać, że nawet najprostsza matematyka może kryć w sobie wiele niespodzianek.
