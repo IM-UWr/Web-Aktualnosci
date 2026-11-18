@@ -1,8 +1,14 @@
 ---
 tytul: "SEMINARIUM WYDZIAŁOWE: Problem Milenijny i jego rozwiązanie
   zaproponowane przez OpenAI."
+tytul_en: "FACULTY SEMINAR: The Millennium Prize Problem and OpenAI’s Proposed Solution"
 data: 2026-11-10
 rodzaj: wydarzenie
+termin:
+  - dzien: 2026-11-10
+    godzina: 13:00
+    miejsce: Instytut Informatyki sala 119
+    pozycja: false
 tresc_en: >-
   On behalf of the Dean of the Faculty, we cordially invite all staff members
   and students to the [Faculty
@@ -15,7 +21,7 @@ tresc_en: >-
   give a lecture entitled
 
 
-  **"The Millennium Prize Problem and Its Proposed Solution by OpenAI."**
+  *"The Millennium Prize Problem and Its Proposed Solution by OpenAI."*
 
 
   As usual, the Dean invites everyone for coffee and cake at **12:30 p.m.**,
@@ -37,24 +43,20 @@ dla:
 zdjecie: /pliki/aktualnosci/wir.png
 zdjecie_opis: "OpenAI votrex "
 zdjecie_opis_en: Grzegorz Karch
-termin:
-  - dzien: 2026-11-10
-    godzina: 13:00
-    miejsce: Instytut Informatyki sala 119
 zalaczniki:
   - nazwa: "Slajd z wykładu prof. Grzegorza Karch "
     nazwa_en: Slides from Professor Grzegorz Karch’s lecture
     plik: /pliki/aktualnosci/2026navierstokeslecture.pdf
+    pozycja: false
 zaklad: rownania-rozniczkowe
-tytul_en: "FACULTY SEMINAR: The Millennium Prize Problem and OpenAI’s Proposed Solution"
 ---
 W imieniu Dziekana Wydziału serdecznie zapraszamy pracowników oraz studentów na seminarium wydziałowe, które odbędzie się we wtorek 10 listopada o godz. 13:00 w Instytucie Informatyki w sali 119.
 
-Prelegentem będzie prof. Grzegorz Karch z naszego Instytutu, która wygłosi wykład pt.
+Prelegentem będzie **prof. Grzegorz Karch** z naszego Instytutu, która wygłosi wykład pt.
 
-Problem Milenijny i jego rozwiązanie zaproponowane przez OpenAI.
+*Problem Milenijny i jego rozwiązanie zaproponowane przez OpenAI.*
 
 Tradycyjnie, bezpośrednio przed seminarium o godzinie 12:30 Dziekan zaprasza na kawę i ciasto w holu przed salą 119.
 
-Streszczenie:
+**Streszczenie:**
 Podczas wykładu omówiony zostanie jeden z Problemów Milenijnych, dotyczący równań Naviera–Stokesa. Następnie wyjaśnimy, czy praca przygotowana przez OpenAI prowadzi do rozwiązania tego problemu. Wykład będzie zrozumiały dla każdego, kto pamięta podstawy rachunku różniczkowego funkcji wielu zmiennych.
