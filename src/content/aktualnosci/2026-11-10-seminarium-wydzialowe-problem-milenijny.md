@@ -1,10 +1,9 @@
 ---
-tytul: "SEMINARIUM WYDZIAŁOWE: Problem Milenijny i jego rozwiązanie
-  zaproponowane przez OpenAI."
-tytul_en: "FACULTY SEMINAR: The Millennium Prize Problem and OpenAI’s Proposed Solution"
+tytul: Prof. Grzegorz Karch
+tytul_en: Prof. Grzegorz Karch
 opublikowany: true
 data: 2026-11-10
-rodzaj: wydarzenie
+rodzaj: seminarium-wydzialowe
 termin:
   - dzien: 2026-11-10
     godzina: 13:00
@@ -36,6 +35,8 @@ tresc_en: >-
   Navier–Stokes equations. We will then explain whether the work produced by
   OpenAI actually solves this problem. The lecture will be accessible to anyone
   familiar with the basics of multivariable calculus.
+zajawka: Problem Milenijny i jego rozwiązanie zaproponowane przez OpenAI
+zajawka_en: The Millennium Prize Problem and OpenAI’s Proposed Solution
 dla:
   - studenci
   - doktoranci

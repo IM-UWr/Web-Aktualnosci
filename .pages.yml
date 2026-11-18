@@ -13,7 +13,7 @@ settings:
 content:
 - name: aktualnosci
   label: Aktualności
-  description: Ogłoszenia, wydarzenia, sukcesy i oferty pracy, staży i stypendiów. Ogłoszenia, wydarzenia i sukcesy widać w Aktualnościach i na stronie głównej; wydarzenie z terminem trafia też do kalendarza. Oferty (rodzaj „Kariera”) są na stronie Kariera i na stronie Studiów.
+  description: Ogłoszenia, wydarzenia, seminaria wydziałowe, sukcesy i oferty pracy, staży i stypendiów. Ogłoszenia, wydarzenia, seminaria wydziałowe i sukcesy widać w Aktualnościach i na stronie głównej; wpis z terminem trafia też do kalendarza. Oferty (rodzaj „Kariera”) są na stronie Kariera i na stronie Studiów.
   type: collection
   path: src/content/aktualnosci
   format: yaml-frontmatter
@@ -50,7 +50,7 @@ content:
       format: yyyy-MM-dd
   - name: rodzaj
     label: Rodzaj
-    description: „Kariera” (oferty pracy, staży i stypendiów) trafia na stronę Kariera (link w Aktualnościach), a nie na listę Aktualności i stronę główną.
+    description: "„Seminarium wydziałowe” działa jak „Wydarzenie”: dodaj „Termin wydarzenia”. W tytule wpisz prelegenta, np. „Prof. Jan Kowalski”, bez „Seminarium wydziałowe”, bo pokazuje to plakietka. Tytuł wykładu wpisz w zajawce. „Kariera” (oferty pracy, staży i stypendiów) trafia na stronę Kariera (link w Aktualnościach), a nie na listę Aktualności i stronę główną."
     type: select
     default: ogloszenie
     options:
@@ -59,6 +59,8 @@ content:
         label: Ogłoszenie
       - name: wydarzenie
         label: Wydarzenie
+      - name: seminarium-wydzialowe
+        label: Seminarium wydziałowe
       - name: sukces
         label: Sukces
       - name: kariera

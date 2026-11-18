@@ -1,11 +1,11 @@
 ---
-tytul: "Seminarium wydziałowe: prof. Olga Vitek"
+tytul: "Prof. Olga Vitek"
 data: "2026-06-16"
-rodzaj: "wydarzenie"
+rodzaj: "seminarium-wydzialowe"
 dla:
   - "pracownicy"
   - "studenci"
-zajawka: "„Statistical methods increase the accuracy and the interpretability of quantitative proteomic investigations” — 23 czerwca, sala 119 w Instytucie Informatyki."
+zajawka: "Statistical methods increase the accuracy and the interpretability of quantitative proteomic investigations"
 zdjecie: "/pliki/aktualnosci/vitek-olga.jpg"
 zdjecie_opis: "Prof. Olga Vitek"
 zdjecie_opis_en: "Prof. Olga Vitek"
@@ -14,8 +14,8 @@ termin:
     godzina: "12:30"
     godzina_konca: "14:00"
     miejsce: "sala 119, Instytut Informatyki UWr"
-tytul_en: "Faculty seminar: Prof. Olga Vitek"
-zajawka_en: "“Statistical methods increase the accuracy and the interpretability of quantitative proteomic investigations” — 23 June, room 119, Institute of Computer Science."
+tytul_en: "Prof. Olga Vitek"
+zajawka_en: "Statistical methods increase the accuracy and the interpretability of quantitative proteomic investigations"
 tresc_en: |
   On behalf of the Dean, we cordially invite staff and students to the faculty seminar on Tuesday **23 June** at **12:30** in room **119** of the Institute of Computer Science.
 
