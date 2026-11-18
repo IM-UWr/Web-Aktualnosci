@@ -1,6 +1,7 @@
 # Pages CMS — Web-Aktualnosci: Aktualności i obrony doktorskie.
 # Wygenerowane przy migracji z Avean/IM-Website-test; pola „Opublikowany” usunięte (bez wersji roboczych).
 # Zlecenie 33: pole „Opublikowane” wróciło w Stronach i na stronie działu (odznaczone = szkic, widoczny tylko na Podglądzie).
+# Zlecenie 40: Strony w jawnym Markdownie (ukryte format_tresci), ściągawki przy Treści, tytuł EN i zajawka EN pod polskimi, etykiety „… EN”, opisy formularzy Aktualności i Obron, szablony Treści aktualności i obrony.
 media:
   input: public/pliki
   output: /pliki
@@ -11,6 +12,7 @@ settings:
 content:
 - name: aktualnosci
   label: Aktualności
+  description: Ogłoszenia, wydarzenia, sukcesy i oferty pracy, staży i stypendiów. Ogłoszenia, wydarzenia i sukcesy widać w Aktualnościach i na stronie głównej; wydarzenie z terminem trafia też do kalendarza. Oferty (rodzaj „Kariera”) są na stronie Kariera i na stronie Studiów.
   type: collection
   path: src/content/aktualnosci
   format: yaml-frontmatter
@@ -31,6 +33,9 @@ content:
     label: Tytuł
     type: string
     required: true
+  - name: tytul_en
+    label: 'Tytuł EN'
+    type: string
   - name: data
     label: Data publikacji
     type: date
@@ -103,15 +108,25 @@ content:
       hidden: true
   - name: body
     label: Treść
+    description: "Zwykły Markdown: akapity oddziela pusta linia; **pogrubienie**, *kursywa*, [tekst linku](https://…); lista: „- ” na początku linii; ## = nagłówek sekcji. Plik PDF: wgraj w „Media” i wklej link. Komentarze <!-- … --> to podpowiedzi; na stronie ich nie widać."
     type: code
     options:
       format: markdown
+    default: |-
+      <!-- TEKST: Zwykły tekst. Akapity oddziela pusta linia. Pliki: wgraj w „Media” i wklej link. -->
+      <!-- Rejestracja, program, plakat: wstaw link w osobnej linii. -->
   - name: tresc_en
     label: Treść EN
     description: Treść po angielsku, w tym samym układzie co Treść. Puste = wersja angielska pokaże treść po polsku.
     type: code
     options:
       format: markdown
+  - name: zajawka
+    label: Zajawka (1–2 zdania na listę i stronę główną)
+    type: text
+  - name: zajawka_en
+    label: 'Zajawka EN'
+    type: text
   - name: dla
     label: Dla kogo
     type: select
@@ -126,9 +141,6 @@ content:
         label: Pracownicy
       - name: kandydaci
         label: Kandydaci
-  - name: zajawka
-    label: Zajawka (1–2 zdania na listę i stronę główną)
-    type: text
   - name: zdjecie
     label: Zdjęcie główne
     type: image
@@ -138,7 +150,7 @@ content:
     label: Podpis / opis zdjęcia (np. kto jest na zdjęciu, autor)
     type: string
   - name: zdjecie_opis_en
-    label: 'EN: podpis / opis zdjęcia (np. Photo: Jan Kowalski)'
+    label: 'Podpis / opis zdjęcia EN (np. Photo: Jan Kowalski)'
     type: string
   - name: galeria
     label: Galeria zdjęć
@@ -176,7 +188,7 @@ content:
       label: Nazwa wyświetlana
       type: string
     - name: nazwa_en
-      label: 'EN: nazwa wyświetlana (plik po polsku — np. Job offer (PDF, Polish))'
+      label: 'Nazwa wyświetlana EN (plik po polsku — np. Job offer (PDF, Polish))'
       type: string
     - name: plik
       label: Plik
@@ -212,14 +224,9 @@ content:
       - name: teoria-prawdopodobienstwa
         label: Zakład Teorii Prawdopodobieństwa
     description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
-  - name: tytul_en
-    label: 'EN: tytuł'
-    type: string
-  - name: zajawka_en
-    label: 'EN: zajawka'
-    type: text
 - name: obrony
   label: Obrony doktorskie
+  description: Publiczne obrony rozpraw doktorskich. Lista w Nauce → Obrony doktorskie. Pusta Treść = strona sama napisze zaproszenie.
   type: collection
   path: src/content/obrony
   format: yaml-frontmatter
@@ -256,12 +263,14 @@ content:
     default: sala WS, Instytut Matematyczny UWr
   - name: body
     label: Opis (opcjonalnie; puste = zaproszenie, a po terminie informacja o odbytej obronie, złożone z danych. Wpisany tekst nie zmieni się sam po terminie)
+    description: "Zwykły Markdown: akapity oddziela pusta linia; **pogrubienie**, *kursywa*, [tekst linku](https://…); lista: „- ” na początku linii; ## = nagłówek sekcji. Plik PDF: wgraj w „Media” i wklej link. Komentarze <!-- … --> to podpowiedzi; na stronie ich nie widać. Pusta Treść (albo sam komentarz) = zaproszenie złożone z danych."
     type: code
     options:
       format: markdown
+    default: <!-- Zostaw puste, a strona sama napisze zaproszenie. Własny tekst zastępuje zaproszenie. -->
   - name: tresc_en
     label: Treść EN
-    description: Opis po angielsku, w tym samym układzie. Puste = wersja angielska pokaże zaproszenie złożone z danych (albo opis po polsku, gdy jest).
+    description: Opis po angielsku, w tym samym układzie. Puste = wersja angielska pokaże zaproszenie złożone z danych (także wtedy, gdy polski opis jest wpisany).
     type: code
     options:
       format: markdown
@@ -274,7 +283,7 @@ content:
     label: Podpis / opis zdjęcia
     type: string
   - name: zdjecie_opis_en
-    label: 'EN: podpis / opis zdjęcia'
+    label: 'Podpis / opis zdjęcia EN'
     type: string
   - name: promotorzy
     label: Promotor / promotorzy
@@ -343,7 +352,7 @@ content:
     description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
 - name: strony
   label: Strony
-  description: 'Adres strony = ścieżka pliku, np. aktualnosci.md → /aktualnosci. Teksty stron z listą (tytuł, opis, hasło i tekst nad listą) to też strony: aktualnosci.md (Aktualności), kariera.md (Kariera, strona /aktualnosci/kariera z ofertami pracy, staży i stypendiów), obrony-doktorskie.md (Obrony doktorskie). Brak takiej strony nic nie psuje — lista pokaże domyślny tytuł i hasło, bez tekstu.'
+  description: 'Adres strony = ścieżka pliku, np. aktualnosci.md → /aktualnosci. Teksty stron z listą (tytuł, opis, hasło i tekst nad listą) to też strony: aktualnosci.md (Aktualności), kariera.md (Kariera, strona /aktualnosci/kariera z ofertami pracy, staży i stypendiów), obrony-doktorskie.md (Obrony doktorskie). Brak takiej strony nic nie psuje — lista pokaże domyślny tytuł i hasło, bez tekstu. Treść w jawnym Markdownie, jak w Studiach.'
   type: collection
   path: src/content/strony
   format: yaml-frontmatter
@@ -358,6 +367,9 @@ content:
     label: Tytuł
     type: string
     required: true
+  - name: tytul_en
+    label: Tytuł EN
+    type: string
   - name: opublikowany
     label: Opublikowane — widoczne na stronie publicznej (na Podglądzie widać zawsze)
     description: Odznacz, żeby przygotować stronę bez pokazywania jej na stronie publicznej (szkic)
@@ -369,53 +381,36 @@ content:
     options:
       format: markdown
     description: |-
-      Piszesz jak w zwykłym edytorze; akapity oddziela Enter. Nagłówek 2 = nowa sekcja (pojawi się w spisie „Na tej stronie”).
-
-      Gdy włączone jest pole „Bloki” (niżej), kilka układów strona rozpoznaje sama:
-
-      • Punkt listy zaczynający się pogrubieniem = kafelek.
-
-      • Lista numerowana z pogrubionym początkiem = oś kroków.
-
-      • Punkt z rolą kursywą i nazwiskiem pogrubionym = kontakt.
-
-      • Lista samych linków = lista plików (PDF / strona).
-
-      • Nagłówek 3 zakończony znakiem „?” = rozwijane pytanie.
-
-      • Tekst nad listą (Seminaria, Konferencje, Aktualności…): lista stoi pod całym tekstem, chyba że jest kotwica — np. na stronie Publikacje tekst pod nagłówkiem 2 „Czasopisma redagowane w Instytucie” stoi nad listą czasopism.
-
-      • Plik PDF: wgraj w „Media” i wklej link.
-
-      • Akapit zaczynający się od dwuliterowego skrótu z kropką („Np.”, „Dr.”, „No.”) edytor zapisze jako listę numerowaną „1.” — zacznij akapit inaczej albo pogrub skrót.
-
-      Więcej: ściągawka edytora (dok/sciagawka-edytora.md w Web-Core).
-  - name: tytul_en
-    label: Tytuł EN
-    type: string
+      Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze <!-- … --> objaśniają bloki; na stronie ich nie widać. Zachowaj pasujące końcowe dwukropki. Plik PDF: wgraj w „Media” i wklej link. Wygląd sprawdzaj po przebudowaniu strony (Podgląd). Strona z listą (Aktualności, Kariera, Obrony doktorskie): tekst stoi nad listą; pusta Treść (albo sam komentarz) = sama lista.
   - name: tresc_en
     label: Treść EN
-    description: Cała strona po angielsku, w tym samym układzie co Treść (nagłówki sekcji po angielsku). Puste = strona angielska pokaże treść polską.
+    description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze <!-- … --> objaśniają bloki; na stronie ich nie widać. Zachowaj pasujące końcowe dwukropki. Plik PDF: wgraj w „Media” i wklej link. Wygląd sprawdzaj po przebudowaniu strony (Podgląd). Puste = strona angielska pokaże treść polską."
     type: code
     options:
       format: markdown
+  - name: format_tresci
+    label: Format treści
+    type: string
+    hidden: true
+    default: jawne
   - name: opis
-    label: Krótki opis (pod tytułem i w Google)
+    label: Krótki opis (Google i podgląd linku)
+    description: Na samej stronie się nie wyświetla (baner pokazuje tytuł i hasło). Np. „Ogłoszenia, wydarzenia i sukcesy Instytutu Matematycznego.”. Puste = ogólny opis serwisu.
     type: text
   - name: opis_en
-    label: 'EN: opis'
+    label: 'Opis EN'
     type: text
   - name: haslo
     label: Hasło na banerze (jedna linia; liczby w banerze pokażą się tylko razem z hasłem)
     type: string
   - name: haslo_en
-    label: 'EN: hasło na banerze'
+    label: 'Hasło na banerze EN'
     type: string
   - name: haslo_podstron
     label: Hasło na banerze stron pojedynczych wpisów (tylko Publikacje — rocznik, i Obrony doktorskie — obrona)
     type: string
   - name: haslo_podstron_en
-    label: 'EN: hasło stron pojedynczych wpisów'
+    label: 'Hasło stron pojedynczych wpisów EN'
     type: string
   - name: liczby
     label: Liczby pod hasłem na banerze (tylko gdy nie da się ich policzyć z danych)
@@ -430,14 +425,14 @@ content:
       type: string
       required: true
     - name: n_en
-      label: 'EN: liczba (puste = jak po polsku)'
+      label: 'Liczba EN (puste = jak po polsku)'
       type: string
     - name: etykieta
       label: Podpis
       type: string
       required: true
     - name: etykieta_en
-      label: 'EN: podpis'
+      label: 'Podpis EN'
       type: string
     - name: pozycja
       type: boolean
@@ -460,3 +455,4 @@ content:
     type: boolean
     default: false
     description: 'Włączone: listy w treści stają się blokami (kafelki, oś kroków, kontakty, lista plików, rozwijane pytania) — opis przy polu „Treść”. Wyłączone: zwykłe listy.'
+    hidden: true

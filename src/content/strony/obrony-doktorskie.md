@@ -3,6 +3,8 @@ tytul: Obrony doktorskie
 opublikowany: true
 tytul_en: PhD defences
 tresc_en: |-
+  <!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
+
   This page announces PhD defences at the Mathematical Institute; those that have already taken place remain on the list together with their documents. The defence is the public part of the procedure for conferring the doctoral degree: the candidate gives an overview of the thesis, the reviews are then presented, and an open discussion follows. The doctoral degree in mathematics is conferred by the Mathematics Discipline Council of the University of Wrocław.
 
   Under the Law on Higher Education and Science, the thesis with its abstract and the reviews are made available in the University of Wrocław's Public Information Bulletin (BIP) at least 30 days before the defence, and information on its date, place and format at least 10 days before it. For convenience, we also collect these materials here. Each defence page gives the date and place, the defence notice, the thesis, abstracts in Polish and English, and the reviews. You can add an upcoming defence to your own calendar; all defences also appear in the Institute calendar.
@@ -14,7 +16,9 @@ haslo: Publiczne obrony rozpraw
 haslo_en: Public thesis defences
 haslo_podstron: Publiczna obrona doktoratu
 haslo_podstron_en: A public PhD defence
+format_tresci: jawne
 ---
+<!-- UKŁAD JAWNY: ## rozpoczyna sekcję w spisie. Nazwę można zmieniać; {#id} zachowuje adres. Bloki :::nazwa … ::: sterują wyglądem; komentarze są tylko instrukcjami dla redaktora. -->
 
 Na tej stronie zapowiadamy obrony doktorskie w Instytucie Matematycznym, a te już przeprowadzone pozostają na liście razem z dokumentami. Obrona to jawna część postępowania w sprawie nadania stopnia doktora: kandydat omawia swoją rozprawę, następnie przedstawiane są recenzje, a potem odbywa się otwarta dyskusja. Stopień doktora w dyscyplinie matematyka nadaje Rada Dyscypliny Naukowej Matematyka.
 
