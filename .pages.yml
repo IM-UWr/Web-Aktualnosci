@@ -39,6 +39,7 @@ content:
       format: yyyy-MM-dd
   - name: rodzaj
     label: Rodzaj
+    description: „Kariera” (oferty pracy, staży i stypendiów) trafia na stronę Kariera (link w Aktualnościach), a nie na listę Aktualności i stronę główną.
     type: select
     default: ogloszenie
     options:
@@ -82,6 +83,21 @@ content:
     - name: miejsce
       label: Miejsce (np. sala WS, Instytut Matematyczny UWr)
       type: string
+    - name: pozycja
+      type: boolean
+      hidden: true
+  - name: zgloszenia
+    label: 'Termin zgłoszeń (tylko oferty: Rodzaj „Kariera”)'
+    description: Tylko dla ofert pracy, staży i stypendiów (kliknij „Add an item”). Po tym dniu oferta przechodzi do „Zakończonych” na stronie Kariera i znika ze strony Studiów. Bez terminu oferta jest aktualna, dopóki jej nie usuniesz.
+    type: object
+    list:
+      max: 1
+    fields:
+    - name: do_dnia
+      label: Do dnia
+      type: date
+      required: true
+      default: ''
     - name: pozycja
       type: boolean
       hidden: true
@@ -327,7 +343,7 @@ content:
     description: (lista z innego repozytorium — nowa pozycja wymaga dopisania w konfiguracji)
 - name: strony
   label: Strony
-  description: 'Adres strony = ścieżka pliku, np. aktualnosci.md → /aktualnosci. Teksty stron z listą (tytuł, opis, hasło i tekst nad listą) to też strony: aktualnosci.md (Aktualności), obrony-doktorskie.md (Obrony doktorskie). Brak takiej strony nic nie psuje — lista pokaże domyślny tytuł i hasło, bez tekstu.'
+  description: 'Adres strony = ścieżka pliku, np. aktualnosci.md → /aktualnosci. Teksty stron z listą (tytuł, opis, hasło i tekst nad listą) to też strony: aktualnosci.md (Aktualności), kariera.md (Kariera, strona /aktualnosci/kariera z ofertami pracy, staży i stypendiów), obrony-doktorskie.md (Obrony doktorskie). Brak takiej strony nic nie psuje — lista pokaże domyślny tytuł i hasło, bez tekstu.'
   type: collection
   path: src/content/strony
   format: yaml-frontmatter
