@@ -48,7 +48,7 @@ zdjecie_opis: Agnieszka Hejna-Łyżwa i Mariusz Tobolski
 zdjecie_opis_en: Agnieszka Hejna-Łyżwa and Mariusz Tobolski
 galeria:
   - plik: /pliki/aktualnosci/agnieszkaimariuszweb.jpg
-    podpis: Agnieszka Hejna-Łyżwa i Mariusz Tobolski
+    podpis: "Agnieszka Hejna-Łyżwa i Mariusz Tobolski "
     pozycja: false
 ---
 Nagroda im. **Andrzeja Hulanickiego przyznawana** jest młodym pracownikom naukowym Instytutu Matematycznego Uniwersytetu Wrocławskiego za wybitne osiągnięcia naukowe, dydaktyczne i organizacyjne. Upamiętnia ona profesora Andrzeja Hulanickiego, wybitnego matematyka, członka rzeczywistego PAN i twórcę wrocławskiej szkoły analizy harmonicznej.
