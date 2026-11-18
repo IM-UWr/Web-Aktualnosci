@@ -6,9 +6,12 @@ dla:
   - "studenci"
   - "pracownicy"
 zajawka: "Dwa spotkania poświęcone metodom statystycznym dla danych wysokowymiarowych i modelowaniu w biologii molekularnej — 22 i 24 czerwca."
-wydarzenie_poczatek: "2026-06-22T11:00"
-wydarzenie_koniec: "2026-06-24T13:00"
-wydarzenie_miejsce: "sale 602 i 605, Instytut Matematyczny UWr"
+termin:
+  - dzien: "2026-06-22"
+    godzina: "11:00"
+    dzien_konca: "2026-06-24"
+    godzina_konca: "13:00"
+    miejsce: "sale 602 i 605, Instytut Matematyczny UWr"
 zalaczniki:
   - nazwa: "Streszczenia referatów"
     nazwa_en: "Abstracts of the talks"

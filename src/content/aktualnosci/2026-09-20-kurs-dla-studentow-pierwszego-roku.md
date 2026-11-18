@@ -6,8 +6,9 @@ dla:
   - "kandydaci"
   - "studenci"
 zajawka: "Kurs przygotowawczy dla osób przyjętych na pierwszy rok studiów na WMI UWr — od 25 września."
-wydarzenie_poczatek: "2026-09-25"
-wydarzenie_miejsce: "Wydział Matematyki i Informatyki UWr"
+termin:
+  - dzien: "2026-09-25"
+    miejsce: "Wydział Matematyki i Informatyki UWr"
 tytul_en: "Preparatory course for first-year students"
 zajawka_en: "A preparatory course for students admitted to the first year at the Faculty — from 25 September."
 tresc_en: |

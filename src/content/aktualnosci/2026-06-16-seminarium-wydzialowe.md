@@ -9,9 +9,11 @@ zajawka: "„Statistical methods increase the accuracy and the interpretability 
 zdjecie: "/pliki/aktualnosci/vitek-olga.jpg"
 zdjecie_opis: "Prof. Olga Vitek"
 zdjecie_opis_en: "Prof. Olga Vitek"
-wydarzenie_poczatek: "2026-06-23T12:30"
-wydarzenie_koniec: "2026-06-23T14:00"
-wydarzenie_miejsce: "sala 119, Instytut Informatyki UWr"
+termin:
+  - dzien: "2026-06-23"
+    godzina: "12:30"
+    godzina_konca: "14:00"
+    miejsce: "sala 119, Instytut Informatyki UWr"
 tytul_en: "Faculty seminar: Prof. Olga Vitek"
 zajawka_en: "“Statistical methods increase the accuracy and the interpretability of quantitative proteomic investigations” — 23 June, room 119, Institute of Computer Science."
 tresc_en: |

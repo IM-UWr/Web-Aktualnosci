@@ -8,9 +8,11 @@ zajawka: TEST - przykładowe wydarzenie, nie jest rzeczywistą zapowiedzią. Czt
 zdjecie: /pliki/aktualnosci/test-warsztaty-liczby-pierwsze.jpg
 zdjecie_opis: "Spirala Ulama: liczby pierwsze jako jasne punkty, na bursztynowo — wartości wielomianu Eulera n² + n + 41. Grafika testowa"
 zdjecie_opis_en: "The Ulam spiral: primes as bright dots, with values of Euler’s polynomial n² + n + 41 in amber. Test image"
-wydarzenie_poczatek: 2026-11-12T09:30
-wydarzenie_koniec: 2026-11-12T13:30
-wydarzenie_miejsce: TEST - miejsce przykładowe, bez rezerwacji sali
+termin:
+  - dzien: 2026-11-12
+    godzina: 09:30
+    godzina_konca: 13:30
+    miejsce: TEST - miejsce przykładowe, bez rezerwacji sali
 tytul_en: "TEST: Workshop for secondary school students: from the Ulam spiral to RSA"
 zajawka_en: TEST - sample event, not a real announcement. Four hours of activities on prime numbers and cryptography for secondary school students. Schools can register groups of up to 30.
 tresc_en: |-

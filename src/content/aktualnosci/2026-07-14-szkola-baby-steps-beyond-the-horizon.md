@@ -9,9 +9,10 @@ zajawka: "Szkoła w Będlewie (30 sierpnia – 5 września 2026) pokazująca stu
 zdjecie: "/pliki/aktualnosci/plakatexportedfinal_1.jpg"
 zdjecie_opis: "Plakat szkoły Baby Steps Beyond the Horizon"
 zdjecie_opis_en: "Poster of the Baby Steps Beyond the Horizon school"
-wydarzenie_poczatek: "2026-08-30"
-wydarzenie_koniec: "2026-09-05"
-wydarzenie_miejsce: "Będlewo"
+termin:
+  - dzien: "2026-08-30"
+    dzien_konca: "2026-09-05"
+    miejsce: "Będlewo"
 tytul_en: "Baby Steps Beyond the Horizon — a school for students"
 zajawka_en: "A school in Będlewo (30 August – 5 September 2026) showing students the breadth of current mathematics. On-site registration until 31 July."
 tresc_en: |

@@ -8,9 +8,11 @@ zajawka: TEST - przykładowe wydarzenie, nie jest rzeczywistą zapowiedzią. Min
 zdjecie: /pliki/aktualnosci/test-dzien-otwarty.jpg
 zdjecie_opis: Mozaika Voronoi w kolorach strony Instytutu. Grafika testowa
 zdjecie_opis_en: A Voronoi mosaic in the Institute’s colours. Test image
-wydarzenie_poczatek: 2026-11-14T10:00
-wydarzenie_koniec: 2026-11-14T14:00
-wydarzenie_miejsce: TEST - miejsce przykładowe, bez rezerwacji sali
+termin:
+  - dzien: 2026-11-14
+    godzina: 10:00
+    godzina_konca: 14:00
+    miejsce: TEST - miejsce przykładowe, bez rezerwacji sali
 tytul_en: "TEST: Mathematics open day for prospective students"
 zajawka_en: TEST - sample event, not a real announcement. Short lectures, meetings with students and science clubs, and everything about admission to mathematics. Saturday 14 November, 10:00–14:00.
 tresc_en: |-

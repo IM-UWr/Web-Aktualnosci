@@ -10,9 +10,11 @@ zajawka: TEST - przykładowe wydarzenie, nie jest rzeczywistą zapowiedzią. Pro
 zdjecie: /pliki/aktualnosci/test-wyklad-macierze-losowe.jpg
 zdjecie_opis: Kolorowanie dziedziny wielomianu charakterystycznego losowej macierzy unitarnej; białe punkty to wartości własne na okręgu jednostkowym. Grafika testowa
 zdjecie_opis_en: Domain colouring of the characteristic polynomial of a random unitary matrix; the white dots are eigenvalues on the unit circle. Test image
-wydarzenie_poczatek: 2026-11-19T13:15
-wydarzenie_koniec: 2026-11-19T14:45
-wydarzenie_miejsce: TEST - miejsce przykładowe, bez rezerwacji sali
+termin:
+  - dzien: 2026-11-19
+    godzina: 13:15
+    godzina_konca: 14:45
+    miejsce: TEST - miejsce przykładowe, bez rezerwacji sali
 tytul_en: "TEST: Open lecture: What do random matrices know about prime numbers?"
 zajawka_en: TEST - sample event, not a real announcement. Prof. Mister Test (Test University) on the surprising link between the zeros of the Riemann zeta function and eigenvalues of random matrices.
 tresc_en: |-

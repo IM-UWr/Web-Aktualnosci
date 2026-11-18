@@ -8,9 +8,11 @@ zajawka: TEST - przykładowe wydarzenie, nie jest rzeczywistą zapowiedzią. Pop
 zdjecie: /pliki/aktualnosci/test-kolo-gry-kombinatoryczne.jpg
 zdjecie_opis: Tabela dodawania w grze Nim (a XOR b); bursztynowe pola na przekątnej to pozycje przegrywające. Grafika testowa
 zdjecie_opis_en: Addition table of the game of Nim (a XOR b); the amber cells on the diagonal are losing positions. Test image
-wydarzenie_poczatek: 2026-11-09T18:15
-wydarzenie_koniec: 2026-11-09T19:45
-wydarzenie_miejsce: TEST - miejsce przykładowe, bez rezerwacji sali
+termin:
+  - dzien: 2026-11-09
+    godzina: 18:15
+    godzina_konca: 19:45
+    miejsce: TEST - miejsce przykładowe, bez rezerwacji sali
 tytul_en: "TEST: Student club meeting: combinatorial games, or why everything is Nim"
 zajawka_en: TEST - sample event, not a real announcement. A popular talk on combinatorial games and the Sprague–Grundy theorem. Free entry, no registration needed.
 tresc_en: |-
