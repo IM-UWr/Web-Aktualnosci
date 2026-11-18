@@ -8,9 +8,6 @@ tresc_en: We are pleased to announce that during the University Day
   presented with the **University Medals**, awarded by the Senate of the
   University of Wrocław in recognition of their outstanding contributions to the
   University.
-zajawka: Profesorowie **Marek Bożejko** i Tomasz Rolski odebrali Medale Uniwersytetu
-zajawka_en: Professors Marek Bożejko and Tomasz Rolski were presented with the
-  University Medals
 dla:
   - studenci
   - doktoranci
