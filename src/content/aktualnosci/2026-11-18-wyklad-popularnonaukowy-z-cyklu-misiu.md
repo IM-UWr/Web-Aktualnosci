@@ -61,6 +61,10 @@ tresc_en: >-
   There will be plenty of animations, experiments, and opportunities to test
   your own predictions. The goal is to show that even the simplest mathematics
   can hold a wealth of surprises.
+zajawka: Matematyczno-Informatyczne Spotkania na Uniwersytecie to seria wykładów
+  popularyzujących matematykę i informatykę dla uczniów szkół średnich.
+zajawka_en: Series of popular science lectures on mathematics and computer
+  science aimed at high school students.
 dla:
   - kandydaci
 zdjecie: /pliki/aktualnosci/lz80hu7371ee5e67ca0549.webp
