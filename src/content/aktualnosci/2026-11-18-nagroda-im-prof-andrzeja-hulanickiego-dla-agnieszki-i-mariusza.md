@@ -53,7 +53,7 @@ galeria:
 ---
 Nagroda im. **Andrzeja Hulanickiego przyznawana** jest młodym pracownikom naukowym Instytutu Matematycznego Uniwersytetu Wrocławskiego za wybitne osiągnięcia naukowe, dydaktyczne i organizacyjne. Upamiętnia ona profesora Andrzeja Hulanickiego, wybitnego matematyka, członka rzeczywistego PAN i twórcę wrocławskiej szkoły analizy harmonicznej.
 
-Dwie równorzędne nagrody za rok 2025 otrzymali **dr Agnieszka Hejna-Łyżwa** oraz **dr Mariusz Tobolski**. 
+Dwie równorzędne nagrody za rok 2025 otrzymali **dr Agnieszka Hejna-Łyżwa** oraz **dr Mariusz Tobolski**. .
 
 **Dr Agnieszka Hejna-Łyżwa** została wyróżniona za znaczący dorobek naukowy, wysoko ocenianą działalność dydaktyczną i popularyzatorską, pracę z uzdolnioną młodzieżą oraz zaangażowanie w organizację konferencji, inicjatyw edukacyjnych i działalność studencką. 
 
