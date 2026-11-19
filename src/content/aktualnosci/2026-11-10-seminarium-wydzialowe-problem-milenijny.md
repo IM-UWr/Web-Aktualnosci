@@ -1,6 +1,6 @@
 ---
-tytul: Seminarium wydziałowe - prof. Grzegorz Karch
-tytul_en: Faculty Seminar - prof. Grzegorz Karch
+tytul: Seminarium wydziałowe — prof. Grzegorz Karch
+tytul_en: Faculty seminar — Prof. Grzegorz Karch
 opublikowany: true
 data: 2026-11-10
 rodzaj: wydarzenie

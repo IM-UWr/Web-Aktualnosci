@@ -1,6 +1,6 @@
 ---
-tytul: Seminarium Wydziałowe - Prof. Olga Vitek
-tytul_en: Faculty Seminar - Prof. Olga Vitek
+tytul: Seminarium wydziałowe — prof. Olga Vitek
+tytul_en: Faculty seminar — Prof. Olga Vitek
 opublikowany: true
 data: 2026-06-16
 rodzaj: wydarzenie
