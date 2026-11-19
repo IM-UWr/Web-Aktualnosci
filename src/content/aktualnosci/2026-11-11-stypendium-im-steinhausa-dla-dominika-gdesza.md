@@ -18,6 +18,6 @@ dla:
 zdjecie: /pliki/aktualnosci/dominik-gdesz20262.jpeg
 zdjecie_opis: Dominik Gdesz
 ---
-Nasz doktorant mgr Dominik Gdesz został laureatem Studenckiego Programu Stypendialnego w ramach konkursu organizowanego przez Wrocławskie Centrum Akademickie. Otrzymał on Stypendium im. Hugona Steinhausa (w zakresie nauk matematycznych).
+Nasz doktorant mgr **Dominik Gdesz** został laureatem Studenckiego Programu Stypendialnego w ramach konkursu organizowanego przez Wrocławskie Centrum Akademickie. Otrzymał on **Stypendium im. Hugona Steinhausa** (w zakresie nauk matematycznych).
 
-Wyróżnienia otrzymali nasz doktorant mgr Rafał Łyżwa.
+Wyróżnienie otrzymał nasz doktorant mgr **Rafał Łyżwa**.
