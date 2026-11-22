@@ -8,7 +8,7 @@ tresc_en: |-
   Our PhD student, **Dominik Gdesz**, has been awarded a scholarship under the Student Scholarship Programme organised by the Wrocław Academic Centre. He received the **Hugo Steinhaus Scholarship** in Mathematical Sciences.
 
   Our PhD student, **Rafał Łyżwa**, also received an honourable mention.
-zajawka: "Dominik Gdesz został laureatem Studenckiego Programu Stypendialnego "
+zajawka: Dominik Gdesz został laureatem Studenckiego Programu Stypendialnego.
 zajawka_en: Dominik Gdesz has become a laureate of the Student Scholarship Programme.
 dla:
   - studenci

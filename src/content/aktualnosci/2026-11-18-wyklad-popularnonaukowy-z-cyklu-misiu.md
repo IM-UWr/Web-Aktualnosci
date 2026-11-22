@@ -1,5 +1,5 @@
 ---
-tytul: "Wykład popularnonaukowy z cyklu MISIU. "
+tytul: "Wykład popularnonaukowy z cyklu MISIU"
 tytul_en: Popular science lecture in the MISIU series
 opublikowany: true
 data: 2026-11-18
@@ -7,7 +7,7 @@ rodzaj: wydarzenie
 termin:
   - dzien: 2026-11-27
     godzina: 12:15
-    miejsce: sala 25, Instytut Informatyki Uniwersytetu Wrocławskiego
+    miejsce: sala 25, Instytut Informatyki UWr
     pozycja: false
 tresc_en: |-
   MISIU (Matematyczno-Informatyczne Spotkania na Uniwersytecie – Mathematics and Computer Science Meetings at the University) is a series of popular science lectures on mathematics and computer science aimed at secondary school students. Each event consists of two 45-minute lectures: one on mathematics and one on computer science.
@@ -41,7 +41,7 @@ dla:
   - kandydaci
 zdjecie: /pliki/aktualnosci/lz80hu7371ee5e67ca0549.webp
 ---
-MISIU (Matematyczno-Informatyczne Spotkania na Uniwersytecie) to seria wykładów popularyzujących matematykę i informatykę dla uczniów szkół średnich. Spotkanie składa się z dwóch wykładów - z matematyki oraz z informatyki. Każdy z nich trwa 45 minut. Zainteresowane szkoły zapraszamy do kontaktu: promocja [ at ] cs.uni.wroc.pl. Po ogłoszeniu terminu i tematów kolejnego spotkania opublikujemy formularz do zapisów.
+MISIU (Matematyczno-Informatyczne Spotkania na Uniwersytecie) to seria wykładów popularyzujących matematykę i informatykę dla uczniów szkół średnich. Spotkanie składa się z dwóch wykładów — z matematyki oraz z informatyki. Każdy z nich trwa 45 minut. Zainteresowane szkoły zapraszamy do kontaktu: promocja [ at ] cs.uni.wroc.pl. Po ogłoszeniu terminu i tematów kolejnego spotkania opublikujemy formularz do zapisów.
 
 ## Piotr Polesiuk
 

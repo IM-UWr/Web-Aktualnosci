@@ -7,7 +7,7 @@ rodzaj: wydarzenie
 termin:
   - dzien: 2026-11-10
     godzina: 13:00
-    miejsce: Instytut Informatyki sala 119
+    miejsce: sala 119, Instytut Informatyki UWr
     pozycja: false
 tresc_en: |-
   On behalf of the Dean of the Faculty, we cordially invite all staff members and students to the [Faculty seminar](https://wmi.uwr.edu.pl/seminarium-wydzialowe/), which will take place on Tuesday 10 November at 13:00 in room 119 of the Institute of Computer Science.
@@ -28,10 +28,10 @@ dla:
   - doktoranci
   - pracownicy
 zdjecie: /pliki/aktualnosci/wir.png
-zdjecie_opis: "OpenAI votrex "
+zdjecie_opis: OpenAI vortex
 zdjecie_opis_en: OpenAI vortex
 zalaczniki:
-  - nazwa: "Slajd z wykładu prof. Grzegorza Karch "
+  - nazwa: Slajd z wykładu prof. Grzegorza Karcha
     nazwa_en: Slides from Prof. Grzegorz Karch’s lecture (Polish)
     plik: /pliki/aktualnosci/2026navierstokeslecture.pdf
     pozycja: false
@@ -39,7 +39,7 @@ zaklad: rownania-rozniczkowe
 ---
 W imieniu Dziekana Wydziału serdecznie zapraszamy pracowników oraz studentów na seminarium wydziałowe, które odbędzie się we wtorek 10 listopada o godz. 13:00 w Instytucie Informatyki w sali 119.
 
-Prelegentem będzie **prof. Grzegorz Karch** z naszego Instytutu, która wygłosi wykład pt.
+Prelegentem będzie **prof. Grzegorz Karch** z naszego Instytutu, który wygłosi wykład pt.
 
 *Problem Milenijny i jego rozwiązanie zaproponowane przez OpenAI.*
 
