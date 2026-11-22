@@ -1,0 +1,72 @@
+name: Pliki obron w folderach ImieNazwisko
+
+# Pages CMS wgrywa pliki z formularza obrony zawsze do Media → obrony (folder pola jest stały). Ten automat przenosi je
+# do obrony/<ImieNazwisko>/ (np. obrony/MalwinaMrowinska/) i poprawia adresy we wpisie; po usunięciu obrony usuwa jej
+# folder. Skrypt i opis: .github/skrypty/obrony_foldery.py. Zapis automatu (GITHUB_TOKEN) nie uruchamia innych
+# przepływów, więc sygnał do Web-Core wysyła sam (jak powiadom.yml).
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/obrony/**'
+      - 'public/pliki/aktualnosci/obrony/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: obrony-pliki
+  cancel-in-progress: false
+
+jobs:
+  porzadek:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Pliki obron do folderów
+        id: porzadek
+        env:
+          PRZED: ${{ github.event.before }}
+        run: |
+          python3 .github/skrypty/obrony_foldery.py "$PRZED"
+          git add -A src/content/obrony public/pliki/aktualnosci/obrony
+          if git diff --cached --quiet; then
+            echo "Bez zmian."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Obrony: pliki w folderach ImieNazwisko (automat)"
+          for proba in 1 2 3; do
+            if git pull -q --rebase origin main && git push -q origin HEAD:main; then
+              echo "zapisano=tak" >> "$GITHUB_OUTPUT"
+              echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            sleep 10
+          done
+          echo "::error title=Pliki obron::Nie udało się zapisać zmian (ktoś zapisał w tym samym czasie). Uruchom przepływ ponownie."
+          exit 1
+      - name: Klucz do Web-Core
+        if: steps.porzadek.outputs.zapisano == 'tak'
+        id: klucz
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.POWIADOM_APP_ID }}
+          private-key: ${{ secrets.POWIADOM_KLUCZ }}
+          owner: IM-UWr
+          repositories: Web-Core
+      - name: Sygnał do Web-Core
+        if: steps.porzadek.outputs.zapisano == 'tak'
+        env:
+          GH_TOKEN: ${{ steps.klucz.outputs.token }}
+          SHA: ${{ steps.porzadek.outputs.sha }}
+        run: |
+          gh api repos/IM-UWr/Web-Core/dispatches -X POST \
+            -f event_type=tresc-zmieniona \
+            -F "client_payload[repo]=${GITHUB_REPOSITORY}" -F "client_payload[sha]=${SHA}"
+          echo "::notice title=Wysłano sygnał::IM-UWr/Web-Core ← ${GITHUB_REPOSITORY}"
