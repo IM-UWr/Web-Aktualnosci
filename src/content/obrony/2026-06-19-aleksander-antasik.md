@@ -3,6 +3,8 @@ kandydat: "Aleksander Antasik"
 tytul_rozprawy: "Rational approximation of surface group representations"
 termin: "2026-06-19T15:30"
 miejsce: "sala WS, Instytut Matematyczny UWr"
+promotorzy:
+  - "dr hab. Jan Dymara, prof. UWr"
 zawiadomienie: "https://im-uwr.github.io/Obrony-Archiwum/2026-06-19-aleksander-antasik/zawiadomienie_antasik.pdf"
 rozprawa: "https://im-uwr.github.io/Obrony-Archiwum/2026-06-19-aleksander-antasik/doktorat_antasik.pdf"
 streszczenie_pl: "https://im-uwr.github.io/Obrony-Archiwum/2026-06-19-aleksander-antasik/streszczenie_antasik.pdf"

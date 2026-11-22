@@ -3,6 +3,9 @@ kandydat: Malwina Mrowińska
 tytul_rozprawy: Estimation of a block-structured covariance matrix
 termin: 2026-10-27T13:15
 miejsce: sala WS, Instytut Matematyczny UWr
+promotorzy:
+  - "dr hab. Katarzyna Filipiak"
+  - "dr inż. Monika Mokrzycka (promotor pomocniczy)"
 data_ogloszenia: 2026-10-27
 w_aktualnosciach: true
 zawiadomienie: https://im-uwr.github.io/Obrony-Archiwum/2026-10-27-malwina-mrowinska/zawiadomienie_mrowinska.pdf

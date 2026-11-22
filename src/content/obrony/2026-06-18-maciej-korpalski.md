@@ -3,6 +3,8 @@ kandydat: "Maciej Korpalski"
 tytul_rozprawy: "On isomorphic and geometric properties of Banach spaces of continuous functions"
 termin: "2026-06-18T16:30"
 miejsce: "sala WS, Instytut Matematyczny UWr"
+promotorzy:
+  - "prof. dr hab. Grzegorz Plebanek"
 zawiadomienie: "https://im-uwr.github.io/Obrony-Archiwum/2026-06-18-maciej-korpalski/zawiadomienie_korpalski.pdf"
 rozprawa: "https://im-uwr.github.io/Obrony-Archiwum/2026-06-18-maciej-korpalski/doktorat_korpalski.pdf"
 streszczenie_pl: "https://im-uwr.github.io/Obrony-Archiwum/2026-06-18-maciej-korpalski/streszczenie_korpalski.pdf"
