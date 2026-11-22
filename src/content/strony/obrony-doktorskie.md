@@ -9,7 +9,7 @@ tresc_en: |-
 
   Under the Law on Higher Education and Science, the thesis with its abstract and the reviews are made available in the University of Wrocław's Public Information Bulletin (BIP) at least 30 days before the defence, and information on its date, place and format at least 10 days before it. For convenience, we also collect these materials here. Each defence page gives the date and place, the defence notice, the thesis, abstracts in Polish and English, and the reviews. You can add an upcoming defence to your own calendar; all defences also appear in the Institute calendar.
 
-  The defence is held at an open meeting, and everyone present may put questions to the candidate. We invite staff, doctoral students and students, as well as anyone interested in mathematics: it is a good opportunity to hear about new results and to support candidates on an important day for them. The procedure, including how to submit a thesis, is described in the Study section, on the page "Doctoral thesis and the conferral of the degree".
+  The defence is held at an open meeting, and everyone present may put questions to the candidate. We invite staff, doctoral students and students, as well as anyone interested in mathematics: it is a good opportunity to hear about new results and to support candidates on an important day for them. The procedure, including how to submit a thesis, is described in the Study section, on the page “Doctoral thesis and the conferral of the degree”.
 opis: 'Publiczne obrony rozpraw doktorskich z matematyki: zawiadomienia, rozprawy, streszczenia i recenzje.'
 opis_en: 'Public defences of doctoral theses in mathematics: notices, theses, abstracts and reviews.'
 haslo: Publiczne obrony rozpraw

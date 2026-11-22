@@ -10,7 +10,7 @@ zajawka_en: "From 19 October, senior students help with maths problems in room 2
 tresc_en: |
   On Monday **19 October** the **tutoring room** opens in room **202** (next to the Institute entrance from the car park). First-year students are especially welcome — senior students will help them with their mathematical problems.
 
-  The current tutors' schedule is on the [Tutoring room](/en/studia/tutornia) page.
+  The current tutors' schedule is on the [Tutoring room](/studia/tutornia) page.
 opublikowany: true
 ---
 

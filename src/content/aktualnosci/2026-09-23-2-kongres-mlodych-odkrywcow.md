@@ -13,7 +13,7 @@ termin:
     dzien_konca: "2026-09-22"
     miejsce: "Wydział Matematyki i Informatyki UWr"
 tytul_en: "2nd Congress of Young Explorers"
-zajawka_en: "Nearly 170 secondary school students attended lectures, workshops and an outdoor game."
+zajawka_en: "Nearly 170 students from almost 20 secondary schools took part in lectures, workshops and an outdoor game."
 tresc_en: |
   On **21–22 September 2026** the second [**Lower Silesian Congress of Young Explorers**](https://odkrywcy.math.uni.wroc.pl/) took place, organised by the Wrocław Mathematicians Foundation and the Faculty of Mathematics and Computer Science.
 

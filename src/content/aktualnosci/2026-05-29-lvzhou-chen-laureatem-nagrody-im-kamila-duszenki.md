@@ -16,7 +16,7 @@ tresc_en: |
 
   Chen's work is motivated by a variety of problems in geometric group theory, where he uses topological, combinatorial and dynamical approaches. He is an expert on stable commutator length and has made significant contributions to the theory of mapping class groups of infinite-genus surfaces. Together with Yash Lodha he solved Wiegold's problem through a novel and creative spectral-gap result for a variant of stable commutator length.
 
-  Chen is widely involved in mentoring undergraduate students, among others through the experimental geometry lab at Purdue, directed reading programmes and student math clubs.
+  Chen is widely involved in mentoring undergraduate students, among others through the experimental geometry lab at Purdue, directed reading programmes and student mathematics clubs.
 
   In his free time he enjoys playing games, watching films and listening to music.
 

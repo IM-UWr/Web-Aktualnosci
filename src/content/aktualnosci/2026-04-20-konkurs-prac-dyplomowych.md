@@ -26,10 +26,10 @@ tresc_en: |
 
   - **1st place** (PLN 1500): **Jakub Janeczko**, *Akcelerator graficzny fixed-pipeline oparty na FPGA* (An FPGA-based fixed-pipeline graphics accelerator), supervisor: Dr Marek Materzok
   - **2nd place** (PLN 1000):
-    - **Zuzanna Kurnicka**, *Implementacja systemu dystrybucji powiadomień na platformie MS Teams w oparciu o architekturę chmurową MS Azure* (Implementing a notification distribution system on the MS Teams platform using the MS Azure cloud architecture), supervisor: Paweł Rzechonek, MSc
-    - **Kacper Misiaszek**, *But: Infrastructure Automation for Programming Contests*, supervisor: Tomasz Wierzbicki, MSc
+    - **Zuzanna Kurnicka**, *Implementacja systemu dystrybucji powiadomień na platformie MS Teams w oparciu o architekturę chmurową MS Azure* (Implementing a notification distribution system on the MS Teams platform using the MS Azure cloud architecture), supervisor: Paweł Rzechonek
+    - **Kacper Misiaszek**, *But: Infrastructure Automation for Programming Contests*, supervisor: Tomasz Wierzbicki
   - **3rd place** (PLN 500):
-    - **Agnieszka Grala**, *Self-Supervised Learning in Deep Switching Kalman Filters*, supervisors: Dr hab. Piotr Wnuk-Lipiński, Mikołaj Słupiński, MSc
+    - **Agnieszka Grala**, *Self-Supervised Learning in Deep Switching Kalman Filters*, supervisors: Dr hab. Piotr Wnuk-Lipiński, Mikołaj Słupiński
     - **Michał Siwiec**, *Maszyna do rozwiązywania Sudoku* (A Sudoku-solving machine), supervisor: Prof. Krzysztof Loryś
     - **Wiktor Zoga**, *Generations in self-similar fragmentation of positive index*, supervisor: Dr Piotr Dyszewski
 

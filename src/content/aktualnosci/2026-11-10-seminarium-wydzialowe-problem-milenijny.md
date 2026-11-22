@@ -9,32 +9,18 @@ termin:
     godzina: 13:00
     miejsce: Instytut Informatyki sala 119
     pozycja: false
-tresc_en: >-
-  On behalf of the Dean of the Faculty, we cordially invite all staff members
-  and students to the [Faculty
-  Seminar](https://wmi.uwr.edu.pl/seminarium-wydzialowe/), which will take place
-  on **Tuesday, November 10, at 1:00 p.m.** in **Room 119** of the Institute of
-  Computer Science.
+tresc_en: |-
+  On behalf of the Dean of the Faculty, we cordially invite all staff members and students to the [Faculty seminar](https://wmi.uwr.edu.pl/seminarium-wydzialowe/), which will take place on Tuesday 10 November at 13:00 in room 119 of the Institute of Computer Science.
 
+  The speaker will be **Prof. Grzegorz Karch** from our Institute, who will give a lecture entitled
 
-  The speaker will be **Professor Grzegorz Karch** from our Institute, who will
-  give a lecture entitled
+  *Problem Milenijny i jego rozwiązanie zaproponowane przez OpenAI* (The Millennium Prize Problem and its solution proposed by OpenAI).
 
-
-  *"The Millennium Prize Problem and Its Proposed Solution by OpenAI."*
-
-
-  As usual, the Dean invites everyone for coffee and cake at **12:30 p.m.**,
-  just before the seminar, in the lobby outside Room 119.
-
+  As usual, the Dean invites everyone for coffee and cake at 12:30, just before the seminar, in the lobby outside room 119.
 
   **Abstract:**
 
-
-  The lecture will discuss one of the Millennium Prize Problems, concerning the
-  Navier–Stokes equations. We will then explain whether the work produced by
-  OpenAI actually solves this problem. The lecture will be accessible to anyone
-  familiar with the basics of multivariable calculus.
+  The lecture will discuss one of the Millennium Prize Problems, concerning the Navier–Stokes equations. We will then explain whether the work produced by OpenAI actually solves this problem. The lecture will be accessible to anyone familiar with the basics of multivariable calculus.
 zajawka: Problem Milenijny i jego rozwiązanie zaproponowane przez OpenAI
 zajawka_en: The Millennium Prize Problem and OpenAI’s Proposed Solution
 dla:
@@ -43,10 +29,10 @@ dla:
   - pracownicy
 zdjecie: /pliki/aktualnosci/wir.png
 zdjecie_opis: "OpenAI votrex "
-zdjecie_opis_en: Grzegorz Karch
+zdjecie_opis_en: OpenAI vortex
 zalaczniki:
   - nazwa: "Slajd z wykładu prof. Grzegorza Karch "
-    nazwa_en: Slides from Professor Grzegorz Karch’s lecture
+    nazwa_en: Slides from Prof. Grzegorz Karch’s lecture (Polish)
     plik: /pliki/aktualnosci/2026navierstokeslecture.pdf
     pozycja: false
 zaklad: rownania-rozniczkowe

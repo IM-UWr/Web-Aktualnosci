@@ -17,15 +17,19 @@ zdjecie: /pliki/aktualnosci/uwr.png
 galeria:
   - plik: /pliki/aktualnosci/mb.jpeg
     podpis: J.M. Rektor i prof. Marek Bożejko
+    podpis_en: The Rector and Prof. Marek Bożejko
     pozycja: false
   - plik: /pliki/aktualnosci/tr.jpeg
     podpis: J.M. Rektor i prof. Tomasz Rolski
+    podpis_en: The Rector and Prof. Tomasz Rolski
     pozycja: false
 zalaczniki:
   - nazwa: Nota biograficzna prof. Marka Bożejki
+    nazwa_en: Biographical note on Prof. Marek Bożejko (Polish)
     plik: /pliki/aktualnosci/marekbozejkonotabiograficzna.pdf
     pozycja: false
   - nazwa: Nota biograficzna prof. Tomasza Rolskiego
+    nazwa_en: Biographical note on Prof. Tomasz Rolski (Polish)
     plik: /pliki/aktualnosci/tomaszrolskinotabiograficzna.pdf
     pozycja: false
 ---

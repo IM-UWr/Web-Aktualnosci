@@ -28,16 +28,16 @@ tresc_en: |
 
   ## Part I: Monday 22 June, 11:00, room 602
 
-  - Dr Michał Kos (IM UWr) — *FDR Control via Sorted L-One Penalized Estimator (SLOPE) Method*
-  - Prof. Małgorzata Bogdan (IM UWr) — *From Structured Sparsity to Causal Effects: GSLOPE, PCGLASSO, and SLOPE-Based Doubly Robust Inference*
-  - Krystyna Grzesiak (IM UWr) — *Evaluating Imputation Methods*
+  - Dr Michał Kos (Mathematical Institute, UWr) — *FDR Control via Sorted L-One Penalized Estimator (SLOPE) Method*
+  - Prof. Małgorzata Bogdan (Mathematical Institute, UWr) — *From Structured Sparsity to Causal Effects: GSLOPE, PCGLASSO, and SLOPE-Based Doubly Robust Inference*
+  - Krystyna Grzesiak (Mathematical Institute, UWr) — *Evaluating Imputation Methods*
   - Dominik Nowakowski (Medical University of Białystok) — *missKnockoffs: A Model-X Knockoff Framework for Variable Selection with Missing Data*
 
   ## Part II: Wednesday 24 June, 11:00, room 605
 
-  - Joanna Pokora (IM UWr) — *Adaptive Bayesian SLOPE*
+  - Joanna Pokora (Mathematical Institute, UWr) — *Adaptive Bayesian SLOPE*
   - Maria Bochenek (MIM UW) — *Network flow methods for alignment and deconvolution of multidimensional spectra*
-  - Dr Mateusz Staniak (IM UWr) — *Modeling Hydrogen-Deuterium Exchange Mass Spectrometry data via convolutions of exchange probabilities*
+  - Dr Mateusz Staniak (Mathematical Institute, UWr) — *Modeling Hydrogen-Deuterium Exchange Mass Spectrometry data via convolutions of exchange probabilities*
   - Dr Michał Tracz (Faculty of Biotechnology, UWr) — *Challenges of AP-MS data interpretation in biological relevance driven studies*
   - Dr Vanessa Linke (International Institute of Molecular and Cell Biology) — *What Counts as Significant? Lessons from Applied Proteomics*
 

@@ -176,6 +176,9 @@ content:
     - name: podpis
       label: Podpis
       type: string
+    - name: podpis_en
+      label: Podpis EN
+      type: string
     - name: pozycja
       type: boolean
       hidden: true

@@ -20,9 +20,9 @@ tresc_en: |
 
   The aim of the school is to show students diverse and rapidly developing mathematics before they enter a narrow specialisation. It is intended mainly for final-year bachelor's and master's students, but PhD students are very welcome. The school is hybrid — remote streaming allows lecturers and students from abroad to take part, so the lectures will be in English.
 
-  The lectures should be accessible to students who have completed the basic courses in analysis, algebra, linear algebra, topology, differential equations, probability, complex functions and functional analysis.
+  The lectures should be accessible to students who have completed the basic courses in analysis, algebra, linear algebra, topology, differential equations, probability, complex functions and functional analysis. We expect each of the invited lecturers to try to bring their field of research closer to students who have completed only the basic courses.
 
-  To take part, register using the [registration form](https://sites.google.com/impan.pl/26babysteps/registration?authuser=0), choosing on-site or online participation:
+  We encourage students to take part in the school. To register, use the [registration form](https://sites.google.com/impan.pl/26babysteps/registration?authuser=0), choosing on-site or online participation:
 
   - on-site participants: registration until 31 July 2026,
   - online participants: registration until 26 August 2026.
