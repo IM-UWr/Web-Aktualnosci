@@ -123,12 +123,12 @@ content:
       hidden: true
   - name: body
     label: Treść
-    description: "Zwykły Markdown: akapity oddziela pusta linia; **pogrubienie**, *kursywa*, [tekst linku](https://…); lista: „- ” na początku linii; ## = nagłówek sekcji. Plik PDF: wgraj w jeden z folderów „Media: …” i wklej link w postaci /pliki/aktualnosci/nazwa-pliku.pdf. Po wgraniu sprawdź nazwę w Media: gdy plik o tej nazwie już jest, CMS dopisze -1. Komentarze <!-- … --> to podpowiedzi; na stronie ich nie widać."
+    description: "Zwykły Markdown: akapity oddziela pusta linia; **pogrubienie**, *kursywa*, [tekst linku](https://…); lista: „- ” na początku linii; ## = nagłówek sekcji. Plik PDF: wgraj w „Media: aktualności” i w linku wpisz samą nazwę pliku: [tekst](nazwa.pdf) (z „Media: obrony doktorskie”: obrony/nazwa.pdf); plik z innego repozytorium: [tekst](Web-Nauka/nazwa.pdf). Po wgraniu sprawdź nazwę w Media: gdy taka już jest, CMS dopisze -1. Komentarze <!-- … --> to podpowiedzi; na stronie ich nie widać."
     type: code
     options:
       format: markdown
     default: |-
-      <!-- TEKST: Zwykły tekst. Akapity oddziela pusta linia. Pliki: wgraj w jeden z folderów „Media: …” i wklej link w postaci /pliki/aktualnosci/nazwa-pliku.pdf. Po wgraniu sprawdź nazwę w Media: gdy plik o tej nazwie już jest, CMS dopisze -1. -->
+      <!-- TEKST: Zwykły tekst. Akapity oddziela pusta linia. Pliki: wgraj w „Media: aktualności” i w linku wpisz samą nazwę pliku: [tekst](nazwa.pdf) (z „Media: obrony doktorskie”: obrony/nazwa.pdf); plik z innego repozytorium: [tekst](Web-Nauka/nazwa.pdf). Po wgraniu sprawdź nazwę w Media: gdy taka już jest, CMS dopisze -1. -->
       <!-- Rejestracja, program, plakat: wstaw link w osobnej linii. -->
   - name: tresc_en
     label: Treść EN
@@ -284,7 +284,7 @@ content:
     default: sala WS, Instytut Matematyczny UWr
   - name: body
     label: Opis (opcjonalnie; puste = zaproszenie, a po terminie informacja o odbytej obronie, złożone z danych. Wpisany tekst nie zmieni się sam po terminie)
-    description: "Zwykły Markdown: akapity oddziela pusta linia; **pogrubienie**, *kursywa*, [tekst linku](https://…); lista: „- ” na początku linii; ## = nagłówek sekcji. Plik PDF: wgraj w jeden z folderów „Media: …” i wklej link w postaci /pliki/aktualnosci/nazwa-pliku.pdf. Po wgraniu sprawdź nazwę w Media: gdy plik o tej nazwie już jest, CMS dopisze -1. Komentarze <!-- … --> to podpowiedzi; na stronie ich nie widać. Pusta Treść (albo sam komentarz) = zaproszenie złożone z danych."
+    description: "Zwykły Markdown: akapity oddziela pusta linia; **pogrubienie**, *kursywa*, [tekst linku](https://…); lista: „- ” na początku linii; ## = nagłówek sekcji. Plik PDF: wgraj w „Media: aktualności” i w linku wpisz samą nazwę pliku: [tekst](nazwa.pdf) (z „Media: obrony doktorskie”: obrony/nazwa.pdf); plik z innego repozytorium: [tekst](Web-Nauka/nazwa.pdf). Po wgraniu sprawdź nazwę w Media: gdy taka już jest, CMS dopisze -1. Komentarze <!-- … --> to podpowiedzi; na stronie ich nie widać. Pusta Treść (albo sam komentarz) = zaproszenie złożone z danych."
     type: code
     options:
       format: markdown
@@ -408,10 +408,10 @@ content:
     options:
       format: markdown
     description: |-
-      Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze <!-- … --> objaśniają bloki; na stronie ich nie widać. Zachowaj pasujące końcowe dwukropki. Plik PDF: wgraj w jeden z folderów „Media: …” i wklej link w postaci /pliki/aktualnosci/nazwa-pliku.pdf. Po wgraniu sprawdź nazwę w Media: gdy plik o tej nazwie już jest, CMS dopisze -1. Wygląd sprawdzaj po przebudowaniu strony (Podgląd). Strona z listą (Aktualności, Kariera, Obrony doktorskie): tekst stoi nad listą; pusta Treść (albo sam komentarz) = sama lista.
+      Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze <!-- … --> objaśniają bloki; na stronie ich nie widać. Zachowaj pasujące końcowe dwukropki. Plik PDF: wgraj w „Media: aktualności” i w linku wpisz samą nazwę pliku: [tekst](nazwa.pdf) (z „Media: obrony doktorskie”: obrony/nazwa.pdf); plik z innego repozytorium: [tekst](Web-Nauka/nazwa.pdf). Po wgraniu sprawdź nazwę w Media: gdy taka już jest, CMS dopisze -1. Wygląd sprawdzaj po przebudowaniu strony (Podgląd). Strona z listą (Aktualności, Kariera, Obrony doktorskie): tekst stoi nad listą; pusta Treść (albo sam komentarz) = sama lista.
   - name: tresc_en
     label: Treść EN
-    description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze <!-- … --> objaśniają bloki; na stronie ich nie widać. Zachowaj pasujące końcowe dwukropki. Plik PDF: wgraj w jeden z folderów „Media: …” i wklej link w postaci /pliki/aktualnosci/nazwa-pliku.pdf. Po wgraniu sprawdź nazwę w Media: gdy plik o tej nazwie już jest, CMS dopisze -1. Wygląd sprawdzaj po przebudowaniu strony (Podgląd). Puste = strona angielska pokaże treść polską."
+    description: "Jawny Markdown: ## rozpoczyna sekcję i pozycję spisu; {#id} zachowuje adres sekcji. Zwykły tekst jest prozą domyślnie; nie wymaga otaczających znaczników. Specjalne układy wymagają znaczników, np. :::kafelki, :::etapy, :::zakladki. Komentarze <!-- … --> objaśniają bloki; na stronie ich nie widać. Zachowaj pasujące końcowe dwukropki. Plik PDF: wgraj w „Media: aktualności” i w linku wpisz samą nazwę pliku: [tekst](nazwa.pdf) (z „Media: obrony doktorskie”: obrony/nazwa.pdf); plik z innego repozytorium: [tekst](Web-Nauka/nazwa.pdf). Po wgraniu sprawdź nazwę w Media: gdy taka już jest, CMS dopisze -1. Wygląd sprawdzaj po przebudowaniu strony (Podgląd). Puste = strona angielska pokaże treść polską."
     type: code
     options:
       format: markdown
